@@ -16,7 +16,7 @@ import json
 
 def filter( line ):
 
-    line = re.sub( '\s+', ' ', line)
+    line = re.sub( '\s+', ' ', line )
 
     if ( re.match( '.*Stand: ', line ) ):
         return ""
@@ -28,10 +28,17 @@ def filter( line ):
         return ""
     if ( re.match( '.*Tatbestandstext.*FaP-Pkt.*Euro.*FV', line ) ):
         return ""
-    if ( re.match( '.*\*\) Zutreffendes angeben', line ) ):
+    if ( re.match( '.*\*\).*(Änderung an|Vorschrifts|Zutreffend|nicht ordnungsgem|näher erläutern)', line, flags=re.IGNORECASE ) ):
         return ""
 
     return line
+
+
+def clean( line ):
+    line = re.sub( ' \*\*\*\)', '', line.strip() )
+    line = re.sub( ' \*\*\)', '', line )
+    line = re.sub( ' \*\)', '', line )
+    return re.sub( ' \+\)', '', line ).strip()
 
 
 def setheader( header ):
@@ -149,7 +156,7 @@ def main():
             aggregate = True
 
             tbnr = res.group(1)
-            buf = res.group(2).strip()
+            buf = clean( res.group(2) )
             punkte = res.group(3)
             euro = res.group(4)
             fahrverbot = res.group(5)
@@ -166,7 +173,7 @@ def main():
                 aggregate = True
 
                 tbnr = res.group(1)
-                buf = res.group(2).strip()
+                buf = clean( res.group(2) )
                 punkte = res.group(3)
                 euro = res.group(4)
                 fahrverbot = None
@@ -184,10 +191,14 @@ def main():
                                 # buf = buf + " " + filter( line ).strip()
                                 legal = legal + " " + filter( line ).strip()
                         else:
-                            if ( buf[-1] != "-" ):
-                                buf = buf + " "+filter( line ).strip()
+                            if ( buf[-1] == "-" ):
+                                buf = buf[:-1] + clean( filter( line ) )
+                            elif ( buf[-1] == "/" ):
+                                buf = buf + clean( filter( line ) )
                             else:
-                                buf = buf[:-1] + filter( line ).strip()
+                                buf = buf + " " + clean( filter( line ) )
+
+
     flush_buffer()
 
     with open( 'bkat.json', 'w' ) as outfile:
