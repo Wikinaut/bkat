@@ -548,7 +548,7 @@ TBNR 103718 140,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103719 200,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103720 280,00 € P:A-2 FV:2 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -572,7 +572,7 @@ TBNR 103727 70,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit in mehr als 2 Fällen nach Fahrtantritt (bis 15 km/h) bis zu ... km/h. Zulässige Geschwindigkeit:... km/h.
 
 TBNR 103728 70,00 € P:A-1
-Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. und 103728
+Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103729 80,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -596,7 +596,7 @@ TBNR 103190 35,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103737 60,00 € P:A-1
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103740 160,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -614,7 +614,7 @@ TBNR 103744 480,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103745 600,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103746 760,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -665,7 +665,7 @@ TBNR 103762 80,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103763 100,00 € P:A-1
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103764 160,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -692,7 +692,7 @@ TBNR 103210 30,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103774 70,00 € P:A-1
-Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103775 80,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -710,7 +710,7 @@ TBNR 103779 440,00 € P:A-2 FV:2 M
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 103780 600,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 70) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 70) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 ------ Geschwindigkeit - § 3 Abs. 4 StVO
 
@@ -2372,7 +2372,7 @@ TBNR 118634 95,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 118635 160,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 118636 240,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -2396,7 +2396,7 @@ TBNR 118643 120,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften in mehr als 2 Fällen nach Fahrtantritt (bis 15 km/h) bis zu ... km/h. Zulässige Geschwindigkeit:... km/h.
 
 TBNR 118644 120,00 € P:A-1
-Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 118645 160,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -2414,7 +2414,7 @@ TBNR 118649 560,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 118650 680,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 60) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 60) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 ------ Autobahnen und Kraftfahrstraßen - § 18 Abs. 7 StVO
 
@@ -2587,172 +2587,172 @@ TBNR 120613 70,00 € P:A-1
 Sie fuhren bei an einer Haltestelle haltendem Omnibus des Linienverkehrs/haltender Straßenbahn/haltendem gekennzeichneten Schulbus mit ein- oder aussteigenden Fahrgästen rechts vorbei, obwohl Sie hätten warten müssen, und gefährdeten dadurch Fahrgäste.
 
 TBNR 120106 20,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120107 30,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120618 80,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120619 95,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120620 140,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120621 200,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120622 280,00 € P:A-2 FV:2 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120623 480,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120624 680,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120112 15,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120113 25,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120630 70,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120631 80,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120632 95,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120633 160,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120634 240,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120635 440,00 € P:A-2 FV:2 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120636 600,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120118 35,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120641 60,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120642 160,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120643 200,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120644 280,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120645 360,00 € P:A-2 FV:2 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120646 480,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120647 600,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120648 760,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120124 30,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120125 35,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120654 120,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120655 160,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120656 240,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120657 320,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120658 400,00 € P:A-2 FV:2 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120659 560,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120660 680,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120130 15,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120131 25,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120132 35,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120666 80,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120667 100,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120668 160,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120669 200,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120670 280,00 € P:A-2 FV:2 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120671 480,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120672 680,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120136 10,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120137 20,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120138 30,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120678 70,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120679 80,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120680 120,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120681 160,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120682 240,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120683 440,00 € P:A-2 FV:2 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120684 600,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Straßenbahn/gekennzeichneten Schulbus. Zulässige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 ------ Öffentliche Verkehrsmittel und Schulbusse - § 20 Abs. 3, 4 StVO
 
@@ -2822,7 +2822,7 @@ TBNR 120771 200,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120772 280,00 € P:A-2 FV:2 M
-Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120773 480,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -2843,7 +2843,7 @@ TBNR 120779 80,00 € P:A-1
 Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120780 95,00 € P:A-1
-Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120781 160,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -2864,7 +2864,7 @@ TBNR 120789 60,00 € P:A-1
 Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120790 160,00 € P:A-1
-Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120791 200,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -2885,7 +2885,7 @@ TBNR 120796 760,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120172 30,00 €
-Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120173 35,00 €
 Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -2906,7 +2906,7 @@ TBNR 120806 400,00 € P:A-2 FV:2 M
 Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120807 560,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120808 680,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 60) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -2927,7 +2927,7 @@ TBNR 120815 100,00 € P:A-1
 Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120816 160,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120817 200,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -2948,7 +2948,7 @@ TBNR 120185 20,00 €
 Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120186 30,00 €
-Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120826 70,00 € P:A-1
 Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -2969,7 +2969,7 @@ TBNR 120831 440,00 € P:A-2 FV:2 M
 Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 120832 600,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 70) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 70) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 ------ Öffentliche Verkehrsmittel und Schulbusse - § 20 Abs. 5 StVO
 
@@ -3602,13 +3602,13 @@ TBNR 141042 15,00 €
 Sie parkten auf einem Gehweg, der durch Parkflächenmarkierung zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat.
 
 TBNR 141043 25,00 €
-Sie parkten auf einem Gehweg, der durch Parkflächenmarkierung zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat, und behinderten dadurch Andere. -- BKat; § 19 OWiG
+Sie parkten auf einem Gehweg, der durch Parkflächenmarkierung zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat, und behinderten dadurch Andere.
 
 TBNR 141044 25,00 €
 Sie parkten länger als 1 Stunde auf einem Gehweg, der durch Parkflächenmarkierung zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat.
 
 TBNR 141045 35,00 €
-Sie parkten länger als 1 Stunde auf einem Gehweg, der durch Parkflächenmarkierung zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat, und behinderten dadurch Andere. -- BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde auf einem Gehweg, der durch Parkflächenmarkierung zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat, und behinderten dadurch Andere.
 
 TBNR 141290 10,00 €
 Sie hielten auf einem Fußgängerüberweg.
@@ -3668,13 +3668,13 @@ TBNR 141050 10,00 €
 Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen).
 
 TBNR 141051 15,00 €
-Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen) und behinderten dadurch ein Rettungsfahrzeug im Einsatz. -- BKat; § 19 OWiG
+Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen) und behinderten dadurch ein Rettungsfahrzeug im Einsatz.
 
 TBNR 141056 35,00 €
 Sie parkten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen).
 
 TBNR 141518 65,00 €
-Sie parkten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen) und behinderten dadurch ein Rettungsfahrzeug im Einsatz. -- BKat; § 19 OWiG
+Sie parkten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen) und behinderten dadurch ein Rettungsfahrzeug im Einsatz.
 
 TBNR 141322 15,00 €
 Sie parkten unzulässig im eingeschränkten Haltverbot (Zeichen 286).
@@ -3850,7 +3850,7 @@ TBNR 141000 10,00 €
 Sie hielten auf einem Radweg (Zeichen 237).
 
 TBNR 141001 15,00 €
-Sie hielten auf einem Radweg (Zeichen 237) und behinderten dadurch Andere. -- BKat; § 19 OWiG
+Sie hielten auf einem Radweg (Zeichen 237) und behinderten dadurch Andere.
 
 TBNR 141100 20,00 €
 Sie parkten auf einem Radweg (Zeichen 237).
@@ -3877,7 +3877,7 @@ TBNR 141003 10,00 €
 Sie hielten auf einem Geh- und Radweg (Zeichen 240/ 241*)).
 
 TBNR 141004 15,00 €
-Sie hielten auf einem Geh- und Radweg (Zeichen 240/ 241*)). und behinderten dadurch Andere. -- BKat; § 19 OWiG
+Sie hielten auf einem Geh- und Radweg (Zeichen 240/ 241*)). und behinderten dadurch Andere.
 
 TBNR 141112 20,00 €
 Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)).
@@ -3907,25 +3907,25 @@ TBNR 141020 10,00 €
 Sie hielten auf einer Fahrradstraße (Zeichen 244.1, 244.2).
 
 TBNR 141021 15,00 €
-Sie hielten auf einer Fahrradstraße (Zeichen 244.1, 244.2) und behinderten dadurch Andere. -- BKat; § 19 OWiG
+Sie hielten auf einer Fahrradstraße (Zeichen 244.1, 244.2) und behinderten dadurch Andere.
 
 TBNR 141022 15,00 €
 Sie parkten auf einer Fahrradstraße (Zeichen 244.1, 244.2).
 
 TBNR 141023 25,00 €
-Sie parkten auf einer Fahrradstraße (Zeichen 244.1, 244.2) und behinderten dadurch Andere. -- BKat; § 19 OWiG
+Sie parkten auf einer Fahrradstraße (Zeichen 244.1, 244.2) und behinderten dadurch Andere.
 
 TBNR 141024 25,00 €
 Sie parkten länger als 1 Stunde auf einer Fahrradstraße (Zeichen 244.1, 244.2).
 
 TBNR 141025 35,00 €
-Sie parkten länger als 1 Stunde auf einer Fahrradstraße (Zeichen 244.1, 244.2) und behinderten dadurch Andere. -- BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde auf einer Fahrradstraße (Zeichen 244.1, 244.2) und behinderten dadurch Andere.
 
 TBNR 141030 10,00 €
 Sie hielten auf einem Reitweg (Zeichen 238).
 
 TBNR 141031 15,00 €
-Sie hielten auf einem Reitweg (Zeichen 238) und behinderten dadurch Andere. -- BKat; § 19 OWiG
+Sie hielten auf einem Reitweg (Zeichen 238) und behinderten dadurch Andere.
 
 TBNR 141442 15,00 €
 Sie parkten auf einem Reitweg (Zeichen 238).
@@ -4077,7 +4077,7 @@ TBNR 141184 25,00 €
 Sie beachteten als Kraftfahrzeugführer nicht das bestehende Verbot der Einfahrt (Zeichen 267).
 
 TBNR 141010 35,00 €
-Sie beachteten als Kraftfahrzeugführer nicht das bestehende Verbot der Einfahrt (Zeichen 267). Es kam zum Unfall. -- BKat; § 19 OWiG
+Sie beachteten als Kraftfahrzeugführer nicht das bestehende Verbot der Einfahrt (Zeichen 267). Es kam zum Unfall.
 
 TBNR 141187 20,00 €
 Sie beachteten als Radfahrer nicht das bestehende Verbot der Einfahrt (Zeichen 267).
@@ -4194,7 +4194,7 @@ TBNR 141639 200,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141640 280,00 € P:A-2 FV:2 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141641 480,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4215,7 +4215,7 @@ TBNR 141646 200,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141647 280,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141648 360,00 € P:A-2 FV:2 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4236,7 +4236,7 @@ TBNR 141219 25,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141220 35,00 €
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141654 80,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4257,7 +4257,7 @@ TBNR 141659 480,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141660 680,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 70) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 70) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141224 20,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4275,7 +4275,7 @@ TBNR 141667 140,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141668 200,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141669 280,00 € P:A-2 FV:2 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h
@@ -4293,7 +4293,7 @@ TBNR 141228 25,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141677 70,00 € P:A-1
-Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141678 80,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4317,7 +4317,7 @@ TBNR 141230 35,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141686 60,00 € P:A-1
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141689 160,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4335,7 +4335,7 @@ TBNR 141693 480,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141694 600,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141695 760,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4353,7 +4353,7 @@ TBNR 141703 160,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141704 240,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141705 320,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4377,7 +4377,7 @@ TBNR 141238 35,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141712 80,00 € P:A-1
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141713 100,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4401,7 +4401,7 @@ TBNR 141239 10,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141240 20,00 €
-Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141241 30,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4425,7 +4425,7 @@ TBNR 141726 440,00 € P:A-2 FV:2 M
 Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 141727 600,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 70) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 70) km/h. Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 ------ Vorschriftzeichen - § 41 Abs. 1 iVm Anlage 2 StVO (Parken)
 
@@ -4504,16 +4504,16 @@ TBNR 141284 35,00 €
 Sie benutzten beim Wenden die Sperrfläche (Zeichen 298) und gefährdeten dadurch Andere.
 
 TBNR 141500 40,00 €
-Sie fuhren beim Linksabbiegen verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall. -- BKat; § 19 OWiG
+Sie fuhren beim Linksabbiegen verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall.
 
 TBNR 141503 40,00 €
-Sie folgten beim Linksabbiegen nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. -- BKat; § 19 OWiG
+Sie folgten beim Linksabbiegen nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall.
 
 TBNR 141506 40,00 €
-Sie benutzten beim Linksabbiegen die Sperrfläche (Zeichen 298). Es kam zum Unfall. -- BKat; § 19 OWiG
+Sie benutzten beim Linksabbiegen die Sperrfläche (Zeichen 298). Es kam zum Unfall.
 
 TBNR 141515 40,00 €
-Sie benutzten beim Wenden die Sperrfläche (Zeichen 298). Es kam zum Unfall. -- BKat; § 19 OWiG
+Sie benutzten beim Wenden die Sperrfläche (Zeichen 298). Es kam zum Unfall.
 
 ------ Richtzeichen - § 42 Abs. 2 iVm Anlage 3 StVO
 
@@ -4674,7 +4674,7 @@ TBNR 142609 200,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142610 280,00 € P:A-2 FV:2 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142611 480,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4695,7 +4695,7 @@ TBNR 142619 200,00 € P:A-2 FV:1 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142620 280,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142621 360,00 € P:A-2 FV:2 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4716,7 +4716,7 @@ TBNR 142131 25,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142132 35,00 €
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142630 80,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4737,7 +4737,7 @@ TBNR 142635 480,00 € P:A-2 FV:3 M
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142636 680,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 70) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 70) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142148 10,00 €
 Sie benutzten in einem Tunnel (Zeichen 327) nicht das Abblendlicht.

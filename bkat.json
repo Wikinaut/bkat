@@ -1595,7 +1595,7 @@
         },
         {
             "tbnr": "103719",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "200,00",
             "legal": "\u00a7 3 Abs. 3, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.7 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -1667,7 +1667,7 @@
         },
         {
             "tbnr": "103728",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. und 103728",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "70,00",
             "legal": "\u00a7 3 Abs. 3, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.4 BKat",
             "p": "A-1",
@@ -1739,7 +1739,7 @@
         },
         {
             "tbnr": "103737",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "60,00",
             "legal": "\u00a7 3 Abs. 3, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.2 BKat",
             "p": "A-1",
@@ -1793,7 +1793,7 @@
         },
         {
             "tbnr": "103745",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "600,00",
             "legal": "\u00a7 3 Abs. 3, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.9 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -1946,7 +1946,7 @@
         },
         {
             "tbnr": "103763",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "100,00",
             "legal": "\u00a7 3 Abs. 3, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.5 BKat",
             "p": "A-1",
@@ -2027,7 +2027,7 @@
         },
         {
             "tbnr": "103774",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "70,00",
             "legal": "\u00a7 3 Abs. 3, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.4 BKat",
             "p": "A-1",
@@ -2081,7 +2081,7 @@
         },
         {
             "tbnr": "103780",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "600,00",
             "legal": "\u00a7 3 Abs. 3, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.10 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -6851,7 +6851,7 @@
         },
         {
             "tbnr": "118635",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "160,00",
             "legal": "\u00a7 18 Abs. 5, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.7 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -6923,7 +6923,7 @@
         },
         {
             "tbnr": "118644",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "120,00",
             "legal": "\u00a7 18 Abs. 5, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.4 BKat",
             "p": "A-1",
@@ -6977,7 +6977,7 @@
         },
         {
             "tbnr": "118650",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 60) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 60) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "680,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7472,7 +7472,7 @@
         },
         {
             "tbnr": "120106",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "20,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.1 BKat",
             "p": "",
@@ -7481,7 +7481,7 @@
         },
         {
             "tbnr": "120107",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "30,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.2 BKat",
             "p": "",
@@ -7490,7 +7490,7 @@
         },
         {
             "tbnr": "120618",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "80,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.4 BKat",
             "p": "A-1",
@@ -7499,7 +7499,7 @@
         },
         {
             "tbnr": "120619",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "95,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.5 BKat",
             "p": "A-1",
@@ -7508,7 +7508,7 @@
         },
         {
             "tbnr": "120620",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "140,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.6 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7517,7 +7517,7 @@
         },
         {
             "tbnr": "120621",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "200,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.7 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7526,7 +7526,7 @@
         },
         {
             "tbnr": "120622",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "280,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.8 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7535,7 +7535,7 @@
         },
         {
             "tbnr": "120623",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "480,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.9 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7544,7 +7544,7 @@
         },
         {
             "tbnr": "120624",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (\u00fcber 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (\u00fcber 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "680,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7553,7 +7553,7 @@
         },
         {
             "tbnr": "120112",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "15,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.1 BKat",
             "p": "",
@@ -7562,7 +7562,7 @@
         },
         {
             "tbnr": "120113",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "25,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.2 BKat",
             "p": "",
@@ -7571,7 +7571,7 @@
         },
         {
             "tbnr": "120630",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "70,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.4 BKat",
             "p": "A-1",
@@ -7580,7 +7580,7 @@
         },
         {
             "tbnr": "120631",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "80,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.5 BKat",
             "p": "A-1",
@@ -7589,7 +7589,7 @@
         },
         {
             "tbnr": "120632",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "95,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.6 BKat",
             "p": "A-1",
@@ -7598,7 +7598,7 @@
         },
         {
             "tbnr": "120633",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "160,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.7 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7607,7 +7607,7 @@
         },
         {
             "tbnr": "120634",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "240,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.8 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7616,7 +7616,7 @@
         },
         {
             "tbnr": "120635",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "440,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.9 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7625,7 +7625,7 @@
         },
         {
             "tbnr": "120636",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "600,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7634,7 +7634,7 @@
         },
         {
             "tbnr": "120118",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "35,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.1 BKat",
             "p": "",
@@ -7643,7 +7643,7 @@
         },
         {
             "tbnr": "120641",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "60,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.2 BKat",
             "p": "A-1",
@@ -7652,7 +7652,7 @@
         },
         {
             "tbnr": "120642",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "160,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.4 BKat",
             "p": "A-1",
@@ -7661,7 +7661,7 @@
         },
         {
             "tbnr": "120643",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "200,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.5 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7670,7 +7670,7 @@
         },
         {
             "tbnr": "120644",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "280,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.6 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7679,7 +7679,7 @@
         },
         {
             "tbnr": "120645",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "360,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.7 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7688,7 +7688,7 @@
         },
         {
             "tbnr": "120646",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "480,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.8 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7697,7 +7697,7 @@
         },
         {
             "tbnr": "120647",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "600,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.9 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7706,7 +7706,7 @@
         },
         {
             "tbnr": "120648",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (\u00fcber 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (\u00fcber 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "760,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7715,7 +7715,7 @@
         },
         {
             "tbnr": "120124",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "30,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.1 BKat",
             "p": "",
@@ -7724,7 +7724,7 @@
         },
         {
             "tbnr": "120125",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "35,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.2 BKat",
             "p": "",
@@ -7733,7 +7733,7 @@
         },
         {
             "tbnr": "120654",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "120,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.4 BKat",
             "p": "A-1",
@@ -7742,7 +7742,7 @@
         },
         {
             "tbnr": "120655",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "160,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.5 BKat",
             "p": "A-1",
@@ -7751,7 +7751,7 @@
         },
         {
             "tbnr": "120656",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "240,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.6 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7760,7 +7760,7 @@
         },
         {
             "tbnr": "120657",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "320,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.7 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7769,7 +7769,7 @@
         },
         {
             "tbnr": "120658",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "400,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.8 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7778,7 +7778,7 @@
         },
         {
             "tbnr": "120659",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "560,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.9 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7787,7 +7787,7 @@
         },
         {
             "tbnr": "120660",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "680,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7796,7 +7796,7 @@
         },
         {
             "tbnr": "120130",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "15,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.1 BKat",
             "p": "",
@@ -7805,7 +7805,7 @@
         },
         {
             "tbnr": "120131",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "25,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.2 BKat",
             "p": "",
@@ -7814,7 +7814,7 @@
         },
         {
             "tbnr": "120132",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "35,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.3 BKat",
             "p": "",
@@ -7823,7 +7823,7 @@
         },
         {
             "tbnr": "120666",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "80,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.4 BKat",
             "p": "A-1",
@@ -7832,7 +7832,7 @@
         },
         {
             "tbnr": "120667",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "100,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.5 BKat",
             "p": "A-1",
@@ -7841,7 +7841,7 @@
         },
         {
             "tbnr": "120668",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "160,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.6 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7850,7 +7850,7 @@
         },
         {
             "tbnr": "120669",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "200,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.7 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7859,7 +7859,7 @@
         },
         {
             "tbnr": "120670",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "280,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.8 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7868,7 +7868,7 @@
         },
         {
             "tbnr": "120671",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "480,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.9 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7877,7 +7877,7 @@
         },
         {
             "tbnr": "120672",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "680,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7886,7 +7886,7 @@
         },
         {
             "tbnr": "120136",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "10,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.1 BKat",
             "p": "",
@@ -7895,7 +7895,7 @@
         },
         {
             "tbnr": "120137",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "20,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.2 BKat",
             "p": "",
@@ -7904,7 +7904,7 @@
         },
         {
             "tbnr": "120138",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "30,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.3 BKat",
             "p": "",
@@ -7913,7 +7913,7 @@
         },
         {
             "tbnr": "120678",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "70,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.4 BKat",
             "p": "A-1",
@@ -7922,7 +7922,7 @@
         },
         {
             "tbnr": "120679",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "80,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.5 BKat",
             "p": "A-1",
@@ -7931,7 +7931,7 @@
         },
         {
             "tbnr": "120680",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "120,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.6 BKat",
             "p": "A-1",
@@ -7940,7 +7940,7 @@
         },
         {
             "tbnr": "120681",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "160,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.7 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7949,7 +7949,7 @@
         },
         {
             "tbnr": "120682",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "240,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.8 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7958,7 +7958,7 @@
         },
         {
             "tbnr": "120683",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 61 - 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h.",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 61 - 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "440,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.9 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7967,7 +7967,7 @@
         },
         {
             "tbnr": "120684",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender Linienbus/Stra\u00dfenbahn/gekennzeichneten Schulbus. Zul\u00e4ssige Geschwindigkeit:...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "600,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -8165,7 +8165,7 @@
         },
         {
             "tbnr": "120772",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "280,00",
             "legal": "\u00a7 20 Abs. 4, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.8 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -8228,7 +8228,7 @@
         },
         {
             "tbnr": "120780",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "95,00",
             "legal": "\u00a7 20 Abs. 4, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.6 BKat",
             "p": "A-1",
@@ -8291,7 +8291,7 @@
         },
         {
             "tbnr": "120790",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "160,00",
             "legal": "\u00a7 20 Abs. 4, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.4 BKat",
             "p": "A-1",
@@ -8354,7 +8354,7 @@
         },
         {
             "tbnr": "120172",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (bis 10) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (bis 10) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "30,00",
             "legal": "\u00a7 20 Abs. 4, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.1 BKat",
             "p": "",
@@ -8417,7 +8417,7 @@
         },
         {
             "tbnr": "120807",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "560,00",
             "legal": "\u00a7 20 Abs. 4, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.9 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -8480,7 +8480,7 @@
         },
         {
             "tbnr": "120816",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "160,00",
             "legal": "\u00a7 20 Abs. 4, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.6 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -8543,7 +8543,7 @@
         },
         {
             "tbnr": "120186",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "30,00",
             "legal": "\u00a7 20 Abs. 4, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.3 BKat",
             "p": "",
@@ -8606,7 +8606,7 @@
         },
         {
             "tbnr": "120832",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. ***) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h bei an einer Haltestelle haltendem Linienbus/gekennzeichneten Schulbus mit eingeschaltetem Warnblinklicht. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "600,00",
             "legal": "\u00a7 20 Abs. 4, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.10 BKat; \u00a7 4 Abs.1 BKatV",
             "p": "A-2",
@@ -10379,9 +10379,9 @@
         },
         {
             "tbnr": "141043",
-            "txt": "Sie parkten auf einem Gehweg, der durch Parkfl\u00e4chenmarkierung zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zul\u00e4ssige Gesamtmasse hat, und behinderten dadurch Andere. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie parkten auf einem Gehweg, der durch Parkfl\u00e4chenmarkierung zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zul\u00e4ssige Gesamtmasse hat, und behinderten dadurch Andere.",
             "eur": "25,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -10397,9 +10397,9 @@
         },
         {
             "tbnr": "141045",
-            "txt": "Sie parkten l\u00e4nger als 1 Stunde auf einem Gehweg, der durch Parkfl\u00e4chenmarkierung zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zul\u00e4ssige Gesamtmasse hat, und behinderten dadurch Andere. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie parkten l\u00e4nger als 1 Stunde auf einem Gehweg, der durch Parkfl\u00e4chenmarkierung zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zul\u00e4ssige Gesamtmasse hat, und behinderten dadurch Andere.",
             "eur": "35,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -10577,9 +10577,9 @@
         },
         {
             "tbnr": "141051",
-            "txt": "Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen) und behinderten dadurch ein Rettungsfahrzeug im Einsatz. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen) und behinderten dadurch ein Rettungsfahrzeug im Einsatz.",
             "eur": "15,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -10595,9 +10595,9 @@
         },
         {
             "tbnr": "141518",
-            "txt": "Sie parkten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen) und behinderten dadurch ein Rettungsfahrzeug im Einsatz. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie parkten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen) und behinderten dadurch ein Rettungsfahrzeug im Einsatz.",
             "eur": "65,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -11117,9 +11117,9 @@
         },
         {
             "tbnr": "141001",
-            "txt": "Sie hielten auf einem Radweg (Zeichen 237) und behinderten dadurch Andere. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie hielten auf einem Radweg (Zeichen 237) und behinderten dadurch Andere.",
             "eur": "15,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -11198,9 +11198,9 @@
         },
         {
             "tbnr": "141004",
-            "txt": "Sie hielten auf einem Geh- und Radweg (Zeichen 240/ 241*)). und behinderten dadurch Andere. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie hielten auf einem Geh- und Radweg (Zeichen 240/ 241*)). und behinderten dadurch Andere.",
             "eur": "15,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -11288,9 +11288,9 @@
         },
         {
             "tbnr": "141021",
-            "txt": "Sie hielten auf einer Fahrradstra\u00dfe (Zeichen 244.1, 244.2) und behinderten dadurch Andere. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie hielten auf einer Fahrradstra\u00dfe (Zeichen 244.1, 244.2) und behinderten dadurch Andere.",
             "eur": "15,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -11306,9 +11306,9 @@
         },
         {
             "tbnr": "141023",
-            "txt": "Sie parkten auf einer Fahrradstra\u00dfe (Zeichen 244.1, 244.2) und behinderten dadurch Andere. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie parkten auf einer Fahrradstra\u00dfe (Zeichen 244.1, 244.2) und behinderten dadurch Andere.",
             "eur": "25,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -11324,9 +11324,9 @@
         },
         {
             "tbnr": "141025",
-            "txt": "Sie parkten l\u00e4nger als 1 Stunde auf einer Fahrradstra\u00dfe (Zeichen 244.1, 244.2) und behinderten dadurch Andere. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie parkten l\u00e4nger als 1 Stunde auf einer Fahrradstra\u00dfe (Zeichen 244.1, 244.2) und behinderten dadurch Andere.",
             "eur": "35,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -11342,9 +11342,9 @@
         },
         {
             "tbnr": "141031",
-            "txt": "Sie hielten auf einem Reitweg (Zeichen 238) und behinderten dadurch Andere. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie hielten auf einem Reitweg (Zeichen 238) und behinderten dadurch Andere.",
             "eur": "15,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -11792,9 +11792,9 @@
         },
         {
             "tbnr": "141010",
-            "txt": "Sie beachteten als Kraftfahrzeugf\u00fchrer nicht das bestehende Verbot der Einfahrt (Zeichen 267). Es kam zum Unfall. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie beachteten als Kraftfahrzeugf\u00fchrer nicht das bestehende Verbot der Einfahrt (Zeichen 267). Es kam zum Unfall.",
             "eur": "35,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -12143,7 +12143,7 @@
         },
         {
             "tbnr": "141640",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem Fu\u00dfg\u00e4ngerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zul\u00e4sst). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem Fu\u00dfg\u00e4ngerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zul\u00e4sst). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "280,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -12206,7 +12206,7 @@
         },
         {
             "tbnr": "141647",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem Fu\u00dfg\u00e4ngerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zul\u00e4sst). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem Fu\u00dfg\u00e4ngerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zul\u00e4sst). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "280,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -12269,7 +12269,7 @@
         },
         {
             "tbnr": "141220",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h in einem Fu\u00dfg\u00e4ngerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zul\u00e4sst). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h in einem Fu\u00dfg\u00e4ngerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zul\u00e4sst). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "35,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.3 BKat",
             "p": "",
@@ -12332,7 +12332,7 @@
         },
         {
             "tbnr": "141660",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h in einem Fu\u00dfg\u00e4ngerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zul\u00e4sst). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h in einem Fu\u00dfg\u00e4ngerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zul\u00e4sst). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "680,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -12386,7 +12386,7 @@
         },
         {
             "tbnr": "141668",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "200,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -12440,7 +12440,7 @@
         },
         {
             "tbnr": "141677",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "70,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.4 BKat",
             "p": "A-1",
@@ -12512,7 +12512,7 @@
         },
         {
             "tbnr": "141686",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "60,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.2 BKat",
             "p": "A-1",
@@ -12566,7 +12566,7 @@
         },
         {
             "tbnr": "141694",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "600,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -12620,7 +12620,7 @@
         },
         {
             "tbnr": "141704",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "240,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -12692,7 +12692,7 @@
         },
         {
             "tbnr": "141712",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "80,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.4 BKat",
             "p": "A-1",
@@ -12764,7 +12764,7 @@
         },
         {
             "tbnr": "141240",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 11 - 15) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "20,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.2 BKat",
             "p": "",
@@ -12836,7 +12836,7 @@
         },
         {
             "tbnr": "141727",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h. Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "600,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -13061,36 +13061,36 @@
         },
         {
             "tbnr": "141500",
-            "txt": "Sie fuhren beim Linksabbiegen verbotswidrig \u00fcber die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie fuhren beim Linksabbiegen verbotswidrig \u00fcber die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall.",
             "eur": "40,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "141503",
-            "txt": "Sie folgten beim Linksabbiegen nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie folgten beim Linksabbiegen nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall.",
             "eur": "40,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "141506",
-            "txt": "Sie benutzten beim Linksabbiegen die Sperrfl\u00e4che (Zeichen 298). Es kam zum Unfall. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie benutzten beim Linksabbiegen die Sperrfl\u00e4che (Zeichen 298). Es kam zum Unfall.",
             "eur": "40,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "141515",
-            "txt": "Sie benutzten beim Wenden die Sperrfl\u00e4che (Zeichen 298). Es kam zum Unfall. -- BKat; \u00a7 19 OWiG",
+            "txt": "Sie benutzten beim Wenden die Sperrfl\u00e4che (Zeichen 298). Es kam zum Unfall.",
             "eur": "40,00",
-            "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "-- BKat; \u00a7 19 OWiG",
             "p": "",
             "fv": "",
             "stand": "20171101"
@@ -13547,7 +13547,7 @@
         },
         {
             "tbnr": "142610",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "280,00",
             "legal": "11.1.8 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -13610,7 +13610,7 @@
         },
         {
             "tbnr": "142620",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "280,00",
             "legal": "11.2.6 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -13673,7 +13673,7 @@
         },
         {
             "tbnr": "142132",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "35,00",
             "legal": "\u00a7 42 Abs. 2 iVm Anlage 3, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.3 BKat",
             "p": "",
@@ -13736,7 +13736,7 @@
         },
         {
             "tbnr": "142636",
-            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. **) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul\u00e4ssige H\u00f6chstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zul\u00e4ssige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.",
             "eur": "680,00",
             "legal": "11.3.10 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",

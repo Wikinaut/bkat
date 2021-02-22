@@ -26,20 +26,21 @@ def filter( line ):
         return ""
     if ( re.match( '.*TBNR.*Bemerkungen', line ) ):
         return ""
-    if ( re.match( '\d{6}', line ) ):
+    if ( re.match( '(und\s+)?\d{6}', line ) ):
         return ""
     if ( re.match( '.*Tatbestandskatalog.*Tatbestände', line ) ):
         return ""
     if ( re.match( '.*Tatbestandstext.*FaP-Pkt.*Euro.*FV', line ) ):
         return ""
-    if ( re.match( '.*\*\)? (zutreffende|zuläss|Art|Unterlassung|Verbot|Verkehrszeichen|Änderung an|Vorschrifts|Zutreffend|nicht ordnungsgem|näher erläutern)', line, flags=re.IGNORECASE ) ):
+    if ( re.match( '.*\*\)? (festgestellt|zutreffende|zuläss|Art|Unterlassung|Verbot|Verkehrszeichen|Änderung an|Vorschrifts|Zutreffend|nicht ordnungsgem|näher erläutern)', line, flags=re.IGNORECASE ) ):
         return ""
 
     return line
 
 
 def clean( line ):
-    line = re.sub( ' \*\*\*\)', '', line.strip() )
+    line = re.sub( ' \*\*\*\*\)', '', line.strip() )
+    line = re.sub( ' \*\*\*\)', '', line )
     line = re.sub( ' \*\*\)', '', line )
     line = re.sub( ' \*\)', '', line )
     return re.sub( ' \+\)', '', line ).strip()
@@ -187,7 +188,7 @@ def main():
                 if (aggregate):
                     ln = filter( line ).strip()
                     if ( ln != "" ):
-                        if ( re.search( "^(§|\d+).*(BKat|OWiG|BkatV|StVG|StVO);?$", ln, flags=re.IGNORECASE ) ):
+                        if ( re.search( "^(§|\d+|--).*(BKat|OWiG|BkatV|StVG|StVO);?$", ln, flags=re.IGNORECASE ) ):
                             if ( buf[-1] != ";" ):
                                 # buf = buf + "\n"+filter( line ).strip()
                                 legal = filter( line ).strip()
