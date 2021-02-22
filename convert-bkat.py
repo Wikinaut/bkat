@@ -26,11 +26,13 @@ def filter( line ):
         return ""
     if ( re.match( '.*TBNR.*Bemerkungen', line ) ):
         return ""
+    if ( re.match( '\d{6}', line ) ):
+        return ""
     if ( re.match( '.*Tatbestandskatalog.*Tatbestände', line ) ):
         return ""
     if ( re.match( '.*Tatbestandstext.*FaP-Pkt.*Euro.*FV', line ) ):
         return ""
-    if ( re.match( '.*\*\).*(Verbot|Verkehrszeichen|Änderung an|Vorschrifts|Zutreffend|nicht ordnungsgem|näher erläutern)', line, flags=re.IGNORECASE ) ):
+    if ( re.match( '.*\*\)? (zutreffende|zuläss|Art|Unterlassung|Verbot|Verkehrszeichen|Änderung an|Vorschrifts|Zutreffend|nicht ordnungsgem|näher erläutern)', line, flags=re.IGNORECASE ) ):
         return ""
 
     return line
