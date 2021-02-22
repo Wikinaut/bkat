@@ -76,6 +76,7 @@ def flush_buffer():
             "legal": legal,
             "p": p,
             "fv": f,
+            "stand": standymd,
         } )
 
         printheader()
@@ -85,7 +86,7 @@ def flush_buffer():
 
 
 def main():
-    global aggregate,fahrverbot,tbnr,euro,punkte,buf,stand,legal
+    global aggregate,fahrverbot,tbnr,euro,punkte,buf,stand,standymd,legal
     global bkat
 
     bkat = {}
@@ -99,6 +100,7 @@ def main():
     aggregate = False
     heading = ""
     stand = ""
+    standymd = ""
 
     for line in lines:
 
@@ -111,6 +113,9 @@ def main():
         if ( ( res ) and ( stand == "" ) ):
             stand = res.group(1)
             print( "Bkat Stand: {0}\n".format( stand ) )
+            res = re.match( '(\d\d).(\d\d).(2\d\d\d)', stand )
+            if ( res ):
+                standymd = res.group(3) + res.group(2) + res.group(1)
 
         res = re.match( '(.*) Seite\s(.*)$', line )
 
