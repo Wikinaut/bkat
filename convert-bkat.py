@@ -18,6 +18,8 @@ def filter( line ):
 
     line = re.sub( '\s+', ' ', line )
 
+    if ( re.match( '.*Tab.: ', line ) ):
+        return ""
     if ( re.match( '.*Stand: ', line ) ):
         return ""
     if ( re.match( '.*Nicht bedruckt', line ) ):
