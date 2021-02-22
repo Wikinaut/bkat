@@ -7510,21 +7510,21 @@ Sie haben die vorgeschriebenen Fracht- und Begleitpapiere oder die Ausnahmegeneh
 ------ Pflichten des Beförderers - § 19 Abs. 2 GGVSEB
 
 TBNR 519500 800,00 € P:B-1
-Sie unterließen es als Beförderer (in der Funktion des Fahrzeughalters), dem Fahrzeugführer die erforderliche Ausrüstung zur Durchführung der Ladungssicherung zu übergeben. § 19 Abs. 2 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 6o GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 48 RSEB
+Sie unterließen es als Beförderer (in der Funktion des Fahrzeughalters), dem Fahrzeugführer die erforderliche Ausrüstung zur Durchführung der Ladungssicherung zu übergeben. § 19 Abs. 2 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1
 
 ------ Pflichten mehrerer Beteiligter im Straßenverkehr - § 29 Abs. 1 GGVSEB
 
 TBNR 529500 500,00 € P:B-1
-Sie unterließen es als tatsächlicher Verlader, Versandstücke, die gefährliche Güter enthalten,/unverpackte gefährliche Gegenstände durch geeignete Mittel, die in der Lage sind, die Güter im Fahrzeug oder Container zurückzuhalten, zu sichern. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 21a GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 115.3 RSEB
+Sie unterließen es als tatsächlicher Verlader, Versandstücke, die gefährliche Güter enthalten,/unverpackte gefährliche Gegenstände durch geeignete Mittel, die in der Lage sind, die Güter im Fahrzeug oder Container zurückzuhalten, zu sichern. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1
 
 TBNR 529506 500,00 € P:B-1
-Sie unterließen es als tatsächlicher Verlader, bei der Beförderung von gefährlichen Gütern, die mit anderen Gütern befördert wurden, alle Güter so zu sichern oder zu verpacken, dass das Austreten gefährlicher Güter verhindert wird. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 21a GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 115.3 RSEB
+Sie unterließen es als tatsächlicher Verlader, bei der Beförderung von gefährlichen Gütern, die mit anderen Gütern befördert wurden, alle Güter so zu sichern oder zu verpacken, dass das Austreten gefährlicher Güter verhindert wird. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1
 
 TBNR 529512 300,00 € P:B-1
-Sie unterließen es als Fahrzeugführer, Versandstücke, die gefährliche Güter enthalten,/unverpackte gefährliche Gegenstände durch geeignete Mittel, die in der Lage sind, die Güter im Fahrzeug oder Container zurückzuhalten, zu sichern. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 21a GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 238.3 RSEB
+Sie unterließen es als Fahrzeugführer, Versandstücke, die gefährliche Güter enthalten,/unverpackte gefährliche Gegenstände durch geeignete Mittel, die in der Lage sind, die Güter im Fahrzeug oder Container zurückzuhalten, zu sichern. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1
 
 TBNR 529518 300,00 € P:B-1
-Sie unterließen es als Fahrzeugführer, bei der Beförderung von gefährlichen Gütern, die mit anderen Gütern befördert wurden, alle Güter so zu sichern oder zu verpacken, dass das Austreten gefährlicher Güter verhindert wird. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 21a GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 238.3 RSEB
+Sie unterließen es als Fahrzeugführer, bei der Beförderung von gefährlichen Gütern, die mit anderen Gütern befördert wurden, alle Güter so zu sichern oder zu verpacken, dass das Austreten gefährlicher Güter verhindert wird. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1
 
 ------ Anforderungen an das Inbetriebsetzen - § 2 MobHV
 

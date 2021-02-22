@@ -190,7 +190,8 @@ def main():
                 if (aggregate):
                     ln = filter( line ).strip()
                     if ( ln != "" ):
-                        if ( re.search( "^(§|\d+|--).*(BKat|OWiG|BkatV|StVG|StVO|StVZO);?$", ln, flags=re.IGNORECASE ) ):
+                        if ( re.search( "^(§|\d+|--|N).*(BKat|OWiG|BkatV|StVG|StVO|StVZO|RSEB);?$", ln, flags=re.IGNORECASE ) ):
+
                             if ( buf[-1] != ";" ):
                                 # buf = buf + "\n"+filter( line ).strip()
                                 legal = filter( line ).strip()
