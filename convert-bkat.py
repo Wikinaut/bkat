@@ -28,6 +28,9 @@ def filter( line ):
         return ""
     if ( re.match( '.*Tatbestandstext.*FaP-Pkt.*Euro.*FV', line ) ):
         return ""
+    if ( re.match( '.*\*\) Zutreffendes angeben', line ) ):
+        return ""
+
     return line
 
 

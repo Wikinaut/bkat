@@ -39,7 +39,7 @@ TBNR 101100 10,00 €
 Sie belästigten durch Außer-Acht-Lassen der im Straßenverkehr erforderlichen Sorgfalt Andere mehr als nach den Umständen unvermeidbar.
 
 TBNR 101106 20,00 €
-Sie behinderten +) durch Außer-Acht-Lassen der im Straßenverkehr erforderlichen Sorgfalt Andere mehr als nach den Umständen unvermeidbar. 101042 - 101043 *) Zutreffendes angeben
+Sie behinderten +) durch Außer-Acht-Lassen der im Straßenverkehr erforderlichen Sorgfalt Andere mehr als nach den Umständen unvermeidbar.
 
 TBNR 101112 30,00 €
 Sie gefährdeten +) durch Außer-Acht-Lassen der im Straßenverkehr erforderlichen Sorgfalt Andere.
@@ -167,7 +167,7 @@ TBNR 102613 160,00 € P:A-1
 Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstraße **) entgegen der Fahrtrichtung und gefährdeten +) dadurch Andere.
 
 TBNR 102614 195,00 € P:A-1
-Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstraße **) entgegen der Fahrtrichtung. Es kam zum Unfall. 102606 - 102614 *) Zutreffendes angeben **) Zutreffendes angeben
+Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstraße **) entgegen der Fahrtrichtung. Es kam zum Unfall.
 
 TBNR 102618 200,00 € P:A-2 FV:1 M
 Sie fuhren auf der durchgehenden Fahrbahn der Autobahn/Kraftfahrstraße *) entgegen der Fahrtrichtung.
@@ -200,7 +200,7 @@ TBNR 102144 25,00 €
 Sie missachteten als Radfahrer das Rechtsfahrgebot, indem Sie den markierten Schutzstreifen nicht benutzten, und gefährdeten +) dadurch Andere.
 
 TBNR 102145 30,00 €
-Sie missachteten als Radfahrer das Rechtsfahrgebot, indem Sie den markierten Schutzstreifen nicht benutzten. Es kam zum Unfall. 102618 - 102620 *) Zutreffendes angeben
+Sie missachteten als Radfahrer das Rechtsfahrgebot, indem Sie den markierten Schutzstreifen nicht benutzten. Es kam zum Unfall.
 
 ------ Straßenbenutzung durch Fahrzeuge - § 2 Abs. 2 StVO
 
@@ -259,7 +259,7 @@ TBNR 102672 80,00 € P:A-1
 Sie verstießen auf der Autobahn/Kraftfahrstraße *) gegen das Rechtsfahrgebot und behinderten +) dadurch Andere.
 
 TBNR 102673 100,00 € P:A-1
-Sie verstießen auf der Autobahn/Kraftfahrstraße *) gegen das Rechtsfahrgebot. Es kam zum Unfall. 102672; 102673 *) Zutreffendes angeben
+Sie verstießen auf der Autobahn/Kraftfahrstraße *) gegen das Rechtsfahrgebot. Es kam zum Unfall.
 
 ------ Straßenbenutzung durch Fahrzeuge - § 2 Abs. 3, 3a StVO
 
@@ -285,7 +285,7 @@ TBNR 102691 205,00 € P:B-1
 Sie verhielten sich als Führer eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern bei einer Sichtweite unter 50 m/Schneeglätte oder Glatteis *) nicht so, dass eine Gefährdung Anderer ausgeschlossen war. Es kam zum Unfall.
 
 TBNR 102696 140,00 € P:B-1
-Sie suchten als Führer eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern bei einer Sichtweite unter 50 m/Schneeglätte oder Glatteis *), obwohl nötig, nicht den nächsten geeigneten Platz zum Parken auf. 102690 - 102696 *) Zutreffendes angeben
+Sie suchten als Führer eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern bei einer Sichtweite unter 50 m/Schneeglätte oder Glatteis *), obwohl nötig, nicht den nächsten geeigneten Platz zum Parken auf.
 
 ------ Straßenbenutzung durch Fahrzeuge - § 2 Abs. 4 StVO
 
@@ -317,7 +317,7 @@ TBNR 102181 25,00 €
 Sie benutzten als Radfahrer vorschriftswidrig den rechten Seitenstreifen, obwohl ein Radweg vorhanden war, und gefährdeten +) dadurch Andere.
 
 TBNR 102182 30,00 €
-Sie benutzten als Radfahrer vorschriftswidrig den rechten Seitenstreifen, obwohl ein Radweg vorhanden war. Es kam zum Unfall. 102167 - 102169 *) Zutreffendes angeben
+Sie benutzten als Radfahrer vorschriftswidrig den rechten Seitenstreifen, obwohl ein Radweg vorhanden war. Es kam zum Unfall.
 
 TBNR 102018 20,00 €
 Sie benutzten als Mofafahrer vorschriftswidrig den Radweg innerhalb einer geschlossenen Ortschaft.
@@ -948,7 +948,7 @@ TBNR 104618 112,50 € P:A-1
 Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 5/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704003
 
 TBNR 104619 150,00 € P:A-1
-Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 4/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704003 104612 - 104619 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben 104618 - 104619 ***) Zutreffendes angeben
+Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 4/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704003 104612 - 104619 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben
 
 TBNR 104620 240,00 € P:A-1
 Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 3/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704003
@@ -969,7 +969,7 @@ TBNR 104626 240,00 € P:A-2 FV:1 M
 Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 3/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704004
 
 TBNR 104627 360,00 € P:A-2 FV:2 M
-Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 2/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704004 104620 - 104627 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben ***) Zutreffendes angeben
+Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 2/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704004 104620 - 104627 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben
 
 TBNR 104628 480,00 € P:A-2 FV:3 M
 Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 1/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704004
@@ -987,7 +987,7 @@ TBNR 104633 480,00 € P:A-2 FV:2 M
 Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (über 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 2/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704005
 
 TBNR 104634 600,00 € P:A-2 FV:3 M
-Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (über 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 1/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704005 104628 - 104634 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben ***) Zutreffendes angeben
+Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (über 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 1/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. (Kfz m. gef. Gütern oder KOM m. Fahrgästen) Tab.: 704005 104628 - 104634 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben
 
 ------ Abstand - § 4 Abs. 1, 2, 3 StVO
 
@@ -1004,7 +1004,7 @@ TBNR 104636 80,00 € P:B-1
 Sie hielten als Führer des Lastkraftwagens (zulässige Gesamtmasse über 3,5 t)/Kraftomnibusses *) bei einer Geschwindigkeit von mehr als 50 km/h auf einer Autobahn den Mindestabstand von 50 m zum vorausfahrenden Fahrzeug nicht ein.
 
 TBNR 104642 120,00 € P:B-1
-Sie hielten als Führer des kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern (zulässige Gesamtmasse über 3,5 t)/ Kraftomnibusses mit Fahrgästen *) bei einer Geschwindigkeit von mehr als 50 km/h auf einer Autobahn den Mindestabstand von 50 m zum vorausfahrenden Fahrzeug nicht ein. 104636; 104642 *) Zutreffendes angeben
+Sie hielten als Führer des kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern (zulässige Gesamtmasse über 3,5 t)/ Kraftomnibusses mit Fahrgästen *) bei einer Geschwindigkeit von mehr als 50 km/h auf einer Autobahn den Mindestabstand von 50 m zum vorausfahrenden Fahrzeug nicht ein.
 
 ------ Überholen - § 5 Abs. 1 StVO
 
@@ -1071,7 +1071,7 @@ TBNR 105618 150,00 € P:A-1
 Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei Überholverbotszeichen 276/277 *). 19.1 BKat; § 19 OWiG
 
 TBNR 105619 250,00 € P:A-2 FV:1 M
-Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei Überholverbotszeichen 276/277 *) und gefährdeten +) dadurch Andere. § 5 Abs. 2, 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO; 105618; 105619 *) Zutreffendes angeben
+Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei Überholverbotszeichen 276/277 *) und gefährdeten +) dadurch Andere. § 5 Abs. 2, 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
 
 TBNR 105620 300,00 € P:A-2 FV:1 M
 Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei Überholverbotszeichen 276/277 *). Es kam zum Unfall. § 5 Abs. 2, 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
@@ -1098,7 +1098,7 @@ TBNR 105636 150,00 € P:A-1
 Sie überholten bei unklarer Verkehrslage und missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296 *)). 19.1 BKat; § 19 OWiG
 
 TBNR 105637 250,00 € P:A-2 FV:1 M
-Sie überholten bei unklarer Verkehrslage, missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296 *)) und gefährdeten +) dadurch Andere. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO; 105620 - 105637 *) Zutreffendes angeben
+Sie überholten bei unklarer Verkehrslage, missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296 *)) und gefährdeten +) dadurch Andere. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
 
 TBNR 105638 300,00 € P:A-2 FV:1 M
 Sie überholten bei unklarer Verkehrslage und missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296 *)). Es kam zum Unfall. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
@@ -1119,7 +1119,7 @@ TBNR 105649 250,00 € P:A-2 FV:1 M
 Sie überholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Sie gefährdeten +) dadurch Andere. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
 
 TBNR 105650 300,00 € P:A-2 FV:1 M
-Sie überholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO; 105638 *) Zutreffendes angeben
+Sie überholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
 
 ------ Überholen - § 5 Abs. 3a StVO
 
@@ -1139,7 +1139,7 @@ TBNR 105667 300,00 € P:A-2 FV:1 M
 Sie überholten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrgästen *) mit einer zulässigen Gesamtmasse über 7,5 t, obwohl die Sichtweite durch Nebel, Schneefall oder Regen weniger als 50 m betrug, und gefährdeten +) dadurch Andere.
 
 TBNR 105668 360,00 € P:A-2 FV:1 M
-Sie überholten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrgästen *) mit einer zulässigen Gesamtmasse über 7,5 t, obwohl die Sichtweite durch Nebel, Schneefall oder Regen weniger als 50 m betrug. Es kam zum Unfall. 105666 - 105668 *) Zutreffendes angeben
+Sie überholten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrgästen *) mit einer zulässigen Gesamtmasse über 7,5 t, obwohl die Sichtweite durch Nebel, Schneefall oder Regen weniger als 50 m betrug. Es kam zum Unfall.
 
 ------ Überholen - § 5 Abs. 4 StVO
 
@@ -1203,7 +1203,7 @@ TBNR 105155 30,00 €
 Sie überholten vorschriftswidrig links, obwohl ein anderer Verkehrsteilnehmer seine Absicht, nach links abzubiegen, angekündigt und sich eingeordnet hatte. Es kam zum Unfall.
 
 TBNR 105006 35,00 €
-Sie überholten ein Schienenfahrzeug vorschriftswidrig links. 105148 *) Zutreffendes angeben
+Sie überholten ein Schienenfahrzeug vorschriftswidrig links.
 
 ------ Vorbeifahren - § 6 StVO
 
@@ -1220,7 +1220,7 @@ TBNR 106106 10,00 €
 Sie scherten vor einer Fahrbahnverengung/einem Hindernis auf der Fahrbahn/einem haltenden Fahrzeug auf der Fahrbahn *) aus, ohne es rechtzeitig und deutlich anzukündigen.
 
 TBNR 106112 10,00 €
-Sie kündigten nach dem Vorbeifahren an einer Fahrbahnverengung/einem Hindernis auf der Fahrbahn/einem haltenden Fahrzeug auf der Fahrbahn *) das Wiedereinordnen nicht rechtzeitig und deutlich an. 106100 - 106112 *) Zutreffendes angeben
+Sie kündigten nach dem Vorbeifahren an einer Fahrbahnverengung/einem Hindernis auf der Fahrbahn/einem haltenden Fahrzeug auf der Fahrbahn *) das Wiedereinordnen nicht rechtzeitig und deutlich an.
 
 ------ Fahrstreifenbenutzung - § 7 StVO
 
@@ -1316,7 +1316,7 @@ TBNR 108612 100,00 € P:A-1
 Sie fuhren aus einem Feld-/Waldweg auf die Straße, ohne die Vorfahrt des bevorrechtigten Fahrzeugs zu beachten. Dadurch wurde ein Vorfahrtberechtigter gefährdet +).
 
 TBNR 108613 120,00 € P:A-1
-Sie fuhren aus einem Feld-/Waldweg auf die Straße, ohne die Vorfahrt des bevorrechtigten Fahrzeugs zu beachten. Es kam zum Unfall. 108606; 108607; *) Zutreffendes angeben 108112
+Sie fuhren aus einem Feld-/Waldweg auf die Straße, ohne die Vorfahrt des bevorrechtigten Fahrzeugs zu beachten. Es kam zum Unfall. 108112
 
 ------ Abbiegen, Wenden und Rückwärtsfahren - § 9 Abs. 1 StVO
 
@@ -1348,7 +1348,7 @@ TBNR 109114 35,00 €
 Sie bogen nach links/rechts *) ab, ohne auf den nachfolgenden Verkehr zu achten. Es kam zum Unfall.
 
 TBNR 109118 10,00 €
-Sie ordneten sich nach links auf den Schienen ein und behinderten +) dadurch ein Schienenfahrzeug. 109106 - 109114 *) Zutreffendes angeben
+Sie ordneten sich nach links auf den Schienen ein und behinderten +) dadurch ein Schienenfahrzeug.
 
 ------ Abbiegen, Wenden und Rückwärtsfahren - § 9 Abs. 2 StVO
 
@@ -1406,7 +1406,7 @@ TBNR 109618 70,00 € P:A-1
 Sie bogen ab, ohne ein in entgegenkommender/gleicher *) Richtung geradeaus weiterfahrendes Fahrrad mit Hilfsmotor durchfahren zu lassen, und gefährdeten +) dadurch Andere.
 
 TBNR 109619 85,00 € P:A-1
-Sie bogen ab, ohne ein in entgegenkommender/gleicher *) Richtung geradeaus weiterfahrendes Fahrrad mit Hilfsmotor durchfahren zu lassen. Es kam zum Unfall. 109136 - 109619 *) Zutreffendes angeben
+Sie bogen ab, ohne ein in entgegenkommender/gleicher *) Richtung geradeaus weiterfahrendes Fahrrad mit Hilfsmotor durchfahren zu lassen. Es kam zum Unfall.
 
 TBNR 109624 70,00 € P:A-1
 Sie bogen ab, ohne auf Fußgänger besondere Rücksicht zu nehmen, und gefährdeten +) diese.
@@ -1528,7 +1528,7 @@ TBNR 111602 280,00 € P:A-2
 Sie bildeten auf einer Autobahn oder Außerortsstraße keine vorschriftsmäßige *) Gasse zur Durchfahrt von Polizei- oder 1) Hilfsfahrzeugen, obwohl der Verkehr stockte und gefährdeten +) diese.
 
 TBNR 111603 320,00 € P:A-2
-Sie bildeten auf einer Autobahn oder Außerortsstraße keine vorschriftsmäßige *) Gasse zur Durchfahrt von Polizei- oder 1) Hilfsfahrzeugen, obwohl der Verkehr stockte. Es kam zum Unfall. 111100; 111101; *) Zutreffendes angeben 111600 - 111603 *) näher erläutern 1) 111600 - 111603 Nach Abstimmung mit der Arbeitsgruppe Bundeseinheitlicher Tatbestandskatalog ergänzt/geändert aufgrund der 53. Verordnung zur Änderung straßenverkehrsrechtlicher Vorschriften vom 06.10.2017 (BGBl. I S. 3549)
+Sie bildeten auf einer Autobahn oder Außerortsstraße keine vorschriftsmäßige *) Gasse zur Durchfahrt von Polizei- oder 1) Hilfsfahrzeugen, obwohl der Verkehr stockte. Es kam zum Unfall. 111600 - 111603 *) näher erläutern 1) 111600 - 111603 Nach Abstimmung mit der Arbeitsgruppe Bundeseinheitlicher Tatbestandskatalog ergänzt/geändert aufgrund der 53. Verordnung zur Änderung straßenverkehrsrechtlicher Vorschriften vom 06.10.2017 (BGBl. I S. 3549)
 
 ------ Halten und Parken - § 12 Abs. 1 StVO
 
@@ -1560,7 +1560,7 @@ TBNR 112111 15,00 €
 Sie hielten im Bereich einer scharfen Kurve und behinderten +) dadurch den fließenden Verkehr. Tab.: 712002
 
 TBNR 112112 15,00 €
-Sie parkten im Bereich einer scharfen Kurve. Tab.: 712002 112100 - 112600 *) Zutreffendes angeben.
+Sie parkten im Bereich einer scharfen Kurve. Tab.: 712002
 
 TBNR 112113 25,00 €
 Sie parkten im Bereich einer scharfen Kurve und behinderten +) dadurch den fließenden Verkehr. Tab.: 712002
@@ -1622,7 +1622,7 @@ TBNR 112282 10,00 €
 Sie parkten verbotswidrig und verhinderten dadurch die Benutzung gekennzeichneter Parkflächen. Tab.: 712021
 
 TBNR 112283 15,00 €
-Sie parkten verbotswidrig und verhinderten dadurch die Benutzung gekennzeichneter Parkflächen und behinderten +) dadurch Andere. Tab.: 712021 112262 - 112275 *) Zutreffendes angeben
+Sie parkten verbotswidrig und verhinderten dadurch die Benutzung gekennzeichneter Parkflächen und behinderten +) dadurch Andere. Tab.: 712021
 
 TBNR 112284 20,00 €
 Sie parkten länger als 3 Stunden verbotswidrig und verhinderten dadurch die Benutzung gekennzeichneter Parkflächen. Tab.: 712021
@@ -1731,7 +1731,7 @@ TBNR 112060 10,00 €
 Sie hielten nicht am rechten Fahrbahnrand. Tab.: 712032
 
 TBNR 112061 15,00 €
-Sie hielten nicht am rechten Fahrbahnrand und behinderten +) dadurch Andere. Tab.: 712032 112040 - 112045 *) Zutreffendes angeben
+Sie hielten nicht am rechten Fahrbahnrand und behinderten +) dadurch Andere. Tab.: 712032
 
 TBNR 112062 15,00 €
 Sie parkten nicht am rechten Fahrbahnrand. Tab.: 712032
@@ -1816,7 +1816,7 @@ TBNR 112446 10,00 €
 Sie missachteten den Vorrang eines anderen Fahrzeugführers beim Einfahren in eine freie Parklücke.
 
 TBNR 112456 10,00 €
-Sie hielten/parkten *) nicht Platz sparend. 112456 *) Zutreffendes angeben
+Sie hielten/parkten *) nicht Platz sparend.
 
 ------ Einrichtungen zur Überwachung der Parkzeit - § 13 Abs. 1, 2 StVO
 
@@ -1854,7 +1854,7 @@ TBNR 113140 10,00 €
 Sie parkten im Bereich eines Parkscheinautomaten ohne gültigen Parkschein. Tab.: 713002
 
 TBNR 113141 15,00 €
-Sie parkten im Bereich eines Parkscheinautomaten ohne gültigen Parkschein - länger als 30 Minuten. Tab.: 713002 113120 - 113124 *) Zutreffendes angeben
+Sie parkten im Bereich eines Parkscheinautomaten ohne gültigen Parkschein - länger als 30 Minuten. Tab.: 713002
 
 TBNR 113142 20,00 €
 Sie parkten im Bereich eines Parkscheinautomaten ohne gültigen Parkschein - länger als 1 Stunde. Tab.: 713002
@@ -1899,7 +1899,7 @@ TBNR 113180 10,00 €
 Sie parkten an einer nicht funktionsfähigen Parkuhr/im Bereich eines nicht funktionsfähigen Parkscheinautomaten *), ohne eine Parkscheibe (Bild 318) von außen gut lesbar im oder am Fahrzeug angebracht zu haben. Tab.: 713004
 
 TBNR 113181 15,00 €
-Sie parkten an einer nicht funktionsfähigen Parkuhr/im Bereich eines nicht funktionsfähigen Parkscheinautomaten *), ohne eine Parkscheibe (Bild 318) von außen gut lesbar im oder am Fahrzeug angebracht zu haben - länger als 30 Minuten. Tab.: 713004 113160 - 113181 *) Zutreffendes angeben
+Sie parkten an einer nicht funktionsfähigen Parkuhr/im Bereich eines nicht funktionsfähigen Parkscheinautomaten *), ohne eine Parkscheibe (Bild 318) von außen gut lesbar im oder am Fahrzeug angebracht zu haben - länger als 30 Minuten. Tab.: 713004
 
 TBNR 113182 20,00 €
 Sie parkten an einer nicht funktionsfähigen Parkuhr/im Bereich eines nicht funktionsfähigen Parkscheinautomaten *), ohne eine Parkscheibe (Bild 318) von außen gut lesbar im oder am Fahrzeug angebracht zu haben - länger als 1 Stunde. Tab.: 713004
@@ -1926,7 +1926,7 @@ TBNR 113204 30,00 €
 Sie parkten an einer nicht funktionsfähigen Parkuhr/im Bereich eines nicht funktionsfähigen Parkscheinautomaten *), ohne die Parkscheibe (Bild 318) richtig eingestellt zu haben - länger als 3 Stunden. Tab.: 713005
 
 TBNR 113220 10,00 €
-Sie überschritten im Bereich eines eingeschränkten Haltverbots für eine Zone (Zeichen 290.1, 290.2) die zulässige Höchstparkdauer. Tab.: 713006 113182 - 113204 *) Zutreffendes angeben
+Sie überschritten im Bereich eines eingeschränkten Haltverbots für eine Zone (Zeichen 290.1, 290.2) die zulässige Höchstparkdauer. Tab.: 713006
 
 TBNR 113221 15,00 €
 Sie überschritten im Bereich eines eingeschränkten Haltverbots für eine Zone (Zeichen 290.1, 290.2) die zulässige Höchstparkdauer - länger als 30 Minuten. Tab.: 713006
@@ -2182,7 +2182,7 @@ TBNR 117119 25,00 €
 Sie blendeten nicht rechtzeitig ab, obwohl ein anderes Fahrzeug mit geringem Abstand vor Ihnen fuhr, und gefährdeten +) dadurch Andere.
 
 TBNR 117120 35,00 €
-Sie blendeten nicht rechtzeitig ab, obwohl ein anderes Fahrzeug mit geringem Abstand vor Ihnen fuhr. Es kam zum Unfall. 117106 - 117108 *) Zutreffendes angeben
+Sie blendeten nicht rechtzeitig ab, obwohl ein anderes Fahrzeug mit geringem Abstand vor Ihnen fuhr. Es kam zum Unfall.
 
 TBNR 117124 10,00 €
 Sie fuhren nur mit Begrenzungsleuchten (Standlicht), obwohl Sie die vorgeschriebenen Beleuchtungseinrichtungen (Abblendlicht) benutzen mussten.
@@ -2279,7 +2279,7 @@ TBNR 117185 25,00 €
 Sie benutzten missbräuchlich den Suchscheinwerfer und gefährdeten +) dadurch Andere.
 
 TBNR 117186 35,00 €
-Sie benutzten missbräuchlich den Suchscheinwerfer. Es kam zum Unfall. 117166; 117167 *) Zutreffendes angeben **) Zutreffendes angeben
+Sie benutzten missbräuchlich den Suchscheinwerfer. Es kam zum Unfall.
 
 ------ Autobahnen und Kraftfahrstraßen - § 18 Abs. 1 StVO
 
@@ -2308,10 +2308,10 @@ TBNR 118500 240,00 €
 Sie benutzten die Autobahn, obwohl das von Ihnen geführte Fahrzeug mit Ladung höher als 4 Meter (gemessene Höhe: *)..,.. m) war, und verursachten durch Auslösung der automatischen Höhenkontrolle an der Einfahrt eines Tunnels eine Vollsperrung Ihrer Fahrtrichtung/ des von Ihnen benutzten Fahrstreifens **).
 
 TBNR 118506 240,00 €
-Sie führten das Fahrzeug auf der Autobahn, obwohl die zugelassene Höhe über alles von 4 Meter (gemessene Höhe: *)..,.. m) überschritten war, und verursachten durch Auslösung der automatischen Höhenkontrolle an der Einfahrt eines Tunnels eine Vollsperrung Ihrer Fahrtrichtung/ des von Ihnen benutzten Fahrstreifens **). 118100; 118106; *) Zutreffendes angeben 118124 118112; 118130 *) gem. Höhe angeben 118500; 118506 *) gem. Höhe angeben; **) Zutreffendes angeben 118118; 118136 *) zul. Breite angeben; **) gem. Breite angeben
+Sie führten das Fahrzeug auf der Autobahn, obwohl die zugelassene Höhe über alles von 4 Meter (gemessene Höhe: *)..,.. m) überschritten war, und verursachten durch Auslösung der automatischen Höhenkontrolle an der Einfahrt eines Tunnels eine Vollsperrung Ihrer Fahrtrichtung/ des von Ihnen benutzten Fahrstreifens **). 118124 118112; 118130 *) gem. Höhe angeben 118118; 118136 *) zul. Breite angeben; **) gem. Breite angeben
 
 TBNR 118512 160,00 €
-Sie führten das Fahrzeug, dessen Ladung/Plane *) nicht so befestigt war, dass es zu jeder Zeit nicht höher als 4 Meter war, und verursachten durch Auslösung der automatischen Höhenkontrolle an der Einfahrt eines Tunnels eine Vollsperrung Ihrer Fahrtrichtung/des von Ihnen benutzten Fahrstreifens **). 118512 *) Zutreffendes angeben **) Zutreffendes angeben
+Sie führten das Fahrzeug, dessen Ladung/Plane *) nicht so befestigt war, dass es zu jeder Zeit nicht höher als 4 Meter war, und verursachten durch Auslösung der automatischen Höhenkontrolle an der Einfahrt eines Tunnels eine Vollsperrung Ihrer Fahrtrichtung/des von Ihnen benutzten Fahrstreifens **).
 
 TBNR 118600 70,00 € P:B-1
 Sie benutzten die Autobahn, obwohl Ihr Fahrzeug mit Ladung die zulässige Höhe von 4 Meter überschritt und höher als 4,20 Meter war. Gemessene Höhe: *)..,.. m.
@@ -2346,7 +2346,7 @@ TBNR 118625 90,00 € P:A-1
 Sie fuhren auf die Fahrbahn ein, ohne die Vorfahrt des auf der durchgehenden Fahrbahn fahrenden Kraftfahrzeuges zu beachten und gefährdeten +) dadurch Andere.
 
 TBNR 118626 110,00 € P:A-1
-Sie fuhren auf die Fahrbahn ein, ohne die Vorfahrt des auf der durchgehenden Fahrbahn fahrenden Kraftfahrzeuges zu beachten. Es kam zum Unfall. 118148; 118618; *) Zutreffendes angeben 118619
+Sie fuhren auf die Fahrbahn ein, ohne die Vorfahrt des auf der durchgehenden Fahrbahn fahrenden Kraftfahrzeuges zu beachten. Es kam zum Unfall. 118619
 
 ------ Autobahnen und Kraftfahrstraßen - § 18 Abs. 5 StVO
 
@@ -2449,7 +2449,7 @@ TBNR 118684 130,00 € P:A-1
 Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstraße **) rückwärts.
 
 TBNR 118685 160,00 € P:A-1
-Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstraße **) rückwärts und gefährdeten +) dadurch Andere. 118666 - 118685 *) Zutreffendes angeben **) Zutreffendes angeben
+Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstraße **) rückwärts und gefährdeten +) dadurch Andere.
 
 TBNR 118686 195,00 € P:A-1
 Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstraße **) rückwärts. Es kam zum Unfall.
@@ -2470,7 +2470,7 @@ TBNR 118697 240,00 € P:A-2 FV:1 M
 Sie fuhren auf der durchgehenden Fahrbahn der Autobahn/ Kraftfahrstraße *) rückwärts und gefährdeten +) dadurch Andere.
 
 TBNR 118698 290,00 € P:A-2 FV:1 M
-Sie fuhren auf der durchgehenden Fahrbahn der Autobahn/ Kraftfahrstraße *) rückwärts. Es kam zum Unfall. 118686 - 118698 *) Zutreffendes angeben **) Zutreffendes angeben
+Sie fuhren auf der durchgehenden Fahrbahn der Autobahn/ Kraftfahrstraße *) rückwärts. Es kam zum Unfall.
 
 ------ Autobahnen und Kraftfahrstraßen - § 18 Abs. 8, 9, 10, 11 StVO
 
@@ -2502,7 +2502,7 @@ TBNR 118202 25,00 €
 Sie verließen die Kraftfahrstraße, obwohl die Ausfahrt nur an Kreuzungen oder Einmündungen erlaubt ist.
 
 TBNR 118712 80,00 € P:B-1
-Sie benutzten mit einem Lastkraftwagen mit einer Gesamtmasse über 7,5 t einschließlich Anhänger/einer Zugmaschine *) den äußerst linken Fahrstreifen bei Schneeglätte oder Glatteis/den äußerst linken Fahrstreifen, obwohl die Sichtweite bei erheblichem Schneefall oder Regen auf 50 m oder weniger eingeschränkt war **). 118012 - 118190 *) Zutreffendes angeben 118712 *) Zutreffendes angeben **) Zutreffendes angeben
+Sie benutzten mit einem Lastkraftwagen mit einer Gesamtmasse über 7,5 t einschließlich Anhänger/einer Zugmaschine *) den äußerst linken Fahrstreifen bei Schneeglätte oder Glatteis/den äußerst linken Fahrstreifen, obwohl die Sichtweite bei erheblichem Schneefall oder Regen auf 50 m oder weniger eingeschränkt war **).
 
 ------ Bahnübergänge - § 19 StVO
 
@@ -2561,7 +2561,7 @@ TBNR 119636 350,00 € P:A-1
 Sie überquerten als nichtmotorisierter Verkehrsteilnehmer *) den Bahnübergang trotz geschlossener Schranke/Halbschranke **).
 
 TBNR 119100 10,00 €
-Sie verletzten vor einem Bahnübergang eine Wartepflicht. 119630 *) Zutreffendes angeben 119636 *) Verkehrsteilnehmer angeben **) Zutreffendes angeben
+Sie verletzten vor einem Bahnübergang eine Wartepflicht. 119636 *) Verkehrsteilnehmer angeben
 
 ------ Öffentliche Verkehrsmittel und Schulbusse - § 20 Abs. 2 StVO
 
@@ -2605,7 +2605,7 @@ TBNR 120621 200,00 € P:A-2 FV:1 M
 Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720000
 
 TBNR 120622 280,00 € P:A-2 FV:2 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720000 120106 - 120622 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720000 **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
 
 TBNR 120623 480,00 € P:A-2 FV:3 M
 Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720000
@@ -2626,7 +2626,7 @@ TBNR 120631 80,00 € P:A-1
 Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720001
 
 TBNR 120632 95,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720001 120623 - 120632 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720001 **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
 
 TBNR 120633 160,00 € P:A-2 FV:1 M
 Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720001
@@ -2647,7 +2647,7 @@ TBNR 120641 60,00 € P:A-1
 Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720002
 
 TBNR 120642 160,00 € P:A-1
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720002 120633 - 120642 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720002 **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
 
 TBNR 120643 200,00 € P:A-2 FV:1 M
 Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720002
@@ -2668,7 +2668,7 @@ TBNR 120648 760,00 € P:A-2 FV:3 M
 Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720002
 
 TBNR 120124 30,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720003 120643 - 120124 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720003 **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
 
 TBNR 120125 35,00 €
 Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720003
@@ -2689,7 +2689,7 @@ TBNR 120658 400,00 € P:A-2 FV:2 M
 Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720003
 
 TBNR 120659 560,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720003 120125 - 120659 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720003 **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
 
 TBNR 120660 680,00 € P:A-2 FV:3 M
 Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. Güter usw.) Tab.: 720003
@@ -2710,7 +2710,7 @@ TBNR 120667 100,00 € P:A-1
 Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720004
 
 TBNR 120668 160,00 € P:A-2 FV:1 M
-Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720004 120660 - 120668 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720004 **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
 
 TBNR 120669 200,00 € P:A-2 FV:1 M
 Sie überschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720004
@@ -2731,7 +2731,7 @@ TBNR 120137 20,00 €
 Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 11 - 15) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005
 
 TBNR 120138 30,00 €
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005 120669 - 120138 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005 **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
 
 TBNR 120678 70,00 € P:A-1
 Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005
@@ -2752,7 +2752,7 @@ TBNR 120683 440,00 € P:A-2 FV:2 M
 Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005
 
 TBNR 120684 600,00 € P:A-2 FV:3 M
-Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005 120678 - 120684 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zul. Schrittgeschwindigkeit außerhalb geschlossener Ortschaften um ... (über 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Straßenbahn/ gekennzeichneten Schulbus **). Zulässige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005 **) Zutreffende Fahrzeugart angeben ***) Zulässige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben
 
 ------ Öffentliche Verkehrsmittel und Schulbusse - § 20 Abs. 3, 4 StVO
 
@@ -3030,7 +3030,7 @@ TBNR 121154 5,00 €
 Sie ließen zu, dass Personen während der Fahrt auf der Ladefläche des Fahrzeuges gestanden haben, ohne dass es zur Begleitung der Ladung/ Arbeit auf der Ladefläche *) notwendig gewesen wäre.
 
 TBNR 121160 5,00 €
-Sie beförderten auf einem einsitzigen Fahrrad eine Person, die das siebente Lebensjahr bereits vollendet hatte. 121600; 121606 *) Zutreffendes angeben 121148; 121154
+Sie beförderten auf einem einsitzigen Fahrrad eine Person, die das siebente Lebensjahr bereits vollendet hatte. 121148; 121154
 
 TBNR 121166 5,00 €
 Sie beförderten auf dem Fahrrad ein Kind, obwohl die vorgeschriebenen Sicherheitsvorrichtungen nicht vorhanden waren.
@@ -3056,7 +3056,7 @@ TBNR 121612 60,00 € P:B-1
 Sie beförderten auf einem Kraftrad ein Kind, obwohl es keinen Schutzhelm trug.
 
 TBNR 121618 70,00 € P:B-1
-Sie beförderten auf einem Kraftrad mehrere Kinder, obwohl sie keinen Schutzhelm trugen. 121175 *) Zutreffendes angeben
+Sie beförderten auf einem Kraftrad mehrere Kinder, obwohl sie keinen Schutzhelm trugen.
 
 ------ Ladung - § 22 Abs. 1, 2, 3 StVO
 
@@ -3085,7 +3085,7 @@ TBNR 122112 20,00 €
 Sie führten das Fahrzeug, obwohl es mit der Ladung höher als zulässig war.
 
 TBNR 122118 20,00 €
-Sie führten das Fahrzeug, obwohl es mit der Ladung breiter als zulässig war. 122600; 122602; *) Zutreffendes angeben 122603; 122100; 122608; 122609; 122106 122600; 122602; **) Zutreffende Fahrzeugart angeben 122603
+Sie führten das Fahrzeug, obwohl es mit der Ladung breiter als zulässig war. 122603; 122100; 122608; 122609; 122106 122600; 122602; **) Zutreffende Fahrzeugart angeben 122603
 
 TBNR 122124 20,00 €
 Sie führten das für land- oder forstwirtschaftliche Zwecke eingesetzte Fahrzeug, obwohl es mit der Ladung breiter als zulässig war.
@@ -3155,7 +3155,7 @@ TBNR 123143 25,00 €
 Sie führten einen Anhänger mit, dessen Beleuchtungseinrichtung nicht vorhanden/betriebsbereit *) war, und gefährdeten +) dadurch Andere.
 
 TBNR 123144 35,00 €
-Sie führten einen Anhänger mit, dessen Beleuchtungseinrichtung nicht vorhanden/betriebsbereit *) war. Es kam zum Unfall. 123112; 123118; *) Mangel angeben 123119 *) mangelnde Verkehrssicherheit der Ladung/Besetzung erläutern 123118; 123119 **) Zutreffendes angeben 123136 - 123144 *) Zutreffendes angeben
+Sie führten einen Anhänger mit, dessen Beleuchtungseinrichtung nicht vorhanden/betriebsbereit *) war. Es kam zum Unfall. 123112; 123118; *) Mangel angeben 123119 *) mangelnde Verkehrssicherheit der Ladung/Besetzung erläutern
 
 TBNR 123600 80,00 € P:B-1
 Sie führten das nicht vorschriftsmäßige *) Fahrzeug, wodurch die Verkehrssicherheit wesentlich beeinträchtigt war.
@@ -3200,7 +3200,7 @@ TBNR 123619 75,00 € P:B-1
 Sie führten als Führer des Kraftfahrzeugs verbotswidrig ein technisches Gerät betriebsbereit mit, das dafür bestimmt ist, 1) Verkehrsüberwachungsmaßnahmen anzuzeigen/zu stören *).
 
 TBNR 123166 10,00 €
-Sie zogen das Fahrzeug nicht auf dem kürzesten Weg aus dem Verkehr, obwohl unterwegs die Verkehrssicherheit wesentlich beeinträchtigende Mängel aufgetreten waren. 123624 - 123631 *) näher erläutern 123618, 123619 *) Zutreffendes angeben 1) 123624 - 123619 Nach Abstimmung mit der Arbeitsgruppe Bundeseinheitlicher Tatbestandskatalog ergänzt/geändert aufgrund der 53. Verordnung zur Änderung straßenverkehrsrechtlicher Vorschriften vom 06.10.2017 (BGBl. I S. 3549)
+Sie zogen das Fahrzeug nicht auf dem kürzesten Weg aus dem Verkehr, obwohl unterwegs die Verkehrssicherheit wesentlich beeinträchtigende Mängel aufgetreten waren. 123624 - 123631 *) näher erläutern 1) 123624 - 123619 Nach Abstimmung mit der Arbeitsgruppe Bundeseinheitlicher Tatbestandskatalog ergänzt/geändert aufgrund der 53. Verordnung zur Änderung straßenverkehrsrechtlicher Vorschriften vom 06.10.2017 (BGBl. I S. 3549)
 
 TBNR 123000 5,00 €
 Sie hängten sich an ein fahrendes Fahrzeug.
@@ -3229,7 +3229,7 @@ TBNR 125006 5,00 €
 Sie überstiegen die Absperrung.
 
 TBNR 125007 10,00 €
-Sie überstiegen die Absperrung. Es kam zum Unfall. 125100; 125112; *) Zutreffendes angeben 125113
+Sie überstiegen die Absperrung. Es kam zum Unfall. 125113
 
 ------ Fußgängerüberweg - § 26 StVO
 
@@ -3300,7 +3300,7 @@ TBNR 129606 60,00 € P:A-1
 Sie führten das Fahrzeug, dessen Abmessungen/Achslasten/Gesamtmasse*) die gesetzlich allgemein zugelassenen Grenzen **) tatsächlich überschritten, ohne dass eine Erlaubnis vorlag.
 
 TBNR 129612 60,00 € P:A-1
-Sie führten ohne entsprechende Erlaubnis das Fahrzeug, dessen Bauart Ihnen kein ausreichendes Sichtfeld ließ. 129506 *) Zutreffendes angeben 129606 *) Tatsächliche Abmessungen, Achslasten oder Gesamtmasse angeben 129606 **) Zulässige Abmessungen, Achslasten oder Gesamtmasse angeben
+Sie führten ohne entsprechende Erlaubnis das Fahrzeug, dessen Bauart Ihnen kein ausreichendes Sichtfeld ließ. 129606 *) Tatsächliche Abmessungen, Achslasten oder Gesamtmasse angeben 129606 **) Zulässige Abmessungen, Achslasten oder Gesamtmasse angeben
 
 ------ Umweltschutz, Sonn- und Feiertagsfahrverbot - § 30 StVO
 
@@ -3320,7 +3320,7 @@ TBNR 130603 570,00 €
 Sie fuhren als Halter verbotswidrig an dem Sonntag/Feiertag *) mit einem LKW mit einer zulässigen Gesamtmasse über 7,5 t/LKW mit Anhänger **).
 
 TBNR 130606 570,00 €
-Sie ordneten an bzw. ließen zu, dass verbotswidrig an dem Sonntag/ Feiertag *) mit einem LKW mit einer zulässigen Gesamtmasse über 7,5 t/LKW mit Anhänger **) gefahren wurde. 130600 - 130606 *) Zutreffendes angeben 130600 - 130606 **) Zutreffendes angeben
+Sie ordneten an bzw. ließen zu, dass verbotswidrig an dem Sonntag/ Feiertag *) mit einem LKW mit einer zulässigen Gesamtmasse über 7,5 t/LKW mit Anhänger **) gefahren wurde.
 
 ------ Sport und Spiel - § 31 StVO
 
@@ -3355,7 +3355,7 @@ TBNR 131113 15,00 €
 Sie ermöglichten bei durch Zusatzzeichen erlaubtem Inline-Skaten und Rollschuhfahren anderen Fahrzeugen nicht das Überholen und behinderten +) dadurch Andere.
 
 TBNR 131114 20,00 €
-Sie ermöglichten bei durch Zusatzzeichen erlaubtem Inline-Skaten und Rollschuhfahren anderen Fahrzeugen nicht das Überholen und gefährdeten +) dadurch Andere. 131100 - 131000 *) Zutreffendes angeben **) Zutreffendes angeben
+Sie ermöglichten bei durch Zusatzzeichen erlaubtem Inline-Skaten und Rollschuhfahren anderen Fahrzeugen nicht das Überholen und gefährdeten +) dadurch Andere.
 
 TBNR 131012 35,00 €
 Sie ermöglichten bei durch Zusatzzeichen erlaubtem Inline-Skaten und Rollschuhfahren anderen Fahrzeugen nicht das Überholen. Es kam zum Unfall.
@@ -3378,7 +3378,7 @@ TBNR 132606 60,00 € P:B-1
 Sie ließen das nicht zugelassene Fahrzeug an der Stelle stehen, wodurch der Verkehr gefährdet/erschwert *) werden konnte.
 
 TBNR 132118 5,00 €
-Sie führten ein gefährliches Gerät ohne wirksamen Schutz mit. 132100, 132106, *) Zutreffendes angeben 132600, 132606 132100, 132600 **) Zutreffendes angeben
+Sie führten ein gefährliches Gerät ohne wirksamen Schutz mit. 132600, 132606
 
 ------ Verkehrsbeeinträchtigungen - § 33 Abs. 1, 2 StVO
 
@@ -3395,7 +3395,7 @@ TBNR 133018 15,00 €
 Sie brachten verbotswidrig eine Einrichtung an/verwendeten verbotswidrig eine Einrichtung *), die einem Verkehrszeichen/einer Verkehrseinrichtung **) gleicht.
 
 TBNR 133024 15,00 €
-Sie brachten verbotswidrig eine Einrichtung an/verwendeten verbotswidrig eine Einrichtung *), die die Wirkung eines Verkehrszeichens /einer Verkehrseinrichtung **) beeinträchtigen kann. 133006, 133012, *) Zutreffendes angeben 133018, 133024 133018, 133024 **) Zutreffendes angeben
+Sie brachten verbotswidrig eine Einrichtung an/verwendeten verbotswidrig eine Einrichtung *), die die Wirkung eines Verkehrszeichens /einer Verkehrseinrichtung **) beeinträchtigen kann. 133018, 133024
 
 ------ Unfall - § 34 StVO
 
@@ -3577,7 +3577,7 @@ TBNR 137649 200,00 € P:A-2 FV:1 M
 Sie missachteten das Dauerlichtzeichen "rote gekreuzte Schrägbalken" und gefährdeten +) dadurch Andere.
 
 TBNR 137650 240,00 € P:A-2 FV:1 M
-Sie missachteten das Dauerlichtzeichen "rote gekreuzte Schrägbalken". Es kam zum Unfall. 137636 - 137638 *) Zutreffendes angeben
+Sie missachteten das Dauerlichtzeichen "rote gekreuzte Schrägbalken". Es kam zum Unfall.
 
 ------ Blaues Blinklicht und gelbes Blinklicht - § 38 StVO
 
@@ -3665,7 +3665,7 @@ TBNR 141315 35,00 €
 Sie parkten länger als 1 Stunde im absoluten Haltverbot (Zeichen 283) und behinderten +) dadurch Andere. 52.2.1 BKat; § 19 OWiG Tab.: 741017
 
 TBNR 141050 10,00 €
-Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/ einer Feuerwehrzufahrt/eines Rettungsweges *) (Zeichen 283 mit Zusatzzeichen). Tab.: 741037 141050 *) Zutreffendes angeben
+Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/ einer Feuerwehrzufahrt/eines Rettungsweges *) (Zeichen 283 mit Zusatzzeichen). Tab.: 741037
 
 TBNR 141051 15,00 €
 Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/ einer Feuerwehrzufahrt/eines Rettungsweges *) (Zeichen 283 mit Zusatzzeichen) und behinderten +) dadurch ein Rettungsfahrzeug im Einsatz. -- BKat; § 19 OWiG Tab.: 741037
@@ -3698,7 +3698,7 @@ TBNR 141332 15,00 €
 Sie parkten links von einer Fahrbahnbegrenzung (Zeichen 295). Tab.: 741019
 
 TBNR 141333 25,00 €
-Sie parkten links von einer Fahrbahnbegrenzung (Zeichen 295) und behinderten +) dadurch Andere. 52.1 BKat; § 19 OWiG Tab.: 741019 141051, 141056, *) Zutreffendes angeben 141518
+Sie parkten links von einer Fahrbahnbegrenzung (Zeichen 295) und behinderten +) dadurch Andere. 52.1 BKat; § 19 OWiG Tab.: 741019 141518
 
 TBNR 141334 25,00 €
 Sie parkten länger als 1 Stunde links von einer Fahrbahnbegrenzung (Zeichen 295). Tab.: 741019
@@ -3761,7 +3761,7 @@ TBNR 141365 35,00 €
 Sie parkten länger als 1 Stunde näher als 10 Meter vor einem Andreaskreuz (Zeichen 201)/Zeichen 205 (Vorfahrt gewähren.)/ Zeichen 206 (Halt. Vorfahrt gewähren.) *) und verdeckten dieses, wodurch Andere behindert +) wurden. 52.2.1 BKat; § 19 OWiG Tab.: 741022
 
 TBNR 141380 10,00 €
-Sie hielten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229). Tab.: 741024 141360 - 141365 *) Zutreffendes angeben
+Sie hielten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229). Tab.: 741024
 
 TBNR 141381 15,00 €
 Sie hielten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229) und behinderten +) dadurch den Taxenverkehr. 51.1 BKat; § 19 OWiG Tab.: 741024
@@ -3791,7 +3791,7 @@ TBNR 141395 35,00 €
 Sie parkten länger als 1 Stunde im eingeschränkten Haltverbot (Zeichen 286/290.1, 290.2 *)) mit Zusatzzeichen "Bewohner mit Parkausweis frei" und behinderten +) dadurch Andere. Ein besonderer Parkausweis lag nicht gut lesbar aus. 52.2.1 BKat; § 19 OWiG Tab.: 741025
 
 TBNR 141402 10,00 €
-Sie parkten in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224). Tab.: 741027 141392 - 141395 *) Zutreffendes angeben
+Sie parkten in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224). Tab.: 741027
 
 TBNR 141403 15,00 €
 Sie parkten in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224) und behinderten +) dadurch Andere. 54.1 BKat; § 19 OWiG Tab.: 741027
@@ -3821,7 +3821,7 @@ TBNR 141423 15,00 €
 Sie parkten innerhalb einer Grenzmarkierung (Zeichen 299) für ein Parkverbot und behinderten +) dadurch Andere. 54.1 BKat; § 19 OWiG Tab.: 741030
 
 TBNR 141424 20,00 €
-Sie parkten länger als 3 Stunden innerhalb einer Grenzmarkierung (Zeichen 299) für ein Parkverbot. Tab.: 741030 141412 - 141415 *) Zutreffendes angeben
+Sie parkten länger als 3 Stunden innerhalb einer Grenzmarkierung (Zeichen 299) für ein Parkverbot. Tab.: 741030
 
 TBNR 141425 30,00 €
 Sie parkten länger als 3 Stunden innerhalb einer Grenzmarkierung (Zeichen 299) für ein Parkverbot und behinderten +) dadurch Andere. 54.2.1 BKat; § 19 OWiG Tab.: 741030
@@ -3880,7 +3880,7 @@ TBNR 141004 15,00 €
 Sie hielten auf einem Geh- und Radweg (Zeichen 240/ 241*)). und behinderten +) dadurch Andere. -- BKat; § 19 OWiG Tab.: 741034
 
 TBNR 141112 20,00 €
-Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)). Tab.: 741034 141106 - 141112 *) Zutreffendes angeben
+Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)). Tab.: 741034
 
 TBNR 141113 30,00 €
 Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)) und behinderten +) dadurch Andere. 52a.1 BKat; § 19 OWiG Tab.: 741034
@@ -3916,7 +3916,7 @@ TBNR 141023 25,00 €
 Sie parkten auf einer Fahrradstraße (Zeichen 244.1, 244.2) und behinderten +) dadurch Andere. -- BKat; § 19 OWiG Tab.: 741035
 
 TBNR 141024 25,00 €
-Sie parkten länger als 1 Stunde auf einer Fahrradstraße (Zeichen 244.1, 244.2). Tab.: 741035 141113 - 141116 *) Zutreffendes angeben
+Sie parkten länger als 1 Stunde auf einer Fahrradstraße (Zeichen 244.1, 244.2). Tab.: 741035
 
 TBNR 141025 35,00 €
 Sie parkten länger als 1 Stunde auf einer Fahrradstraße (Zeichen 244.1, 244.2) und behinderten +) dadurch Andere. -- BKat; § 19 OWiG Tab.: 741035
@@ -4116,7 +4116,7 @@ TBNR 141207 35,00 €
 Sie beachteten nicht das bestehende Wendeverbot (Zeichen 272). Es kam zum Unfall. 148 BKat; § 19 OWiG
 
 TBNR 141208 25,00 €
-Sie unterschritten den vorgeschriebenen Mindestabstand (Zeichen 273) zu dem vorausfahrenden Fahrzeug. 141196, 141198 *) Zutreffendes angeben
+Sie unterschritten den vorgeschriebenen Mindestabstand (Zeichen 273) zu dem vorausfahrenden Fahrzeug.
 
 TBNR 141600 70,00 € P:A-1
 Sie beachteten nicht das unbedingte Haltgebot (Zeichen 206) und gefährdeten +) dadurch Andere. 150 BKat; § 19 OWiG
@@ -4161,7 +4161,7 @@ TBNR 141628 85,00 € P:A-1
 Sie missachteten das Überholverbot, das durch Zeichen 276/277 *) angeordnet war, und gefährdeten +) dadurch Andere.
 
 TBNR 141629 105,00 € P:A-1
-Sie missachteten das Überholverbot, das durch Zeichen 276/277 *) angeordnet war. Es kam zum Unfall. 141627 - 141629 *) Zutreffendes angeben
+Sie missachteten das Überholverbot, das durch Zeichen 276/277 *) angeordnet war. Es kam zum Unfall.
 
 TBNR 141446 20,00 €
 Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war.
@@ -4173,7 +4173,7 @@ TBNR 141448 30,00 €
 Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war, und gefährdeten +) dadurch Andere. 7.1.2 BKat; § 19 OWiG
 
 TBNR 141449 35,00 €
-Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war. Es kam zum Unfall. 7.1.3 BKat; § 19 OWiG 141446 - 141449 *) Zutreffendes angeben
+Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war. Es kam zum Unfall. 7.1.3 BKat; § 19 OWiG
 
 TBNR 141212 20,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit: *)... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): **)... km/h. (Lkw usw.) Tab.: 741000
@@ -4613,7 +4613,7 @@ TBNR 142272 20,00 €
 Sie parkten verbotswidrig auf einem Schutzstreifen für den Radverkehr (Zeichen 340). Tab.: 742107
 
 TBNR 142273 30,00 €
-Sie parkten verbotswidrig auf einem Schutzstreifen für den Radverkehr (Zeichen 340) und behinderten +) dadurch Andere. 54a.1 BKat; § 19 OWiG Tab.: 742107 142252 - 142255 *) Zutreffendes angeben 142262 - 142265 *) Zusatzzeichen angeben
+Sie parkten verbotswidrig auf einem Schutzstreifen für den Radverkehr (Zeichen 340) und behinderten +) dadurch Andere. 54a.1 BKat; § 19 OWiG Tab.: 742107 142262 - 142265 *) Zusatzzeichen angeben
 
 TBNR 142274 30,00 €
 Sie parkten verbotswidrig länger als 3 Stunden auf einem Schutzstreifen für den Radverkehr (Zeichen 340). Tab.: 742107
@@ -4622,7 +4622,7 @@ TBNR 142275 35,00 €
 Sie parkten verbotswidrig länger als 3 Stunden auf einem Schutzstreifen für den Radverkehr (Zeichen 340) und behinderten +) dadurch Andere. 54a.2.1 BKat; § 19 OWiG Tab.: 742107
 
 TBNR 142278 35,00 €
-Sie parkten auf einem Sonderparkplatz für Schwerbehinderte mit außergewöhnlicher Gehbehinderung, beidseitiger Amelie oder Phokomelie, mit vergleichbaren Funktionseinschränkungen sowie für blinde Menschen (Zeichen 314/315 *) und Zusatzzeichen mit Rollstuhlfahrersinnbild). Ein besonderer Parkausweis lag nicht gut lesbar aus. 142278 *) Zutreffendes angeben
+Sie parkten auf einem Sonderparkplatz für Schwerbehinderte mit außergewöhnlicher Gehbehinderung, beidseitiger Amelie oder Phokomelie, mit vergleichbaren Funktionseinschränkungen sowie für blinde Menschen (Zeichen 314/315 *) und Zusatzzeichen mit Rollstuhlfahrersinnbild). Ein besonderer Parkausweis lag nicht gut lesbar aus.
 
 ------ Richtzeichen - § 42 Abs. 2 iVm Anlage 3 StVO (Parken)
 
@@ -4791,7 +4791,7 @@ TBNR 146106 10,00 €
 Sie händigten den Genehmigungsbescheid/Erlaubnisbescheid *) auf Verlangen der zuständigen Person nicht aus.
 
 TBNR 146600 60,00 € P:B-1
-Sie befolgten eine vollziehbare Auflage *) einer Ausnahmegenehmigung oder Erlaubnis nicht. 146100 *) Zutreffendes angeben bis 146106 146600 *) Auflage angeben
+Sie befolgten eine vollziehbare Auflage *) einer Ausnahmegenehmigung oder Erlaubnis nicht. bis 146106 146600 *) Auflage angeben
 
 ------ Verkehrsunterricht - § 48 StVO
 
@@ -4832,7 +4832,7 @@ TBNR 204100 10,00 €
 Sie führten den vorgeschriebenen Führerschein/die Übersetzung des ausländischen Führerscheins *) nicht mit.
 
 TBNR 204106 10,00 €
-Sie händigten auf Verlangen der zuständigen Person den Führerschein/ die Übersetzung des ausländischen Führerscheins *) nicht aus. 204100; 204106 *) Zutreffendes angeben
+Sie händigten auf Verlangen der zuständigen Person den Führerschein/ die Übersetzung des ausländischen Führerscheins *) nicht aus.
 
 ------ Sonderbestimmung für das Führen von Mofas etc. - § 5 FeV
 
@@ -4849,7 +4849,7 @@ TBNR 205100 10,00 €
 Sie führten beim Führen eines Mofas/geschwindigkeitsbeschränkten Kraftfahrzeuges *) die Prüfbescheinigung oder den Führerschein nicht mit.
 
 TBNR 205106 10,00 €
-Sie händigten auf Verlangen der zuständigen Person die Prüfbescheinigung nicht aus. 205000; 205100 *) Zutreffendes angeben
+Sie händigten auf Verlangen der zuständigen Person die Prüfbescheinigung nicht aus.
 
 ------ Mindestalter der Kraftfahrzeugführer - § 10 FeV
 
@@ -4985,7 +4985,7 @@ TBNR 319618 135,00 € P:B-1
 Sie ordneten die Inbetriebnahme des Fahrzeuges an, obwohl die Betriebserlaubnis erloschen war, bzw. ließen sie zu. Die Verkehrssicherheit war dadurch wesentlich beeinträchtigt *).
 
 TBNR 319621 135,00 €
-Sie ordneten die Inbetriebnahme des Fahrzeuges an, obwohl die Betriebserlaubnis erloschen war, bzw. ließen sie zu. Die Umwelt war dadurch wesentlich beeinträchtigt *). 319000 *) Zutreffendes angeben 319600, 319603 *) Zutreffende Fahrzeugart angeben 319612, 319615 319600, 319603 **) Art der Beeinträchtigung angeben 319612, 319615 319606, 319609 *) Art der Beeinträchtigung angeben 319618, 319621
+Sie ordneten die Inbetriebnahme des Fahrzeuges an, obwohl die Betriebserlaubnis erloschen war, bzw. ließen sie zu. Die Umwelt war dadurch wesentlich beeinträchtigt *). 319600, 319603 *) Zutreffende Fahrzeugart angeben 319612, 319615 319600, 319603 **) Art der Beeinträchtigung angeben 319612, 319615 319606, 319609 *) Art der Beeinträchtigung angeben 319618, 319621
 
 ------ Untersuchung der Kraftfahrzeuge u. Anhänger - § 29 StVZO
 
@@ -5038,7 +5038,7 @@ TBNR 329018 5,00 €
 Sie sorgten nicht dafür, dass sich die an dem Fahrzeug angebrachte Prüfplakette/Prüfmarke *) in einem ordnungsgemäßen Zustand **) befand, insbesondere nicht verdeckt oder verschmutzt war.
 
 TBNR 329024 15,00 €
-Sie ließen an dem Fahrzeug die amtlichen Kennzeichen nicht entstempeln und lieferten den Fahrzeugschein/Nachweis über die Betriebserlaubnis *) nicht ab, obwohl der Betrieb infolge fehlender Prüfplakette/Prüfmarke **) durch die Zulassungsbehörde untersagt war. 329113 - 329610 *) Fahrzeugart angeben (z. B. Pkw, Kraftrad) **) vorgeschriebenen Vorführtermin angeben 329018; 329024 *) Zutreffendes angeben 329018 **) näher erläutern 329024 **) Zutreffendes angeben
+Sie ließen an dem Fahrzeug die amtlichen Kennzeichen nicht entstempeln und lieferten den Fahrzeugschein/Nachweis über die Betriebserlaubnis *) nicht ab, obwohl der Betrieb infolge fehlender Prüfplakette/Prüfmarke **) durch die Zulassungsbehörde untersagt war. 329113 - 329610 *) Fahrzeugart angeben (z. B. Pkw, Kraftrad) **) vorgeschriebenen Vorführtermin angeben 329018 **) näher erläutern
 
 TBNR 329612 60,00 € P:B-1
 Sie missachteten das Betriebsverbot/die Beschränkung für den Betrieb *) des Fahrzeuges wegen Fehlens einer gültigen Prüfplakette/Prüfmarke **).
@@ -5056,7 +5056,7 @@ TBNR 329048 15,00 €
 Sie führten kein vorschriftsmäßiges Prüfbuch für das Fahrzeug.
 
 TBNR 329054 15,00 €
-Sie bewahrten das Prüfbuch für das Fahrzeug nicht bis zur endgültigen Außerbetriebsetzung auf. 329612; 329030 *) Zutreffendes angeben 329612 **) Zutreffendes angeben
+Sie bewahrten das Prüfbuch für das Fahrzeug nicht bis zur endgültigen Außerbetriebsetzung auf.
 
 ------ Beschaffenheit der Fahrzeuge - § 30 StVZO
 
@@ -5188,7 +5188,7 @@ TBNR 331124 30,00 €
 Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/Anhängers *) an, obwohl es/er **) unzulässig auf einer Achse mit Diagonal - und mit Radialreifen ausgerüstet war, bzw. ließen sie zu.
 
 TBNR 331506 75,00 €
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs (außer Mofa)/ Anhängers *) an, obwohl die Reifen mangelhaft **) waren, bzw. ließen sie zu. 331066 *) Datum des Prüftermins angeben 331124; 331506 *) Zutreffende Fahrzeugart angeben 331124; **) Zutreffendes angeben 331160; 331164 *) Zutreffendes angeben 331506 **) Mängel angeben
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs (außer Mofa)/ Anhängers *) an, obwohl die Reifen mangelhaft **) waren, bzw. ließen sie zu. 331066 *) Datum des Prüftermins angeben 331124; 331506 *) Zutreffende Fahrzeugart angeben 331506 **) Mängel angeben
 
 TBNR 331512 75,00 €
 Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs (außer Mofa)/ Anhängers *) an, obwohl die Reifen mit Spikes ausgestattet waren, bzw. ließen sie zu.
@@ -5266,10 +5266,10 @@ TBNR 331626 585,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen *) bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung **) wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.3.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
 
 TBNR 331630 135,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung *) wesentlich beeinträchtigt wurde, bzw. ließen sie zu. 331618 - 331626 *) Zutreffende Fahrzeugart angeben **) Zutreffendes angeben 331630 *) Zutreffendes angeben
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung *) wesentlich beeinträchtigt wurde, bzw. ließen sie zu. 331618 - 331626 *) Zutreffende Fahrzeugart angeben
 
 TBNR 331631 165,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung *) wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten +) dadurch Andere. 189.3.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG 331631 *) Zutreffendes angeben
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung *) wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten +) dadurch Andere. 189.3.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
 
 TBNR 331632 200,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung *) wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.3.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
@@ -5293,7 +5293,7 @@ TBNR 331690 75,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/Anhängers *) an, obwohl dessen Reifen keine vorschriftsmäßigen Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besaß, bzw. ließen sie zu. 213 BKat
 
 TBNR 331696 112,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen *) an, obwohl dessen Reifen keine vorschriftsmäßigen Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besaß, bzw. ließen sie zu. 213 BKat; § 3 Abs. 4 BKatV 331632 *) Zutreffendes angeben 331660 - 331678 *) Zutreffende Fahrzeugart angeben 331690 - 331696 331660 - 331672 ***) Zutreffende Rechtsgrundlage angeben 331690; 331696 **) Zutreffende Rechtsgrundlage angeben 331660 - 331672 **) Tatsächliche Überschreitung angeben
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen *) an, obwohl dessen Reifen keine vorschriftsmäßigen Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besaß, bzw. ließen sie zu. 213 BKat; § 3 Abs. 4 BKatV 331660 - 331678 *) Zutreffende Fahrzeugart angeben 331690 - 331696 331660 - 331672 ***) Zutreffende Rechtsgrundlage angeben 331690; 331696 **) Zutreffende Rechtsgrundlage angeben 331660 - 331672 **) Tatsächliche Überschreitung angeben
 
 TBNR 331702 270,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses *) bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
@@ -5916,12 +5916,12 @@ TBNR 331986 100,00 €
 Sie bewahrten das Ihnen auferlegte Fahrtenbuch nicht fristgemäß auf.
 
 TBNR 331992 100,00 €
-Sie unterließen es, das Ihnen auferlegte Fahrtenbuch der zuständigen Person auszuhändigen. 331980 *) Zutreffendes angeben
+Sie unterließen es, das Ihnen auferlegte Fahrtenbuch der zuständigen Person auszuhändigen.
 
 ------ Überprüfung mitzuführender Gegenstände - § 31b StVZO
 
 TBNR 331332 5,00 €
-Sie weigerten sich, mitzuführende Gegenstände auf Verlangen vorzuzeigen/zur Prüfung auszuhändigen *). 331332 *) Zutreffendes angeben
+Sie weigerten sich, mitzuführende Gegenstände auf Verlangen vorzuzeigen/zur Prüfung auszuhändigen *).
 
 ------ Überprüfung von Fahrzeuggewichten - § 31c StVZO
 
@@ -5929,7 +5929,7 @@ TBNR 331994 50,00 €
 Sie weigerten sich, nach Weisung einer zuständigen Person das Gesamtgewicht/die zugelassenen Achslasten *) feststellen zu lassen.
 
 TBNR 331998 50,00 €
-Sie kamen der Weisung einer zuständigen Person nicht nach, eine der festgestellten Überlastung entsprechende Um- oder Entladung des Fahrzeuges durchzuführen. 331994 *) Zutreffendes angeben
+Sie kamen der Weisung einer zuständigen Person nicht nach, eine der festgestellten Überlastung entsprechende Um- oder Entladung des Fahrzeuges durchzuführen.
 
 ------ Abmessungen von Fahrzeug(en) u. -kombinationen - § 32 StVZO
 
@@ -5944,7 +5944,7 @@ Sie nahmen das Fahrzeug ohne vorgeschriebenen Unterfahrschutz in Betrieb.
 ------ Seitliche Schutzvorrichtung - § 32c StVZO
 
 TBNR 332000 25,00 €
-Sie nahmen das Fahrzeug ohne vorgeschriebene seitliche Schutzvorrichtung/mit einer nicht vorschriftsmäßigen Schutzvorrichtung *) in Betrieb. 332000 *) Zutreffendes angeben
+Sie nahmen das Fahrzeug ohne vorgeschriebene seitliche Schutzvorrichtung/mit einer nicht vorschriftsmäßigen Schutzvorrichtung *) in Betrieb.
 
 ------ Kurvenlaufeigenschaften - § 32d StVZO
 
@@ -6710,7 +6710,7 @@ TBNR 335012 5,00 €
 Sie beförderten auf dem Kraftrad ein Kind unter 7 Jahren, obwohl ein besonderer Sitz bzw. ein Schutz für die Füße nicht vorhanden war.
 
 TBNR 335109 25,00 €
-Sie führten das Kraftfahrzeug, obwohl die Rückhalteeinrichtung für Kinder bis zu einem Alter von 15 Monaten nicht rückwärts oder seitlich gerichtet angebracht war. 335000 *) Zutreffendes angeben **) Zutreffendes angeben 335136; 335142 *) Zutreffendes angeben
+Sie führten das Kraftfahrzeug, obwohl die Rückhalteeinrichtung für Kinder bis zu einem Alter von 15 Monaten nicht rückwärts oder seitlich gerichtet angebracht war.
 
 ------ Einrichtungen zum sicheren Führen der Fahrzeuge - § 35b StVZO
 
@@ -6789,7 +6789,7 @@ Sie führten das Kraftfahrzeug bzw. dessen Anhänger, obwohl es unzulässig auf 
 ------ Radabdeckungen, Ersatzräder - § 36a StVZO
 
 TBNR 336012 5,00 €
-Sie führten das Fahrzeug ohne/mit unzureichender *) Radabdeckung. 336012 *) Zutreffendes angeben
+Sie führten das Fahrzeug ohne/mit unzureichender *) Radabdeckung.
 
 ------ Gleitschutzeinrichtungen und Schneeketten - § 37 StVZO
 
@@ -6823,7 +6823,7 @@ TBNR 338605 390,00 € P:B-1
 Sie führten als Halter den Lastkraftwagen/Kraftomnibus *) bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde. Es kam zum Unfall.
 
 TBNR 338606 270,00 € P:B-1
-Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen *) bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde. 338600 - 338606 *) Zutreffendes angeben
+Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen *) bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde.
 
 TBNR 338607 330,00 € P:B-1
 Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen *) bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, und gefährdeten +) dadurch Andere.
@@ -6844,7 +6844,7 @@ TBNR 338612 90,00 € P:B-1
 Sie führten das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde.
 
 TBNR 338613 110,00 € P:B-1
-Sie führten das Fahrzeug bzw. dessen Anhänger , obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, und gefährdeten +) dadurch Andere. 338607 - 338611 *) Zutreffendes angeben
+Sie führten das Fahrzeug bzw. dessen Anhänger , obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, und gefährdeten +) dadurch Andere.
 
 TBNR 338614 135,00 € P:B-1
 Sie führten das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde. Es kam zum Unfall.
@@ -6866,7 +6866,7 @@ Sie führten das Kraftfahrzeug, obwohl die vorgeschriebenen Sicherungseinrichtun
 ------ Scheiben und Scheibenwischer - § 40 StVZO
 
 TBNR 340000 5,00 €
-Sie führten das Kraftfahrzeug, obwohl die Scheibenwischer mangelhaft waren/fehlten *). 340000 *) Zutreffendes angeben
+Sie führten das Kraftfahrzeug, obwohl die Scheibenwischer mangelhaft waren/fehlten *).
 
 ------ Bremsen und Unterlegkeile - § 41 StVZO
 
@@ -7145,7 +7145,7 @@ TBNR 343603 270,00 € P:B-1
 Sie führten als Halter den Lastkraftwagen/Kraftomnibus *) bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde.
 
 TBNR 343604 325,00 € P:B-1
-Sie führten als Halter den Lastkraftwagen/Kraftomnibus *) bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten +) dadurch Andere. 214.1 BKat; § 3 Abs. 2, 3 BKatV; § 19 OWiG 343600 -343604 *) Zutreffendes angeben
+Sie führten als Halter den Lastkraftwagen/Kraftomnibus *) bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten +) dadurch Andere. 214.1 BKat; § 3 Abs. 2, 3 BKatV; § 19 OWiG
 
 TBNR 343605 390,00 € P:B-1
 Sie führten als Halter den Lastkraftwagen/Kraftomnibus *) bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall. 214.1 BKat; § 3 Abs. 2, 3 BKatV; § 19 OWiG
@@ -7209,7 +7209,7 @@ Sie führten das Kraftfahrzeug mit einem einachsigen Anhänger, dessen zulässig
 ------ Ableitung von Abgasen - § 47c StVZO
 
 TBNR 347012 20,00 €
-Sie führten das Fahrzeug, bei dem das Auspuffrohr über die seitliche/hintere *) Begrenzung hinausragte. 347012 *) Zutreffendes angeben
+Sie führten das Fahrzeug, bei dem das Auspuffrohr über die seitliche/hintere *) Begrenzung hinausragte.
 
 ------ Geräuschentwicklung und Schalldämpferanlage - § 49 StVZO
 
@@ -7309,12 +7309,12 @@ Sie führten das Kraftfahrzeug/den Anhänger *) und verstießen dabei gegen die 
 ------ Fahrtrichtungsanzeiger - § 54 StVZO
 
 TBNR 354000 15,00 €
-Sie führten das Fahrzeug, obwohl der Fahrtrichtungsanzeiger fehlte/mangelhaft *) war. 354000 *) Zutreffendes angeben
+Sie führten das Fahrzeug, obwohl der Fahrtrichtungsanzeiger fehlte/mangelhaft *) war.
 
 ------ Einrichtungen für Schallzeichen (Kraftfahrzeuge) - § 55 StVZO
 
 TBNR 355000 15,00 €
-Sie führten das Fahrzeug, obwohl dessen Schallzeicheneinrichtung unzulässig/mangelhaft *) war. 355000 *) Zutreffendes angeben
+Sie führten das Fahrzeug, obwohl dessen Schallzeicheneinrichtung unzulässig/mangelhaft *) war.
 
 ------ Spiegel und andere Einrichtungen für indirekte Sicht - § 56 StVZO
 
@@ -7524,7 +7524,7 @@ TBNR 529512 300,00 € P:B-1
 Sie unterließen es als Fahrzeugführer, Versandstücke, die gefährliche Güter enthalten,/unverpackte gefährliche Gegenstände *) durch geeignete Mittel **), die in der Lage sind, die Güter im Fahrzeug oder Container zurückzuhalten, zu sichern. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 21a GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 238.3 RSEB
 
 TBNR 529518 300,00 € P:B-1
-Sie unterließen es als Fahrzeugführer, bei der Beförderung von gefährlichen Gütern, die mit anderen Gütern befördert wurden, alle Güter so zu sichern oder zu verpacken, dass das Austreten gefährlicher Güter verhindert wird. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 21a GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 238.3 RSEB 529500, 529512 *) Zutreffendes angeben **) Mängel angeben
+Sie unterließen es als Fahrzeugführer, bei der Beförderung von gefährlichen Gütern, die mit anderen Gütern befördert wurden, alle Güter so zu sichern oder zu verpacken, dass das Austreten gefährlicher Güter verhindert wird. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 21a GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 238.3 RSEB **) Mängel angeben
 
 ------ Anforderungen an das Inbetriebsetzen - § 2 MobHV
 
@@ -7645,12 +7645,12 @@ TBNR 804512 70,00 €
 Sie ordneten die Inbetriebnahme des zulassungsfreien Fahrzeugs auf einer öffentlichen Straße an, obwohl es nicht der Typgenehmigung entsprach, bzw. ließen sie zu.
 
 TBNR 804518 70,00 €
-Sie ordneten die Inbetriebnahme des zulassungsfreien Fahrzeugs auf einer öffentlichen Straße an, obwohl eine Einzelgenehmigung nicht ausgestellt war, bzw. ließen sie zu. 804600 *) Zutreffendes angeben 804100; 804106 *) Art der Bescheinigung angeben
+Sie ordneten die Inbetriebnahme des zulassungsfreien Fahrzeugs auf einer öffentlichen Straße an, obwohl eine Einzelgenehmigung nicht ausgestellt war, bzw. ließen sie zu. 804100; 804106 *) Art der Bescheinigung angeben
 
 ------ Beschränkung und Untersagung des Betriebs von Fahrzeugen - § 5 FZV
 
 TBNR 805600 70,00 € P:B-1
-Sie befolgten nicht das Verbot/die Beschränkung *), das Fahrzeug in Betrieb zu setzen. 805600 *) Zutreffendes angeben
+Sie befolgten nicht das Verbot/die Beschränkung *), das Fahrzeug in Betrieb zu setzen.
 
 ------ Zuteilung von Kennzeichen - § 8 FZV
 
@@ -7658,7 +7658,7 @@ TBNR 808100 50,00 €
 Sie setzten das Fahrzeug mit Wechselkennzeichen ohne das/mit unvollständigem *) Kennzeichen auf einer öffentlichen Straße in Betrieb.
 
 TBNR 808106 40,00 €
-Sie stellten das Fahrzeug mit Wechselkennzeichen ohne das/mit unvollständigem *) Kennzeichen auf einer öffentlichen Straße ab. 808100, 808106 *) Zutreffendes angeben
+Sie stellten das Fahrzeug mit Wechselkennzeichen ohne das/mit unvollständigem *) Kennzeichen auf einer öffentlichen Straße ab.
 
 ------ Besondere Kennzeichen - § 9 FZV
 
@@ -7695,7 +7695,7 @@ TBNR 810619 65,00 €
 Sie nahmen den zulassungsfreien Anhänger in Betrieb, obwohl dessen vorgeschriebenes Kennzeichen mit Glas, Folie oder ähnlichen Abdeckungen versehen war.
 
 TBNR 810124 10,00 €
-Sie nahmen das Fahrzeug mit einem CC-Zeichen/CD-Zeichen *) auf einer öffentlichen Straße in Betrieb, ohne dass eine Berechtigung zum Führen des Zeichens bestand/die Berechtigung zum Führen des Zeichens in der Zulassungsbescheinigung Teil I eingetragen war **). 810112 *) nicht ordnungsgemäßen Zustand angeben 810124 *) Zutreffendes angeben **) Zutreffendes angeben
+Sie nahmen das Fahrzeug mit einem CC-Zeichen/CD-Zeichen *) auf einer öffentlichen Straße in Betrieb, ohne dass eine Berechtigung zum Führen des Zeichens bestand/die Berechtigung zum Führen des Zeichens in der Zulassungsbescheinigung Teil I eingetragen war **). 810112 *) nicht ordnungsgemäßen Zustand angeben
 
 ------ Zulassungsbescheinigung Teil I - § 11 FZV
 
@@ -7748,7 +7748,7 @@ TBNR 815618 70,00 €
 Sie ordneten als Halter die Inbetriebnahme des Fahrzeugs auf einer öffentlichen Straße an, obwohl auf den Kennzeichenschildern die übersandten Plakettenträger nicht angebracht waren, bzw. ließen sie zu.
 
 TBNR 815624 70,00 €
-Sie ordneten als Halter die Inbetriebnahme des Fahrzeugs auf einer öffentlichen Straße an, auf dessen Kennzeichenschildern Plakettenträger angebracht waren, die für ein anderes Kennzeichen ausgegeben wurden, bzw. ließen sie zu. 815112 *) Zutreffendes angeben
+Sie ordneten als Halter die Inbetriebnahme des Fahrzeugs auf einer öffentlichen Straße an, auf dessen Kennzeichenschildern Plakettenträger angebracht waren, die für ein anderes Kennzeichen ausgegeben wurden, bzw. ließen sie zu.
 
 ------ Prüfungs-, Probe-, Überführungsfahrten mit rotem Kennzeichen - § 16 FZV
 
@@ -7777,7 +7777,7 @@ TBNR 816500 60,00 €
 Sie ordneten die Inbetriebnahme des Fahrzeugs bei einer Prüfungsfahrt, Probefahrt oder Überführungsfahrt ohne rotes Kennzeichen auf einer öffentlichen Straße an, bzw. ließen sie zu.
 
 TBNR 816612 60,00 €
-Sie nahmen das Fahrzeug bei einer Prüfungsfahrt, Probefahrt oder Überführungsfahrt ohne rotes Kennzeichen auf einer öffentlichen Straße in Betrieb. 816100, 816118 *) Zutreffendes angeben
+Sie nahmen das Fahrzeug bei einer Prüfungsfahrt, Probefahrt oder Überführungsfahrt ohne rotes Kennzeichen auf einer öffentlichen Straße in Betrieb.
 
 ------ Probe-, Überführungsfahrten mit Kurzzeitkennzeichen - § 16a FZV
 
@@ -7833,7 +7833,7 @@ Sie setzten das Fahrzeug auf einer öffentlichen Straße in Betrieb, obwohl auf 
 ------ Vorübergehende Teilnahme am Straßenverkehr im Inland - § 20 FZV
 
 TBNR 820106 10,00 €
-Sie führten für das Fahrzeug keine ausländische Zulassungsbescheinigung/keinen internationalen Zulassungsschein/keine Übersetzung des ausländischen Zulassungsscheines *) mit oder händigten dieses Papier auf Verlangen nicht aus. 820106 *) Zutreffendes angeben
+Sie führten für das Fahrzeug keine ausländische Zulassungsbescheinigung/keinen internationalen Zulassungsschein/keine Übersetzung des ausländischen Zulassungsscheines *) mit oder händigten dieses Papier auf Verlangen nicht aus.
 
 ------ Kennzeichen und Unterscheidungszeichen - § 21 FZV
 

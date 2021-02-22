@@ -110,7 +110,7 @@
         },
         {
             "tbnr": "101106",
-            "txt": "Sie behinderten +) durch Au\u00dfer-Acht-Lassen der im Stra\u00dfenverkehr erforderlichen Sorgfalt Andere mehr als nach den Umst\u00e4nden unvermeidbar. 101042 - 101043 *) Zutreffendes angeben",
+            "txt": "Sie behinderten +) durch Au\u00dfer-Acht-Lassen der im Stra\u00dfenverkehr erforderlichen Sorgfalt Andere mehr als nach den Umst\u00e4nden unvermeidbar.",
             "eur": "20,00",
             "legal": "\u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 1.2 BKat",
             "p": "",
@@ -488,7 +488,7 @@
         },
         {
             "tbnr": "102614",
-            "txt": "Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstra\u00dfe **) entgegen der Fahrtrichtung. Es kam zum Unfall. 102606 - 102614 *) Zutreffendes angeben **) Zutreffendes angeben",
+            "txt": "Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstra\u00dfe **) entgegen der Fahrtrichtung. Es kam zum Unfall.",
             "eur": "195,00",
             "legal": "\u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "A-1",
@@ -587,7 +587,7 @@
         },
         {
             "tbnr": "102145",
-            "txt": "Sie missachteten als Radfahrer das Rechtsfahrgebot, indem Sie den markierten Schutzstreifen nicht benutzten. Es kam zum Unfall. 102618 - 102620 *) Zutreffendes angeben",
+            "txt": "Sie missachteten als Radfahrer das Rechtsfahrgebot, indem Sie den markierten Schutzstreifen nicht benutzten. Es kam zum Unfall.",
             "eur": "30,00",
             "legal": "\u00a7 2 Abs. 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 3.4.3 BKat; \u00a7 19 OWiG",
             "p": "",
@@ -758,7 +758,7 @@
         },
         {
             "tbnr": "102673",
-            "txt": "Sie verstie\u00dfen auf der Autobahn/Kraftfahrstra\u00dfe *) gegen das Rechtsfahrgebot. Es kam zum Unfall. 102672; 102673 *) Zutreffendes angeben",
+            "txt": "Sie verstie\u00dfen auf der Autobahn/Kraftfahrstra\u00dfe *) gegen das Rechtsfahrgebot. Es kam zum Unfall.",
             "eur": "100,00",
             "legal": "\u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "A-1",
@@ -830,7 +830,7 @@
         },
         {
             "tbnr": "102696",
-            "txt": "Sie suchten als F\u00fchrer eines kennzeichnungspflichtigen Kraftfahrzeugs mit gef\u00e4hrlichen G\u00fctern bei einer Sichtweite unter 50 m/Schneegl\u00e4tte oder Glatteis *), obwohl n\u00f6tig, nicht den n\u00e4chsten geeigneten Platz zum Parken auf. 102690 - 102696 *) Zutreffendes angeben",
+            "txt": "Sie suchten als F\u00fchrer eines kennzeichnungspflichtigen Kraftfahrzeugs mit gef\u00e4hrlichen G\u00fctern bei einer Sichtweite unter 50 m/Schneegl\u00e4tte oder Glatteis *), obwohl n\u00f6tig, nicht den n\u00e4chsten geeigneten Platz zum Parken auf.",
             "eur": "140,00",
             "legal": "\u00a7 2 Abs. 3a, \u00a7 49 StVO; \u00a7 24 StVG; 6 BKat",
             "p": "B-1",
@@ -920,7 +920,7 @@
         },
         {
             "tbnr": "102182",
-            "txt": "Sie benutzten als Radfahrer vorschriftswidrig den rechten Seitenstreifen, obwohl ein Radweg vorhanden war. Es kam zum Unfall. 102167 - 102169 *) Zutreffendes angeben",
+            "txt": "Sie benutzten als Radfahrer vorschriftswidrig den rechten Seitenstreifen, obwohl ein Radweg vorhanden war. Es kam zum Unfall.",
             "eur": "30,00",
             "legal": "\u00a7 2 Abs. 4, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 7.2.3 BKat; \u00a7 19 OWiG",
             "p": "",
@@ -2783,7 +2783,7 @@
         },
         {
             "tbnr": "104619",
-            "txt": "Sie hielten mit einem kennzpfl. Kfz. m. gef. G\u00fctern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 4/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten ber\u00fccksichtigt. (Kfz m. gef. G\u00fctern oder KOM m. Fahrg\u00e4sten) Tab.: 704003 104612 - 104619 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben 104618 - 104619 ***) Zutreffendes angeben",
+            "txt": "Sie hielten mit einem kennzpfl. Kfz. m. gef. G\u00fctern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 4/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten ber\u00fccksichtigt. (Kfz m. gef. G\u00fctern oder KOM m. Fahrg\u00e4sten) Tab.: 704003 104612 - 104619 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben",
             "eur": "150,00",
             "legal": "\u00a7 4 Abs. 1, \u00a7 49 StVO; \u00a7 24 StVG; 12.5.2 BKat; \u00a7 3 Abs. 4 BKatV",
             "p": "A-1",
@@ -2846,7 +2846,7 @@
         },
         {
             "tbnr": "104627",
-            "txt": "Sie hielten mit einem kennzpfl. Kfz. m. gef. G\u00fctern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 2/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten ber\u00fccksichtigt. (Kfz m. gef. G\u00fctern oder KOM m. Fahrg\u00e4sten) Tab.: 704004 104620 - 104627 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben ***) Zutreffendes angeben",
+            "txt": "Sie hielten mit einem kennzpfl. Kfz. m. gef. G\u00fctern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 2/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten ber\u00fccksichtigt. (Kfz m. gef. G\u00fctern oder KOM m. Fahrg\u00e4sten) Tab.: 704004 104620 - 104627 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben",
             "eur": "360,00",
             "legal": "\u00a7 3 Abs. 4, \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -2900,7 +2900,7 @@
         },
         {
             "tbnr": "104634",
-            "txt": "Sie hielten mit einem kennzpfl. Kfz. m. gef. G\u00fctern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (\u00fcber 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 1/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten ber\u00fccksichtigt. (Kfz m. gef. G\u00fctern oder KOM m. Fahrg\u00e4sten) Tab.: 704005 104628 - 104634 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben ***) Zutreffendes angeben",
+            "txt": "Sie hielten mit einem kennzpfl. Kfz. m. gef. G\u00fctern/KOM m. Fahrg. ***) bei einer Geschwindigkeit von *)... km/h (\u00fcber 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug **)...,.. m und damit weniger als 1/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten ber\u00fccksichtigt. (Kfz m. gef. G\u00fctern oder KOM m. Fahrg\u00e4sten) Tab.: 704005 104628 - 104634 *) Festgestellte Geschwindigkeit angeben **) Abstand angeben",
             "eur": "600,00",
             "legal": "\u00a7 3 Abs. 4, \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -2945,7 +2945,7 @@
         },
         {
             "tbnr": "104642",
-            "txt": "Sie hielten als F\u00fchrer des kennzeichnungspflichtigen Kraftfahrzeugs mit gef\u00e4hrlichen G\u00fctern (zul\u00e4ssige Gesamtmasse \u00fcber 3,5 t)/ Kraftomnibusses mit Fahrg\u00e4sten *) bei einer Geschwindigkeit von mehr als 50 km/h auf einer Autobahn den Mindestabstand von 50 m zum vorausfahrenden Fahrzeug nicht ein. 104636; 104642 *) Zutreffendes angeben",
+            "txt": "Sie hielten als F\u00fchrer des kennzeichnungspflichtigen Kraftfahrzeugs mit gef\u00e4hrlichen G\u00fctern (zul\u00e4ssige Gesamtmasse \u00fcber 3,5 t)/ Kraftomnibusses mit Fahrg\u00e4sten *) bei einer Geschwindigkeit von mehr als 50 km/h auf einer Autobahn den Mindestabstand von 50 m zum vorausfahrenden Fahrzeug nicht ein.",
             "eur": "120,00",
             "legal": "\u00a7 4 Abs. 3, \u00a7 49 StVO; \u00a7 24 StVG; 15 BKat; \u00a7 3 Abs. 4 BKatV",
             "p": "B-1",
@@ -3134,7 +3134,7 @@
         },
         {
             "tbnr": "105619",
-            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei \u00dcberholverbotszeichen 276/277 *) und gef\u00e4hrdeten +) dadurch Andere. \u00a7 5 Abs. 2, 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; 105618; 105619 *) Zutreffendes angeben",
+            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei \u00dcberholverbotszeichen 276/277 *) und gef\u00e4hrdeten +) dadurch Andere. \u00a7 5 Abs. 2, 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
             "eur": "250,00",
             "legal": "\u00a7 5 Abs. 2, 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
@@ -3215,7 +3215,7 @@
         },
         {
             "tbnr": "105637",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage, missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296 *)) und gef\u00e4hrdeten +) dadurch Andere. \u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; 105620 - 105637 *) Zutreffendes angeben",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage, missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296 *)) und gef\u00e4hrdeten +) dadurch Andere. \u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
             "eur": "250,00",
             "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
@@ -3278,7 +3278,7 @@
         },
         {
             "tbnr": "105650",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. \u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; 105638 *) Zutreffendes angeben",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. \u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
             "eur": "300,00",
             "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG \u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
@@ -3332,7 +3332,7 @@
         },
         {
             "tbnr": "105668",
-            "txt": "Sie \u00fcberholten mit einem kennzpfl. Kfz. m. gef. G\u00fctern/KOM m. Fahrg\u00e4sten *) mit einer zul\u00e4ssigen Gesamtmasse \u00fcber 7,5 t, obwohl die Sichtweite durch Nebel, Schneefall oder Regen weniger als 50 m betrug. Es kam zum Unfall. 105666 - 105668 *) Zutreffendes angeben",
+            "txt": "Sie \u00fcberholten mit einem kennzpfl. Kfz. m. gef. G\u00fctern/KOM m. Fahrg\u00e4sten *) mit einer zul\u00e4ssigen Gesamtmasse \u00fcber 7,5 t, obwohl die Sichtweite durch Nebel, Schneefall oder Regen weniger als 50 m betrug. Es kam zum Unfall.",
             "eur": "360,00",
             "legal": "\u00a7 3 Abs. 4, \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
@@ -3512,7 +3512,7 @@
         },
         {
             "tbnr": "105006",
-            "txt": "Sie \u00fcberholten ein Schienenfahrzeug vorschriftswidrig links. 105148 *) Zutreffendes angeben",
+            "txt": "Sie \u00fcberholten ein Schienenfahrzeug vorschriftswidrig links.",
             "eur": "35,00",
             "legal": "\u00a7 5 Abs. 7, \u00a7 49 StVO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -3557,7 +3557,7 @@
         },
         {
             "tbnr": "106112",
-            "txt": "Sie k\u00fcndigten nach dem Vorbeifahren an einer Fahrbahnverengung/einem Hindernis auf der Fahrbahn/einem haltenden Fahrzeug auf der Fahrbahn *) das Wiedereinordnen nicht rechtzeitig und deutlich an. 106100 - 106112 *) Zutreffendes angeben",
+            "txt": "Sie k\u00fcndigten nach dem Vorbeifahren an einer Fahrbahnverengung/einem Hindernis auf der Fahrbahn/einem haltenden Fahrzeug auf der Fahrbahn *) das Wiedereinordnen nicht rechtzeitig und deutlich an.",
             "eur": "10,00",
             "legal": "\u00a7 6, \u00a7 49 StVO; \u00a7 24 StVG; 29 BKat",
             "p": "",
@@ -3827,7 +3827,7 @@
         },
         {
             "tbnr": "108613",
-            "txt": "Sie fuhren aus einem Feld-/Waldweg auf die Stra\u00dfe, ohne die Vorfahrt des bevorrechtigten Fahrzeugs zu beachten. Es kam zum Unfall. 108606; 108607; *) Zutreffendes angeben 108112",
+            "txt": "Sie fuhren aus einem Feld-/Waldweg auf die Stra\u00dfe, ohne die Vorfahrt des bevorrechtigten Fahrzeugs zu beachten. Es kam zum Unfall. 108112",
             "eur": "120,00",
             "legal": "\u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "A-1",
@@ -3917,7 +3917,7 @@
         },
         {
             "tbnr": "109118",
-            "txt": "Sie ordneten sich nach links auf den Schienen ein und behinderten +) dadurch ein Schienenfahrzeug. 109106 - 109114 *) Zutreffendes angeben",
+            "txt": "Sie ordneten sich nach links auf den Schienen ein und behinderten +) dadurch ein Schienenfahrzeug.",
             "eur": "10,00",
             "legal": "\u00a7 9 Abs. 1, \u00a7 49 StVO; \u00a7 24 StVG; 36 BKat",
             "p": "",
@@ -4079,7 +4079,7 @@
         },
         {
             "tbnr": "109619",
-            "txt": "Sie bogen ab, ohne ein in entgegenkommender/gleicher *) Richtung geradeaus weiterfahrendes Fahrrad mit Hilfsmotor durchfahren zu lassen. Es kam zum Unfall. 109136 - 109619 *) Zutreffendes angeben",
+            "txt": "Sie bogen ab, ohne ein in entgegenkommender/gleicher *) Richtung geradeaus weiterfahrendes Fahrrad mit Hilfsmotor durchfahren zu lassen. Es kam zum Unfall.",
             "eur": "85,00",
             "legal": "\u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "A-1",
@@ -4421,7 +4421,7 @@
         },
         {
             "tbnr": "111603",
-            "txt": "Sie bildeten auf einer Autobahn oder Au\u00dferortsstra\u00dfe keine vorschriftsm\u00e4\u00dfige *) Gasse zur Durchfahrt von Polizei- oder 1) Hilfsfahrzeugen, obwohl der Verkehr stockte. Es kam zum Unfall. 111100; 111101; *) Zutreffendes angeben 111600 - 111603 *) n\u00e4her erl\u00e4utern 1) 111600 - 111603 Nach Abstimmung mit der Arbeitsgruppe Bundeseinheitlicher Tatbestandskatalog erg\u00e4nzt/ge\u00e4ndert aufgrund der 53. Verordnung zur \u00c4nderung stra\u00dfenverkehrsrechtlicher Vorschriften vom 06.10.2017 (BGBl. I S. 3549)",
+            "txt": "Sie bildeten auf einer Autobahn oder Au\u00dferortsstra\u00dfe keine vorschriftsm\u00e4\u00dfige *) Gasse zur Durchfahrt von Polizei- oder 1) Hilfsfahrzeugen, obwohl der Verkehr stockte. Es kam zum Unfall. 111600 - 111603 *) n\u00e4her erl\u00e4utern 1) 111600 - 111603 Nach Abstimmung mit der Arbeitsgruppe Bundeseinheitlicher Tatbestandskatalog erg\u00e4nzt/ge\u00e4ndert aufgrund der 53. Verordnung zur \u00c4nderung stra\u00dfenverkehrsrechtlicher Vorschriften vom 06.10.2017 (BGBl. I S. 3549)",
             "eur": "320,00",
             "legal": "\u00a7 19 OWiG",
             "p": "A-2",
@@ -4511,7 +4511,7 @@
         },
         {
             "tbnr": "112112",
-            "txt": "Sie parkten im Bereich einer scharfen Kurve. Tab.: 712002 112100 - 112600 *) Zutreffendes angeben.",
+            "txt": "Sie parkten im Bereich einer scharfen Kurve. Tab.: 712002",
             "eur": "15,00",
             "legal": "\u00a7 12 Abs. 1, \u00a7 49 StVO; \u00a7 24 StVG; 51b BKat",
             "p": "",
@@ -4691,7 +4691,7 @@
         },
         {
             "tbnr": "112283",
-            "txt": "Sie parkten verbotswidrig und verhinderten dadurch die Benutzung gekennzeichneter Parkfl\u00e4chen und behinderten +) dadurch Andere. Tab.: 712021 112262 - 112275 *) Zutreffendes angeben",
+            "txt": "Sie parkten verbotswidrig und verhinderten dadurch die Benutzung gekennzeichneter Parkfl\u00e4chen und behinderten +) dadurch Andere. Tab.: 712021",
             "eur": "15,00",
             "legal": "\u00a7 12 Abs. 3, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 54.1 BKat; \u00a7 19 OWiG",
             "p": "",
@@ -5006,7 +5006,7 @@
         },
         {
             "tbnr": "112061",
-            "txt": "Sie hielten nicht am rechten Fahrbahnrand und behinderten +) dadurch Andere. Tab.: 712032 112040 - 112045 *) Zutreffendes angeben",
+            "txt": "Sie hielten nicht am rechten Fahrbahnrand und behinderten +) dadurch Andere. Tab.: 712032",
             "eur": "15,00",
             "legal": "\u00a7 12 Abs. 4, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; -- BKat; \u00a7 19 OWiG",
             "p": "",
@@ -5249,7 +5249,7 @@
         },
         {
             "tbnr": "112456",
-            "txt": "Sie hielten/parkten *) nicht Platz sparend. 112456 *) Zutreffendes angeben",
+            "txt": "Sie hielten/parkten *) nicht Platz sparend.",
             "eur": "10,00",
             "legal": "\u00a7 12 Abs. 6, \u00a7 49 StVO; \u00a7 24 StVG; 62 BKat",
             "p": "",
@@ -5357,7 +5357,7 @@
         },
         {
             "tbnr": "113141",
-            "txt": "Sie parkten im Bereich eines Parkscheinautomaten ohne g\u00fcltigen Parkschein - l\u00e4nger als 30 Minuten. Tab.: 713002 113120 - 113124 *) Zutreffendes angeben",
+            "txt": "Sie parkten im Bereich eines Parkscheinautomaten ohne g\u00fcltigen Parkschein - l\u00e4nger als 30 Minuten. Tab.: 713002",
             "eur": "15,00",
             "legal": "\u00a7 13 Abs. 1, 2, \u00a7 49 StVO; \u00a7 24 StVG; 63.2 BKat",
             "p": "",
@@ -5492,7 +5492,7 @@
         },
         {
             "tbnr": "113181",
-            "txt": "Sie parkten an einer nicht funktionsf\u00e4higen Parkuhr/im Bereich eines nicht funktionsf\u00e4higen Parkscheinautomaten *), ohne eine Parkscheibe (Bild 318) von au\u00dfen gut lesbar im oder am Fahrzeug angebracht zu haben - l\u00e4nger als 30 Minuten. Tab.: 713004 113160 - 113181 *) Zutreffendes angeben",
+            "txt": "Sie parkten an einer nicht funktionsf\u00e4higen Parkuhr/im Bereich eines nicht funktionsf\u00e4higen Parkscheinautomaten *), ohne eine Parkscheibe (Bild 318) von au\u00dfen gut lesbar im oder am Fahrzeug angebracht zu haben - l\u00e4nger als 30 Minuten. Tab.: 713004",
             "eur": "15,00",
             "legal": "\u00a7 13 Abs. 1, 2, \u00a7 49 StVO; \u00a7 24 StVG; 63.2 BKat",
             "p": "",
@@ -5573,7 +5573,7 @@
         },
         {
             "tbnr": "113220",
-            "txt": "Sie \u00fcberschritten im Bereich eines eingeschr\u00e4nkten Haltverbots f\u00fcr eine Zone (Zeichen 290.1, 290.2) die zul\u00e4ssige H\u00f6chstparkdauer. Tab.: 713006 113182 - 113204 *) Zutreffendes angeben",
+            "txt": "Sie \u00fcberschritten im Bereich eines eingeschr\u00e4nkten Haltverbots f\u00fcr eine Zone (Zeichen 290.1, 290.2) die zul\u00e4ssige H\u00f6chstparkdauer. Tab.: 713006",
             "eur": "10,00",
             "legal": "\u00a7 13 Abs. 1, 2, \u00a7 49 StVO; \u00a7 24 StVG; 63.1 BKat",
             "p": "",
@@ -6311,7 +6311,7 @@
         },
         {
             "tbnr": "117120",
-            "txt": "Sie blendeten nicht rechtzeitig ab, obwohl ein anderes Fahrzeug mit geringem Abstand vor Ihnen fuhr. Es kam zum Unfall. 117106 - 117108 *) Zutreffendes angeben",
+            "txt": "Sie blendeten nicht rechtzeitig ab, obwohl ein anderes Fahrzeug mit geringem Abstand vor Ihnen fuhr. Es kam zum Unfall.",
             "eur": "35,00",
             "legal": "\u00a7 17 Abs. 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 73.2 BKat; \u00a7 19 OWiG",
             "p": "",
@@ -6590,7 +6590,7 @@
         },
         {
             "tbnr": "117186",
-            "txt": "Sie benutzten missbr\u00e4uchlich den Suchscheinwerfer. Es kam zum Unfall. 117166; 117167 *) Zutreffendes angeben **) Zutreffendes angeben",
+            "txt": "Sie benutzten missbr\u00e4uchlich den Suchscheinwerfer. Es kam zum Unfall.",
             "eur": "35,00",
             "legal": "\u00a7 17 Abs. 6, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 73.2 BKat; \u00a7 19 OWiG",
             "p": "",
@@ -6671,7 +6671,7 @@
         },
         {
             "tbnr": "118506",
-            "txt": "Sie f\u00fchrten das Fahrzeug auf der Autobahn, obwohl die zugelassene H\u00f6he \u00fcber alles von 4 Meter (gemessene H\u00f6he: *)..,.. m) \u00fcberschritten war, und verursachten durch Ausl\u00f6sung der automatischen H\u00f6henkontrolle an der Einfahrt eines Tunnels eine Vollsperrung Ihrer Fahrtrichtung/ des von Ihnen benutzten Fahrstreifens **). 118100; 118106; *) Zutreffendes angeben 118124 118112; 118130 *) gem. H\u00f6he angeben 118500; 118506 *) gem. H\u00f6he angeben; **) Zutreffendes angeben 118118; 118136 *) zul. Breite angeben; **) gem. Breite angeben",
+            "txt": "Sie f\u00fchrten das Fahrzeug auf der Autobahn, obwohl die zugelassene H\u00f6he \u00fcber alles von 4 Meter (gemessene H\u00f6he: *)..,.. m) \u00fcberschritten war, und verursachten durch Ausl\u00f6sung der automatischen H\u00f6henkontrolle an der Einfahrt eines Tunnels eine Vollsperrung Ihrer Fahrtrichtung/ des von Ihnen benutzten Fahrstreifens **). 118124 118112; 118130 *) gem. H\u00f6he angeben 118118; 118136 *) zul. Breite angeben; **) gem. Breite angeben",
             "eur": "240,00",
             "legal": "\u00a7 18 Abs. 1, \u00a7 49 StVO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -6680,7 +6680,7 @@
         },
         {
             "tbnr": "118512",
-            "txt": "Sie f\u00fchrten das Fahrzeug, dessen Ladung/Plane *) nicht so befestigt war, dass es zu jeder Zeit nicht h\u00f6her als 4 Meter war, und verursachten durch Ausl\u00f6sung der automatischen H\u00f6henkontrolle an der Einfahrt eines Tunnels eine Vollsperrung Ihrer Fahrtrichtung/des von Ihnen benutzten Fahrstreifens **). 118512 *) Zutreffendes angeben **) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten das Fahrzeug, dessen Ladung/Plane *) nicht so befestigt war, dass es zu jeder Zeit nicht h\u00f6her als 4 Meter war, und verursachten durch Ausl\u00f6sung der automatischen H\u00f6henkontrolle an der Einfahrt eines Tunnels eine Vollsperrung Ihrer Fahrtrichtung/des von Ihnen benutzten Fahrstreifens **).",
             "eur": "160,00",
             "legal": "\u00a7 18 Abs. 1, \u00a7 22 Abs. 1, 2, \u00a7 49 StVO; \u00a7 24 StVG; -- BKat; \u00a7 19 OWiG",
             "p": "",
@@ -6779,7 +6779,7 @@
         },
         {
             "tbnr": "118626",
-            "txt": "Sie fuhren auf die Fahrbahn ein, ohne die Vorfahrt des auf der durchgehenden Fahrbahn fahrenden Kraftfahrzeuges zu beachten. Es kam zum Unfall. 118148; 118618; *) Zutreffendes angeben 118619",
+            "txt": "Sie fuhren auf die Fahrbahn ein, ohne die Vorfahrt des auf der durchgehenden Fahrbahn fahrenden Kraftfahrzeuges zu beachten. Es kam zum Unfall. 118619",
             "eur": "110,00",
             "legal": "\u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "A-1",
@@ -7076,7 +7076,7 @@
         },
         {
             "tbnr": "118685",
-            "txt": "Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstra\u00dfe **) r\u00fcckw\u00e4rts und gef\u00e4hrdeten +) dadurch Andere. 118666 - 118685 *) Zutreffendes angeben **) Zutreffendes angeben",
+            "txt": "Sie fuhren auf der Nebenfahrbahn/dem Seitenstreifen *) der Autobahn/ Kraftfahrstra\u00dfe **) r\u00fcckw\u00e4rts und gef\u00e4hrdeten +) dadurch Andere.",
             "eur": "160,00",
             "legal": "\u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "A-1",
@@ -7139,7 +7139,7 @@
         },
         {
             "tbnr": "118698",
-            "txt": "Sie fuhren auf der durchgehenden Fahrbahn der Autobahn/ Kraftfahrstra\u00dfe *) r\u00fcckw\u00e4rts. Es kam zum Unfall. 118686 - 118698 *) Zutreffendes angeben **) Zutreffendes angeben",
+            "txt": "Sie fuhren auf der durchgehenden Fahrbahn der Autobahn/ Kraftfahrstra\u00dfe *) r\u00fcckw\u00e4rts. Es kam zum Unfall.",
             "eur": "290,00",
             "legal": "\u00a7 3 Abs. 3, \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
@@ -7229,7 +7229,7 @@
         },
         {
             "tbnr": "118712",
-            "txt": "Sie benutzten mit einem Lastkraftwagen mit einer Gesamtmasse \u00fcber 7,5 t einschlie\u00dflich Anh\u00e4nger/einer Zugmaschine *) den \u00e4u\u00dferst linken Fahrstreifen bei Schneegl\u00e4tte oder Glatteis/den \u00e4u\u00dferst linken Fahrstreifen, obwohl die Sichtweite bei erheblichem Schneefall oder Regen auf 50 m oder weniger eingeschr\u00e4nkt war **). 118012 - 118190 *) Zutreffendes angeben 118712 *) Zutreffendes angeben **) Zutreffendes angeben",
+            "txt": "Sie benutzten mit einem Lastkraftwagen mit einer Gesamtmasse \u00fcber 7,5 t einschlie\u00dflich Anh\u00e4nger/einer Zugmaschine *) den \u00e4u\u00dferst linken Fahrstreifen bei Schneegl\u00e4tte oder Glatteis/den \u00e4u\u00dferst linken Fahrstreifen, obwohl die Sichtweite bei erheblichem Schneefall oder Regen auf 50 m oder weniger eingeschr\u00e4nkt war **).",
             "eur": "80,00",
             "legal": "\u00a7 18 Abs. 11, \u00a7 49 StVO; \u00a7 24 StVG; 87a BKat",
             "p": "B-1",
@@ -7400,7 +7400,7 @@
         },
         {
             "tbnr": "119100",
-            "txt": "Sie verletzten vor einem Bahn\u00fcbergang eine Wartepflicht. 119630 *) Zutreffendes angeben 119636 *) Verkehrsteilnehmer angeben **) Zutreffendes angeben",
+            "txt": "Sie verletzten vor einem Bahn\u00fcbergang eine Wartepflicht. 119636 *) Verkehrsteilnehmer angeben",
             "eur": "10,00",
             "legal": "\u00a7 19 Abs. 2, 3, 4, 5, \u00a7 49 StVO; \u00a7 24 StVG; 90 BKat",
             "p": "",
@@ -7526,7 +7526,7 @@
         },
         {
             "tbnr": "120622",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720000 120106 - 120622 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720000 **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
             "eur": "280,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.1.8 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7589,7 +7589,7 @@
         },
         {
             "tbnr": "120632",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720001 120623 - 120632 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 26 - 30) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (Lkw usw.) Tab.: 720001 **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
             "eur": "95,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.1.6 BKat",
             "p": "A-1",
@@ -7652,7 +7652,7 @@
         },
         {
             "tbnr": "120642",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. G\u00fcter usw.) Tab.: 720002 120633 - 120642 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. G\u00fcter usw.) Tab.: 720002 **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
             "eur": "160,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.4 BKat",
             "p": "A-1",
@@ -7715,7 +7715,7 @@
         },
         {
             "tbnr": "120124",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. G\u00fcter usw.) Tab.: 720003 120643 - 120124 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (bis 10) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. G\u00fcter usw.) Tab.: 720003 **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
             "eur": "30,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.2.1 BKat",
             "p": "",
@@ -7778,7 +7778,7 @@
         },
         {
             "tbnr": "120659",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. G\u00fcter usw.) Tab.: 720003 120125 - 120659 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 51 - 60) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (gef. G\u00fcter usw.) Tab.: 720003 **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
             "eur": "560,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.2.9 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7841,7 +7841,7 @@
         },
         {
             "tbnr": "120668",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720004 120660 - 120668 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720004 **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
             "eur": "160,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG; 11.3.6 BKat; \u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -7904,7 +7904,7 @@
         },
         {
             "tbnr": "120138",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005 120669 - 120138 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (von 16 - 20) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005 **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
             "eur": "30,00",
             "legal": "\u00a7 20 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 11.3.3 BKat",
             "p": "",
@@ -7967,7 +7967,7 @@
         },
         {
             "tbnr": "120684",
-            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005 120678 - 120684 *) Zutreffendes angeben **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
+            "txt": "Sie \u00fcberschritten die zul. Schrittgeschwindigkeit au\u00dferhalb geschlossener Ortschaften um ... (\u00fcber 70) km/h bei der Vorbeifahrt rechts bei an einer Haltestelle haltendem/haltender *) Linienbus/Stra\u00dfenbahn/ gekennzeichneten Schulbus **). Zul\u00e4ssige Geschwindigkeit: ***)...km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug): ****)... km/h. (andere Kfz) Tab.: 720005 **) Zutreffende Fahrzeugart angeben ***) Zul\u00e4ssige Geschwindigkeit angeben ****) Festgestellte Geschwindigkeit angeben",
             "eur": "600,00",
             "legal": "\u00a7 4 Abs. 1 BKatV",
             "p": "A-2",
@@ -8777,7 +8777,7 @@
         },
         {
             "tbnr": "121160",
-            "txt": "Sie bef\u00f6rderten auf einem einsitzigen Fahrrad eine Person, die das siebente Lebensjahr bereits vollendet hatte. 121600; 121606 *) Zutreffendes angeben 121148; 121154",
+            "txt": "Sie bef\u00f6rderten auf einem einsitzigen Fahrrad eine Person, die das siebente Lebensjahr bereits vollendet hatte. 121148; 121154",
             "eur": "5,00",
             "legal": "\u00a7 21 Abs. 3, \u00a7 49 StVO; \u00a7 24 StVG; 97 BKat",
             "p": "",
@@ -8849,7 +8849,7 @@
         },
         {
             "tbnr": "121618",
-            "txt": "Sie bef\u00f6rderten auf einem Kraftrad mehrere Kinder, obwohl sie keinen Schutzhelm trugen. 121175 *) Zutreffendes angeben",
+            "txt": "Sie bef\u00f6rderten auf einem Kraftrad mehrere Kinder, obwohl sie keinen Schutzhelm trugen.",
             "eur": "70,00",
             "legal": "\u00a7 21a Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 99.2 BKat",
             "p": "B-1",
@@ -8930,7 +8930,7 @@
         },
         {
             "tbnr": "122118",
-            "txt": "Sie f\u00fchrten das Fahrzeug, obwohl es mit der Ladung breiter als zul\u00e4ssig war. 122600; 122602; *) Zutreffendes angeben 122603; 122100; 122608; 122609; 122106 122600; 122602; **) Zutreffende Fahrzeugart angeben 122603",
+            "txt": "Sie f\u00fchrten das Fahrzeug, obwohl es mit der Ladung breiter als zul\u00e4ssig war. 122603; 122100; 122608; 122609; 122106 122600; 122602; **) Zutreffende Fahrzeugart angeben 122603",
             "eur": "20,00",
             "legal": "\u00a7 22 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 105 BKat",
             "p": "",
@@ -9128,7 +9128,7 @@
         },
         {
             "tbnr": "123144",
-            "txt": "Sie f\u00fchrten einen Anh\u00e4nger mit, dessen Beleuchtungseinrichtung nicht vorhanden/betriebsbereit *) war. Es kam zum Unfall. 123112; 123118; *) Mangel angeben 123119 *) mangelnde Verkehrssicherheit der Ladung/Besetzung erl\u00e4utern 123118; 123119 **) Zutreffendes angeben 123136 - 123144 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten einen Anh\u00e4nger mit, dessen Beleuchtungseinrichtung nicht vorhanden/betriebsbereit *) war. Es kam zum Unfall. 123112; 123118; *) Mangel angeben 123119 *) mangelnde Verkehrssicherheit der Ladung/Besetzung erl\u00e4utern",
             "eur": "35,00",
             "legal": "\u00a7 23 Abs. 1, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 107.4.2 BKat; \u00a7 19 OWiG",
             "p": "",
@@ -9263,7 +9263,7 @@
         },
         {
             "tbnr": "123166",
-            "txt": "Sie zogen das Fahrzeug nicht auf dem k\u00fcrzesten Weg aus dem Verkehr, obwohl unterwegs die Verkehrssicherheit wesentlich beeintr\u00e4chtigende M\u00e4ngel aufgetreten waren. 123624 - 123631 *) n\u00e4her erl\u00e4utern 123618, 123619 *) Zutreffendes angeben 1) 123624 - 123619 Nach Abstimmung mit der Arbeitsgruppe Bundeseinheitlicher Tatbestandskatalog erg\u00e4nzt/ge\u00e4ndert aufgrund der 53. Verordnung zur \u00c4nderung stra\u00dfenverkehrsrechtlicher Vorschriften vom 06.10.2017 (BGBl. I S. 3549)",
+            "txt": "Sie zogen das Fahrzeug nicht auf dem k\u00fcrzesten Weg aus dem Verkehr, obwohl unterwegs die Verkehrssicherheit wesentlich beeintr\u00e4chtigende M\u00e4ngel aufgetreten waren. 123624 - 123631 *) n\u00e4her erl\u00e4utern 1) 123624 - 123619 Nach Abstimmung mit der Arbeitsgruppe Bundeseinheitlicher Tatbestandskatalog erg\u00e4nzt/ge\u00e4ndert aufgrund der 53. Verordnung zur \u00c4nderung stra\u00dfenverkehrsrechtlicher Vorschriften vom 06.10.2017 (BGBl. I S. 3549)",
             "eur": "10,00",
             "legal": "\u00a7 23 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 110 BKat",
             "p": "",
@@ -9344,7 +9344,7 @@
         },
         {
             "tbnr": "125007",
-            "txt": "Sie \u00fcberstiegen die Absperrung. Es kam zum Unfall. 125100; 125112; *) Zutreffendes angeben 125113",
+            "txt": "Sie \u00fcberstiegen die Absperrung. Es kam zum Unfall. 125113",
             "eur": "10,00",
             "legal": "\u00a7 25 Abs. 4, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; -- BKat; \u00a7 19 OWiG",
             "p": "",
@@ -9533,7 +9533,7 @@
         },
         {
             "tbnr": "129612",
-            "txt": "Sie f\u00fchrten ohne entsprechende Erlaubnis das Fahrzeug, dessen Bauart Ihnen kein ausreichendes Sichtfeld lie\u00df. 129506 *) Zutreffendes angeben 129606 *) Tats\u00e4chliche Abmessungen, Achslasten oder Gesamtmasse angeben 129606 **) Zul\u00e4ssige Abmessungen, Achslasten oder Gesamtmasse angeben",
+            "txt": "Sie f\u00fchrten ohne entsprechende Erlaubnis das Fahrzeug, dessen Bauart Ihnen kein ausreichendes Sichtfeld lie\u00df. 129606 *) Tats\u00e4chliche Abmessungen, Achslasten oder Gesamtmasse angeben 129606 **) Zul\u00e4ssige Abmessungen, Achslasten oder Gesamtmasse angeben",
             "eur": "60,00",
             "legal": "\u00a7 29 Abs. 3, \u00a7 49 StVO; \u00a7 24 StVG; 116 BKat",
             "p": "A-1",
@@ -9587,7 +9587,7 @@
         },
         {
             "tbnr": "130606",
-            "txt": "Sie ordneten an bzw. lie\u00dfen zu, dass verbotswidrig an dem Sonntag/ Feiertag *) mit einem LKW mit einer zul\u00e4ssigen Gesamtmasse \u00fcber 7,5 t/LKW mit Anh\u00e4nger **) gefahren wurde. 130600 - 130606 *) Zutreffendes angeben 130600 - 130606 **) Zutreffendes angeben",
+            "txt": "Sie ordneten an bzw. lie\u00dfen zu, dass verbotswidrig an dem Sonntag/ Feiertag *) mit einem LKW mit einer zul\u00e4ssigen Gesamtmasse \u00fcber 7,5 t/LKW mit Anh\u00e4nger **) gefahren wurde.",
             "eur": "570,00",
             "legal": "\u00a7 30 Abs. 3, \u00a7 49 StVO; \u00a7 24 StVG; 120 BKat",
             "p": "",
@@ -9686,7 +9686,7 @@
         },
         {
             "tbnr": "131114",
-            "txt": "Sie erm\u00f6glichten bei durch Zusatzzeichen erlaubtem Inline-Skaten und Rollschuhfahren anderen Fahrzeugen nicht das \u00dcberholen und gef\u00e4hrdeten +) dadurch Andere. 131100 - 131000 *) Zutreffendes angeben **) Zutreffendes angeben",
+            "txt": "Sie erm\u00f6glichten bei durch Zusatzzeichen erlaubtem Inline-Skaten und Rollschuhfahren anderen Fahrzeugen nicht das \u00dcberholen und gef\u00e4hrdeten +) dadurch Andere.",
             "eur": "20,00",
             "legal": "\u00a7 31 Abs. 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 120a.2 BKat; \u00a7 19 OWiG",
             "p": "",
@@ -9749,7 +9749,7 @@
         },
         {
             "tbnr": "132118",
-            "txt": "Sie f\u00fchrten ein gef\u00e4hrliches Ger\u00e4t ohne wirksamen Schutz mit. 132100, 132106, *) Zutreffendes angeben 132600, 132606 132100, 132600 **) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten ein gef\u00e4hrliches Ger\u00e4t ohne wirksamen Schutz mit. 132600, 132606",
             "eur": "5,00",
             "legal": "\u00a7 32 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; 124 BKat",
             "p": "",
@@ -9794,7 +9794,7 @@
         },
         {
             "tbnr": "133024",
-            "txt": "Sie brachten verbotswidrig eine Einrichtung an/verwendeten verbotswidrig eine Einrichtung *), die die Wirkung eines Verkehrszeichens /einer Verkehrseinrichtung **) beeintr\u00e4chtigen kann. 133006, 133012, *) Zutreffendes angeben 133018, 133024 133018, 133024 **) Zutreffendes angeben",
+            "txt": "Sie brachten verbotswidrig eine Einrichtung an/verwendeten verbotswidrig eine Einrichtung *), die die Wirkung eines Verkehrszeichens /einer Verkehrseinrichtung **) beeintr\u00e4chtigen kann. 133018, 133024",
             "eur": "15,00",
             "legal": "\u00a7 33 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -10316,7 +10316,7 @@
         },
         {
             "tbnr": "137650",
-            "txt": "Sie missachteten das Dauerlichtzeichen \"rote gekreuzte Schr\u00e4gbalken\". Es kam zum Unfall. 137636 - 137638 *) Zutreffendes angeben",
+            "txt": "Sie missachteten das Dauerlichtzeichen \"rote gekreuzte Schr\u00e4gbalken\". Es kam zum Unfall.",
             "eur": "240,00",
             "legal": "\u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
@@ -10568,7 +10568,7 @@
         },
         {
             "tbnr": "141050",
-            "txt": "Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/ einer Feuerwehrzufahrt/eines Rettungsweges *) (Zeichen 283 mit Zusatzzeichen). Tab.: 741037 141050 *) Zutreffendes angeben",
+            "txt": "Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/ einer Feuerwehrzufahrt/eines Rettungsweges *) (Zeichen 283 mit Zusatzzeichen). Tab.: 741037",
             "eur": "10,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -10667,7 +10667,7 @@
         },
         {
             "tbnr": "141333",
-            "txt": "Sie parkten links von einer Fahrbahnbegrenzung (Zeichen 295) und behinderten +) dadurch Andere. 52.1 BKat; \u00a7 19 OWiG Tab.: 741019 141051, 141056, *) Zutreffendes angeben 141518",
+            "txt": "Sie parkten links von einer Fahrbahnbegrenzung (Zeichen 295) und behinderten +) dadurch Andere. 52.1 BKat; \u00a7 19 OWiG Tab.: 741019 141518",
             "eur": "25,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
             "p": "",
@@ -10856,7 +10856,7 @@
         },
         {
             "tbnr": "141380",
-            "txt": "Sie hielten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229). Tab.: 741024 141360 - 141365 *) Zutreffendes angeben",
+            "txt": "Sie hielten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229). Tab.: 741024",
             "eur": "10,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; 51 BKat",
             "p": "",
@@ -10946,7 +10946,7 @@
         },
         {
             "tbnr": "141402",
-            "txt": "Sie parkten in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224). Tab.: 741027 141392 - 141395 *) Zutreffendes angeben",
+            "txt": "Sie parkten in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224). Tab.: 741027",
             "eur": "10,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; 54 BKat",
             "p": "",
@@ -11036,7 +11036,7 @@
         },
         {
             "tbnr": "141424",
-            "txt": "Sie parkten l\u00e4nger als 3 Stunden innerhalb einer Grenzmarkierung (Zeichen 299) f\u00fcr ein Parkverbot. Tab.: 741030 141412 - 141415 *) Zutreffendes angeben",
+            "txt": "Sie parkten l\u00e4nger als 3 Stunden innerhalb einer Grenzmarkierung (Zeichen 299) f\u00fcr ein Parkverbot. Tab.: 741030",
             "eur": "20,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; 54.2 BKat",
             "p": "",
@@ -11207,7 +11207,7 @@
         },
         {
             "tbnr": "141112",
-            "txt": "Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)). Tab.: 741034 141106 - 141112 *) Zutreffendes angeben",
+            "txt": "Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)). Tab.: 741034",
             "eur": "20,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; 52a BKat",
             "p": "",
@@ -11315,7 +11315,7 @@
         },
         {
             "tbnr": "141024",
-            "txt": "Sie parkten l\u00e4nger als 1 Stunde auf einer Fahrradstra\u00dfe (Zeichen 244.1, 244.2). Tab.: 741035 141113 - 141116 *) Zutreffendes angeben",
+            "txt": "Sie parkten l\u00e4nger als 1 Stunde auf einer Fahrradstra\u00dfe (Zeichen 244.1, 244.2). Tab.: 741035",
             "eur": "25,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -11909,7 +11909,7 @@
         },
         {
             "tbnr": "141208",
-            "txt": "Sie unterschritten den vorgeschriebenen Mindestabstand (Zeichen 273) zu dem vorausfahrenden Fahrzeug. 141196, 141198 *) Zutreffendes angeben",
+            "txt": "Sie unterschritten den vorgeschriebenen Mindestabstand (Zeichen 273) zu dem vorausfahrenden Fahrzeug.",
             "eur": "25,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; 149 BKat",
             "p": "",
@@ -12044,7 +12044,7 @@
         },
         {
             "tbnr": "141629",
-            "txt": "Sie missachteten das \u00dcberholverbot, das durch Zeichen 276/277 *) angeordnet war. Es kam zum Unfall. 141627 - 141629 *) Zutreffendes angeben",
+            "txt": "Sie missachteten das \u00dcberholverbot, das durch Zeichen 276/277 *) angeordnet war. Es kam zum Unfall.",
             "eur": "105,00",
             "legal": "\u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "A-1",
@@ -12080,7 +12080,7 @@
         },
         {
             "tbnr": "141449",
-            "txt": "Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser f\u00fcr Ihre Fahrtrichtung gekennzeichnet war. Es kam zum Unfall. 7.1.3 BKat; \u00a7 19 OWiG 141446 - 141449 *) Zutreffendes angeben",
+            "txt": "Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser f\u00fcr Ihre Fahrtrichtung gekennzeichnet war. Es kam zum Unfall. 7.1.3 BKat; \u00a7 19 OWiG",
             "eur": "35,00",
             "legal": "\u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
             "p": "",
@@ -13376,7 +13376,7 @@
         },
         {
             "tbnr": "142273",
-            "txt": "Sie parkten verbotswidrig auf einem Schutzstreifen f\u00fcr den Radverkehr (Zeichen 340) und behinderten +) dadurch Andere. 54a.1 BKat; \u00a7 19 OWiG Tab.: 742107 142252 - 142255 *) Zutreffendes angeben 142262 - 142265 *) Zusatzzeichen angeben",
+            "txt": "Sie parkten verbotswidrig auf einem Schutzstreifen f\u00fcr den Radverkehr (Zeichen 340) und behinderten +) dadurch Andere. 54a.1 BKat; \u00a7 19 OWiG Tab.: 742107 142262 - 142265 *) Zusatzzeichen angeben",
             "eur": "30,00",
             "legal": "\u00a7 42 Abs. 2 iVm Anlage 3, \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
             "p": "",
@@ -13403,7 +13403,7 @@
         },
         {
             "tbnr": "142278",
-            "txt": "Sie parkten auf einem Sonderparkplatz f\u00fcr Schwerbehinderte mit au\u00dfergew\u00f6hnlicher Gehbehinderung, beidseitiger Amelie oder Phokomelie, mit vergleichbaren Funktionseinschr\u00e4nkungen sowie f\u00fcr blinde Menschen (Zeichen 314/315 *) und Zusatzzeichen mit Rollstuhlfahrersinnbild). Ein besonderer Parkausweis lag nicht gut lesbar aus. 142278 *) Zutreffendes angeben",
+            "txt": "Sie parkten auf einem Sonderparkplatz f\u00fcr Schwerbehinderte mit au\u00dfergew\u00f6hnlicher Gehbehinderung, beidseitiger Amelie oder Phokomelie, mit vergleichbaren Funktionseinschr\u00e4nkungen sowie f\u00fcr blinde Menschen (Zeichen 314/315 *) und Zusatzzeichen mit Rollstuhlfahrersinnbild). Ein besonderer Parkausweis lag nicht gut lesbar aus.",
             "eur": "35,00",
             "legal": "\u00a7 42 Abs. 2 iVm Anlage 3, \u00a7 49 StVO; \u00a7 24 StVG; 55 BKat",
             "p": "",
@@ -13880,7 +13880,7 @@
         },
         {
             "tbnr": "146600",
-            "txt": "Sie befolgten eine vollziehbare Auflage *) einer Ausnahmegenehmigung oder Erlaubnis nicht. 146100 *) Zutreffendes angeben bis 146106 146600 *) Auflage angeben",
+            "txt": "Sie befolgten eine vollziehbare Auflage *) einer Ausnahmegenehmigung oder Erlaubnis nicht. bis 146106 146600 *) Auflage angeben",
             "eur": "60,00",
             "legal": "\u00a7 46 Abs. 3, \u00a7 49 StVO; \u00a7 24 StVG; 166 BKat",
             "p": "B-1",
@@ -13979,7 +13979,7 @@
         },
         {
             "tbnr": "204106",
-            "txt": "Sie h\u00e4ndigten auf Verlangen der zust\u00e4ndigen Person den F\u00fchrerschein/ die \u00dcbersetzung des ausl\u00e4ndischen F\u00fchrerscheins *) nicht aus. 204100; 204106 *) Zutreffendes angeben",
+            "txt": "Sie h\u00e4ndigten auf Verlangen der zust\u00e4ndigen Person den F\u00fchrerschein/ die \u00dcbersetzung des ausl\u00e4ndischen F\u00fchrerscheins *) nicht aus.",
             "eur": "10,00",
             "legal": "\u00a7 4 Abs. 2, \u00a7 75 FeV; \u00a7 24 StVG; 251 BKat",
             "p": "",
@@ -14024,7 +14024,7 @@
         },
         {
             "tbnr": "205106",
-            "txt": "Sie h\u00e4ndigten auf Verlangen der zust\u00e4ndigen Person die Pr\u00fcfbescheinigung nicht aus. 205000; 205100 *) Zutreffendes angeben",
+            "txt": "Sie h\u00e4ndigten auf Verlangen der zust\u00e4ndigen Person die Pr\u00fcfbescheinigung nicht aus.",
             "eur": "10,00",
             "legal": "\u00a7 5 Abs. 4, \u00a7 75 FeV; \u00a7 24 StVG; 251 BKat",
             "p": "",
@@ -14366,7 +14366,7 @@
         },
         {
             "tbnr": "319621",
-            "txt": "Sie ordneten die Inbetriebnahme des Fahrzeuges an, obwohl die Betriebserlaubnis erloschen war, bzw. lie\u00dfen sie zu. Die Umwelt war dadurch wesentlich beeintr\u00e4chtigt *). 319000 *) Zutreffendes angeben 319600, 319603 *) Zutreffende Fahrzeugart angeben 319612, 319615 319600, 319603 **) Art der Beeintr\u00e4chtigung angeben 319612, 319615 319606, 319609 *) Art der Beeintr\u00e4chtigung angeben 319618, 319621",
+            "txt": "Sie ordneten die Inbetriebnahme des Fahrzeuges an, obwohl die Betriebserlaubnis erloschen war, bzw. lie\u00dfen sie zu. Die Umwelt war dadurch wesentlich beeintr\u00e4chtigt *). 319600, 319603 *) Zutreffende Fahrzeugart angeben 319612, 319615 319600, 319603 **) Art der Beeintr\u00e4chtigung angeben 319612, 319615 319606, 319609 *) Art der Beeintr\u00e4chtigung angeben 319618, 319621",
             "eur": "135,00",
             "legal": "\u00a7 19 Abs. 5, \u00a7 69a StVZO; \u00a7 24 StVG; 189b.2 BKat",
             "p": "",
@@ -14519,7 +14519,7 @@
         },
         {
             "tbnr": "329024",
-            "txt": "Sie lie\u00dfen an dem Fahrzeug die amtlichen Kennzeichen nicht entstempeln und lieferten den Fahrzeugschein/Nachweis \u00fcber die Betriebserlaubnis *) nicht ab, obwohl der Betrieb infolge fehlender Pr\u00fcfplakette/Pr\u00fcfmarke **) durch die Zulassungsbeh\u00f6rde untersagt war. 329113 - 329610 *) Fahrzeugart angeben (z. B. Pkw, Kraftrad) **) vorgeschriebenen Vorf\u00fchrtermin angeben 329018; 329024 *) Zutreffendes angeben 329018 **) n\u00e4her erl\u00e4utern 329024 **) Zutreffendes angeben",
+            "txt": "Sie lie\u00dfen an dem Fahrzeug die amtlichen Kennzeichen nicht entstempeln und lieferten den Fahrzeugschein/Nachweis \u00fcber die Betriebserlaubnis *) nicht ab, obwohl der Betrieb infolge fehlender Pr\u00fcfplakette/Pr\u00fcfmarke **) durch die Zulassungsbeh\u00f6rde untersagt war. 329113 - 329610 *) Fahrzeugart angeben (z. B. Pkw, Kraftrad) **) vorgeschriebenen Vorf\u00fchrtermin angeben 329018 **) n\u00e4her erl\u00e4utern",
             "eur": "15,00",
             "legal": "\u00a7 29 Abs. 7, \u00a7 69a StVZO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -14573,7 +14573,7 @@
         },
         {
             "tbnr": "329054",
-            "txt": "Sie bewahrten das Pr\u00fcfbuch f\u00fcr das Fahrzeug nicht bis zur endg\u00fcltigen Au\u00dferbetriebsetzung auf. 329612; 329030 *) Zutreffendes angeben 329612 **) Zutreffendes angeben",
+            "txt": "Sie bewahrten das Pr\u00fcfbuch f\u00fcr das Fahrzeug nicht bis zur endg\u00fcltigen Au\u00dferbetriebsetzung auf.",
             "eur": "15,00",
             "legal": "\u00a7 29 Abs. 13, \u00a7 69a StVZO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -14951,7 +14951,7 @@
         },
         {
             "tbnr": "331506",
-            "txt": "Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs (au\u00dfer Mofa)/ Anh\u00e4ngers *) an, obwohl die Reifen mangelhaft **) waren, bzw. lie\u00dfen sie zu. 331066 *) Datum des Pr\u00fcftermins angeben 331124; 331506 *) Zutreffende Fahrzeugart angeben 331124; **) Zutreffendes angeben 331160; 331164 *) Zutreffendes angeben 331506 **) M\u00e4ngel angeben",
+            "txt": "Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs (au\u00dfer Mofa)/ Anh\u00e4ngers *) an, obwohl die Reifen mangelhaft **) waren, bzw. lie\u00dfen sie zu. 331066 *) Datum des Pr\u00fcftermins angeben 331124; 331506 *) Zutreffende Fahrzeugart angeben 331506 **) M\u00e4ngel angeben",
             "eur": "75,00",
             "legal": "\u00a7 31 Abs. 2, \u00a7 36, \u00a7 69a StVZO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -15185,7 +15185,7 @@
         },
         {
             "tbnr": "331630",
-            "txt": "Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung *) wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu. 331618 - 331626 *) Zutreffende Fahrzeugart angeben **) Zutreffendes angeben 331630 *) Zutreffendes angeben",
+            "txt": "Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung *) wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu. 331618 - 331626 *) Zutreffende Fahrzeugart angeben",
             "eur": "135,00",
             "legal": "\u00a7 31 Abs. 2, \u00a7 69a StVZO; \u00a7 24 StVG; 189.3.2 BKat",
             "p": "B-1",
@@ -15194,7 +15194,7 @@
         },
         {
             "tbnr": "331631",
-            "txt": "Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung *) wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu und gef\u00e4hrdeten +) dadurch Andere. 189.3.2 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG 331631 *) Zutreffendes angeben",
+            "txt": "Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung *) wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu und gef\u00e4hrdeten +) dadurch Andere. 189.3.2 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "eur": "165,00",
             "legal": "\u00a7 31 Abs. 2, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
             "p": "B-1",
@@ -15266,7 +15266,7 @@
         },
         {
             "tbnr": "331696",
-            "txt": "Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gef\u00e4hrlichen G\u00fctern/Kraftomnibusses mit Fahrg\u00e4sten *) an, obwohl dessen Reifen keine vorschriftsm\u00e4\u00dfigen Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besa\u00df, bzw. lie\u00dfen sie zu. 213 BKat; \u00a7 3 Abs. 4 BKatV 331632 *) Zutreffendes angeben 331660 - 331678 *) Zutreffende Fahrzeugart angeben 331690 - 331696 331660 - 331672 ***) Zutreffende Rechtsgrundlage angeben 331690; 331696 **) Zutreffende Rechtsgrundlage angeben 331660 - 331672 **) Tats\u00e4chliche \u00dcberschreitung angeben",
+            "txt": "Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gef\u00e4hrlichen G\u00fctern/Kraftomnibusses mit Fahrg\u00e4sten *) an, obwohl dessen Reifen keine vorschriftsm\u00e4\u00dfigen Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besa\u00df, bzw. lie\u00dfen sie zu. 213 BKat; \u00a7 3 Abs. 4 BKatV 331660 - 331678 *) Zutreffende Fahrzeugart angeben 331690 - 331696 331660 - 331672 ***) Zutreffende Rechtsgrundlage angeben 331690; 331696 **) Zutreffende Rechtsgrundlage angeben 331660 - 331672 **) Tats\u00e4chliche \u00dcberschreitung angeben",
             "eur": "112,50",
             "legal": "\u00a7 31 Abs. 2, \u00a7 36 Abs. 3, \u00a7 31d Abs. 4 **), \u00a7 69a StVZO; \u00a7 24 StVG;",
             "p": "B-1",
@@ -17129,7 +17129,7 @@
         },
         {
             "tbnr": "331992",
-            "txt": "Sie unterlie\u00dfen es, das Ihnen auferlegte Fahrtenbuch der zust\u00e4ndigen Person auszuh\u00e4ndigen. 331980 *) Zutreffendes angeben",
+            "txt": "Sie unterlie\u00dfen es, das Ihnen auferlegte Fahrtenbuch der zust\u00e4ndigen Person auszuh\u00e4ndigen.",
             "eur": "100,00",
             "legal": "\u00a7 31a, \u00a7 69a StVZO; \u00a7 24 StVG; 190 BKat",
             "p": "",
@@ -17138,7 +17138,7 @@
         },
         {
             "tbnr": "331332",
-            "txt": "Sie weigerten sich, mitzuf\u00fchrende Gegenst\u00e4nde auf Verlangen vorzuzeigen/zur Pr\u00fcfung auszuh\u00e4ndigen *). 331332 *) Zutreffendes angeben",
+            "txt": "Sie weigerten sich, mitzuf\u00fchrende Gegenst\u00e4nde auf Verlangen vorzuzeigen/zur Pr\u00fcfung auszuh\u00e4ndigen *).",
             "eur": "5,00",
             "legal": "\u00a7 31b, \u00a7 69a StVZO; \u00a7 24 StVG; 191 BKat",
             "p": "",
@@ -17156,7 +17156,7 @@
         },
         {
             "tbnr": "331998",
-            "txt": "Sie kamen der Weisung einer zust\u00e4ndigen Person nicht nach, eine der festgestellten \u00dcberlastung entsprechende Um- oder Entladung des Fahrzeuges durchzuf\u00fchren. 331994 *) Zutreffendes angeben",
+            "txt": "Sie kamen der Weisung einer zust\u00e4ndigen Person nicht nach, eine der festgestellten \u00dcberlastung entsprechende Um- oder Entladung des Fahrzeuges durchzuf\u00fchren.",
             "eur": "50,00",
             "legal": "\u00a7 31c, \u00a7 69a StVZO; \u00a7 24 StVG; 254 BKat",
             "p": "",
@@ -17183,7 +17183,7 @@
         },
         {
             "tbnr": "332000",
-            "txt": "Sie nahmen das Fahrzeug ohne vorgeschriebene seitliche Schutzvorrichtung/mit einer nicht vorschriftsm\u00e4\u00dfigen Schutzvorrichtung *) in Betrieb. 332000 *) Zutreffendes angeben",
+            "txt": "Sie nahmen das Fahrzeug ohne vorgeschriebene seitliche Schutzvorrichtung/mit einer nicht vorschriftsm\u00e4\u00dfigen Schutzvorrichtung *) in Betrieb.",
             "eur": "25,00",
             "legal": "\u00a7 32c Abs. 2, \u00a7 69a StVZO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -19451,7 +19451,7 @@
         },
         {
             "tbnr": "335109",
-            "txt": "Sie f\u00fchrten das Kraftfahrzeug, obwohl die R\u00fcckhalteeinrichtung f\u00fcr Kinder bis zu einem Alter von 15 Monaten nicht r\u00fcckw\u00e4rts oder seitlich gerichtet angebracht war. 335000 *) Zutreffendes angeben **) Zutreffendes angeben 335136; 335142 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten das Kraftfahrzeug, obwohl die R\u00fcckhalteeinrichtung f\u00fcr Kinder bis zu einem Alter von 15 Monaten nicht r\u00fcckw\u00e4rts oder seitlich gerichtet angebracht war.",
             "eur": "25,00",
             "legal": "\u00a7 35a Abs. 13, \u00a7 69a StVZO; \u00a7 24 StVG; 203.3 BKat",
             "p": "",
@@ -19658,7 +19658,7 @@
         },
         {
             "tbnr": "336012",
-            "txt": "Sie f\u00fchrten das Fahrzeug ohne/mit unzureichender *) Radabdeckung. 336012 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten das Fahrzeug ohne/mit unzureichender *) Radabdeckung.",
             "eur": "5,00",
             "legal": "\u00a7 36a, \u00a7 69a StVZO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -19748,7 +19748,7 @@
         },
         {
             "tbnr": "338606",
-            "txt": "Sie f\u00fchrten das kennzeichnungspflichtige Kraftfahrzeug mit gef\u00e4hrlichen G\u00fctern/den Kraftomnibus mit Fahrg\u00e4sten *) bzw. dessen Anh\u00e4nger, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Lenkeinrichtungen wesentlich beeintr\u00e4chtigt wurde. 338600 - 338606 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten das kennzeichnungspflichtige Kraftfahrzeug mit gef\u00e4hrlichen G\u00fctern/den Kraftomnibus mit Fahrg\u00e4sten *) bzw. dessen Anh\u00e4nger, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Lenkeinrichtungen wesentlich beeintr\u00e4chtigt wurde.",
             "eur": "270,00",
             "legal": "\u00a7 38, \u00a7 69a StVZO; \u00a7 24 StVG; 214.1 BKat; \u00a7 3 Abs. 4 BKatV",
             "p": "B-1",
@@ -19811,7 +19811,7 @@
         },
         {
             "tbnr": "338613",
-            "txt": "Sie f\u00fchrten das Fahrzeug bzw. dessen Anh\u00e4nger , obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Lenkeinrichtungen wesentlich beeintr\u00e4chtigt wurde, und gef\u00e4hrdeten +) dadurch Andere. 338607 - 338611 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten das Fahrzeug bzw. dessen Anh\u00e4nger , obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Lenkeinrichtungen wesentlich beeintr\u00e4chtigt wurde, und gef\u00e4hrdeten +) dadurch Andere.",
             "eur": "110,00",
             "legal": "\u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
@@ -19865,7 +19865,7 @@
         },
         {
             "tbnr": "340000",
-            "txt": "Sie f\u00fchrten das Kraftfahrzeug, obwohl die Scheibenwischer mangelhaft waren/fehlten *). 340000 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten das Kraftfahrzeug, obwohl die Scheibenwischer mangelhaft waren/fehlten *).",
             "eur": "5,00",
             "legal": "\u00a7 40 Abs. 2, \u00a7 69a StVZO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -20684,7 +20684,7 @@
         },
         {
             "tbnr": "343604",
-            "txt": "Sie f\u00fchrten als Halter den Lastkraftwagen/Kraftomnibus *) bzw. dessen Anh\u00e4nger, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde und gef\u00e4hrdeten +) dadurch Andere. 214.1 BKat; \u00a7 3 Abs. 2, 3 BKatV; \u00a7 19 OWiG 343600 -343604 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten als Halter den Lastkraftwagen/Kraftomnibus *) bzw. dessen Anh\u00e4nger, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde und gef\u00e4hrdeten +) dadurch Andere. 214.1 BKat; \u00a7 3 Abs. 2, 3 BKatV; \u00a7 19 OWiG",
             "eur": "325,00",
             "legal": "\u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO; \u00a7 24 StVG;",
             "p": "B-1",
@@ -20864,7 +20864,7 @@
         },
         {
             "tbnr": "347012",
-            "txt": "Sie f\u00fchrten das Fahrzeug, bei dem das Auspuffrohr \u00fcber die seitliche/hintere *) Begrenzung hinausragte. 347012 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten das Fahrzeug, bei dem das Auspuffrohr \u00fcber die seitliche/hintere *) Begrenzung hinausragte.",
             "eur": "20,00",
             "legal": "\u00a7 47c, \u00a7 69a StVZO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -21080,7 +21080,7 @@
         },
         {
             "tbnr": "354000",
-            "txt": "Sie f\u00fchrten das Fahrzeug, obwohl der Fahrtrichtungsanzeiger fehlte/mangelhaft *) war. 354000 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten das Fahrzeug, obwohl der Fahrtrichtungsanzeiger fehlte/mangelhaft *) war.",
             "eur": "15,00",
             "legal": "\u00a7 54, \u00a7 69a StVZO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -21089,7 +21089,7 @@
         },
         {
             "tbnr": "355000",
-            "txt": "Sie f\u00fchrten das Fahrzeug, obwohl dessen Schallzeicheneinrichtung unzul\u00e4ssig/mangelhaft *) war. 355000 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten das Fahrzeug, obwohl dessen Schallzeicheneinrichtung unzul\u00e4ssig/mangelhaft *) war.",
             "eur": "15,00",
             "legal": "\u00a7 55 Abs. 1, \u00a7 69a StVZO; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -21629,7 +21629,7 @@
         },
         {
             "tbnr": "529518",
-            "txt": "Sie unterlie\u00dfen es als Fahrzeugf\u00fchrer, bei der Bef\u00f6rderung von gef\u00e4hrlichen G\u00fctern, die mit anderen G\u00fctern bef\u00f6rdert wurden, alle G\u00fcter so zu sichern oder zu verpacken, dass das Austreten gef\u00e4hrlicher G\u00fcter verhindert wird. \u00a7 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm \u00a7 37 Abs. 1 Nr. 21a GGVSEB; \u00a7 10 Abs. 1 Nr. 1 GGBefG; 238.3 RSEB 529500, 529512 *) Zutreffendes angeben **) M\u00e4ngel angeben",
+            "txt": "Sie unterlie\u00dfen es als Fahrzeugf\u00fchrer, bei der Bef\u00f6rderung von gef\u00e4hrlichen G\u00fctern, die mit anderen G\u00fctern bef\u00f6rdert wurden, alle G\u00fcter so zu sichern oder zu verpacken, dass das Austreten gef\u00e4hrlicher G\u00fcter verhindert wird. \u00a7 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm \u00a7 37 Abs. 1 Nr. 21a GGVSEB; \u00a7 10 Abs. 1 Nr. 1 GGBefG; 238.3 RSEB **) M\u00e4ngel angeben",
             "eur": "300,00",
             "legal": "\u00a7 3 Abs. 2, \u00a7 5 Ferienreiseverordnung; \u00a7 24 StVG; -- BKat",
             "p": "B-1",
@@ -21944,7 +21944,7 @@
         },
         {
             "tbnr": "804518",
-            "txt": "Sie ordneten die Inbetriebnahme des zulassungsfreien Fahrzeugs auf einer \u00f6ffentlichen Stra\u00dfe an, obwohl eine Einzelgenehmigung nicht ausgestellt war, bzw. lie\u00dfen sie zu. 804600 *) Zutreffendes angeben 804100; 804106 *) Art der Bescheinigung angeben",
+            "txt": "Sie ordneten die Inbetriebnahme des zulassungsfreien Fahrzeugs auf einer \u00f6ffentlichen Stra\u00dfe an, obwohl eine Einzelgenehmigung nicht ausgestellt war, bzw. lie\u00dfen sie zu. 804100; 804106 *) Art der Bescheinigung angeben",
             "eur": "70,00",
             "legal": "\u00a7 4 Abs. 6, \u00a7 48 FZV; \u00a7 24 StVG; -- BKat",
             "p": "",
@@ -21953,7 +21953,7 @@
         },
         {
             "tbnr": "805600",
-            "txt": "Sie befolgten nicht das Verbot/die Beschr\u00e4nkung *), das Fahrzeug in Betrieb zu setzen. 805600 *) Zutreffendes angeben",
+            "txt": "Sie befolgten nicht das Verbot/die Beschr\u00e4nkung *), das Fahrzeug in Betrieb zu setzen.",
             "eur": "70,00",
             "legal": "\u00a7 5 Abs. 1, \u00a7 48 FZV; \u00a7 24 StVG; 253 BKat",
             "p": "B-1",
@@ -21971,7 +21971,7 @@
         },
         {
             "tbnr": "808106",
-            "txt": "Sie stellten das Fahrzeug mit Wechselkennzeichen ohne das/mit unvollst\u00e4ndigem *) Kennzeichen auf einer \u00f6ffentlichen Stra\u00dfe ab. 808100, 808106 *) Zutreffendes angeben",
+            "txt": "Sie stellten das Fahrzeug mit Wechselkennzeichen ohne das/mit unvollst\u00e4ndigem *) Kennzeichen auf einer \u00f6ffentlichen Stra\u00dfe ab.",
             "eur": "40,00",
             "legal": "\u00a7 8 Abs. 1a, \u00a7 48 FZV; \u00a7 24 StVG; 177 BKat",
             "p": "",
@@ -22070,7 +22070,7 @@
         },
         {
             "tbnr": "810124",
-            "txt": "Sie nahmen das Fahrzeug mit einem CC-Zeichen/CD-Zeichen *) auf einer \u00f6ffentlichen Stra\u00dfe in Betrieb, ohne dass eine Berechtigung zum F\u00fchren des Zeichens bestand/die Berechtigung zum F\u00fchren des Zeichens in der Zulassungsbescheinigung Teil I eingetragen war **). 810112 *) nicht ordnungsgem\u00e4\u00dfen Zustand angeben 810124 *) Zutreffendes angeben **) Zutreffendes angeben",
+            "txt": "Sie nahmen das Fahrzeug mit einem CC-Zeichen/CD-Zeichen *) auf einer \u00f6ffentlichen Stra\u00dfe in Betrieb, ohne dass eine Berechtigung zum F\u00fchren des Zeichens bestand/die Berechtigung zum F\u00fchren des Zeichens in der Zulassungsbescheinigung Teil I eingetragen war **). 810112 *) nicht ordnungsgem\u00e4\u00dfen Zustand angeben",
             "eur": "10,00",
             "legal": "\u00a7 10 Abs. 11, \u00a7 48 FZV; \u00a7 24 StVG; 179c BKat",
             "p": "",
@@ -22205,7 +22205,7 @@
         },
         {
             "tbnr": "815624",
-            "txt": "Sie ordneten als Halter die Inbetriebnahme des Fahrzeugs auf einer \u00f6ffentlichen Stra\u00dfe an, auf dessen Kennzeichenschildern Plakettentr\u00e4ger angebracht waren, die f\u00fcr ein anderes Kennzeichen ausgegeben wurden, bzw. lie\u00dfen sie zu. 815112 *) Zutreffendes angeben",
+            "txt": "Sie ordneten als Halter die Inbetriebnahme des Fahrzeugs auf einer \u00f6ffentlichen Stra\u00dfe an, auf dessen Kennzeichenschildern Plakettentr\u00e4ger angebracht waren, die f\u00fcr ein anderes Kennzeichen ausgegeben wurden, bzw. lie\u00dfen sie zu.",
             "eur": "70,00",
             "legal": "\u00a7 15e Abs. 6, \u00a7 48 FZV; \u00a7 24 StVG; 180e BKat",
             "p": "",
@@ -22286,7 +22286,7 @@
         },
         {
             "tbnr": "816612",
-            "txt": "Sie nahmen das Fahrzeug bei einer Pr\u00fcfungsfahrt, Probefahrt oder \u00dcberf\u00fchrungsfahrt ohne rotes Kennzeichen auf einer \u00f6ffentlichen Stra\u00dfe in Betrieb. 816100, 816118 *) Zutreffendes angeben",
+            "txt": "Sie nahmen das Fahrzeug bei einer Pr\u00fcfungsfahrt, Probefahrt oder \u00dcberf\u00fchrungsfahrt ohne rotes Kennzeichen auf einer \u00f6ffentlichen Stra\u00dfe in Betrieb.",
             "eur": "60,00",
             "legal": "\u00a7 16 Abs. 5, \u00a7 10 Abs. 12, \u00a7 48 FZV; \u00a7 24 StVG; 179a BKat",
             "p": "",
@@ -22430,7 +22430,7 @@
         },
         {
             "tbnr": "820106",
-            "txt": "Sie f\u00fchrten f\u00fcr das Fahrzeug keine ausl\u00e4ndische Zulassungsbescheinigung/keinen internationalen Zulassungsschein/keine \u00dcbersetzung des ausl\u00e4ndischen Zulassungsscheines *) mit oder h\u00e4ndigten dieses Papier auf Verlangen nicht aus. 820106 *) Zutreffendes angeben",
+            "txt": "Sie f\u00fchrten f\u00fcr das Fahrzeug keine ausl\u00e4ndische Zulassungsbescheinigung/keinen internationalen Zulassungsschein/keine \u00dcbersetzung des ausl\u00e4ndischen Zulassungsscheines *) mit oder h\u00e4ndigten dieses Papier auf Verlangen nicht aus.",
             "eur": "10,00",
             "legal": "\u00a7 20 Abs. 5, \u00a7 48 FZV; \u00a7 24 StVG; 185 BKat",
             "p": "",
