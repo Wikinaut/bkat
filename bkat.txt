@@ -2522,7 +2522,7 @@ TBNR 119612 70,00 € P:A-1
 Sie überholten unzulässig ein Kraftfahrzeug an einem Bahnübergang.
 
 TBNR 119613 85,00 € P:A-1
-Sie überholten unzulässig ein Kraftfahrzeug an einem Bahnübergang und gefährdeten dadurch Andere. 89a BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie überholten unzulässig ein Kraftfahrzeug an einem Bahnübergang und gefährdeten dadurch Andere.
 
 TBNR 119614 105,00 € P:A-1
 Sie überholten unzulässig ein Kraftfahrzeug an einem Bahnübergang. Es kam zum Unfall.
@@ -3392,10 +3392,10 @@ TBNR 133012 25,00 €
 Sie betrieben verbotswidrig außerhalb einer geschlossenen Ortschaft Werbung und Propaganda durch Bild/Schrift/Licht/Ton.
 
 TBNR 133018 15,00 €
-Sie brachten verbotswidrig eine Einrichtung an/verwendeten verbotswidrig eine Einrichtung, die einem Verkehrszeichen/einer Verkehrseinrichtung gleicht.
+Sie brachten verbotswidrig eine Einrichtung an/verwendeten verVerkehrseinrichtung gleicht.
 
 TBNR 133024 15,00 €
-Sie brachten verbotswidrig eine Einrichtung an/verwendeten verbotswidrig eine Einrichtung, die die Wirkung eines Verkehrszeichens /einer Verkehrseinrichtung beeinträchtigen kann. 133018, 133024
+Sie brachten verbotswidrig eine Einrichtung an/verwendeten ver/einer Verkehrseinrichtung beeinträchtigen kann. 133018, 133024
 
 ------ Unfall - § 34 StVO
 
@@ -3614,55 +3614,55 @@ TBNR 141290 10,00 €
 Sie hielten auf einem Fußgängerüberweg.
 
 TBNR 141291 15,00 €
-Sie hielten auf einem Fußgängerüberweg und behinderten dadurch Andere. 51.1 BKat; § 19 OWiG
+Sie hielten auf einem Fußgängerüberweg und behinderten dadurch Andere.
 
 TBNR 141292 15,00 €
 Sie parkten auf einem Fußgängerüberweg.
 
 TBNR 141293 25,00 €
-Sie parkten auf einem Fußgängerüberweg und behinderten dadurch Andere. 52.1 BKat; § 19 OWiG
+Sie parkten auf einem Fußgängerüberweg und behinderten dadurch Andere.
 
 TBNR 141294 25,00 €
 Sie parkten länger als 1 Stunde auf einem Fußgängerüberweg.
 
 TBNR 141295 35,00 €
-Sie parkten länger als 1 Stunde auf einem Fußgängerüberweg und behinderten dadurch Andere. 52.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde auf einem Fußgängerüberweg und behinderten dadurch Andere.
 
 TBNR 141300 10,00 €
 Sie hielten in einem Abstand von weniger als 5 Metern vor einem Fußgängerüberweg.
 
 TBNR 141301 15,00 €
-Sie hielten in einem Abstand von weniger als 5 Metern vor einem Fußgängerüberweg und behinderten dadurch Andere. 51.1 BKat; § 19 OWiG
+Sie hielten in einem Abstand von weniger als 5 Metern vor einem Fußgängerüberweg und behinderten dadurch Andere.
 
 TBNR 141302 15,00 €
 Sie parkten in einem Abstand von weniger als 5 Metern vor einem Fußgängerüberweg.
 
 TBNR 141303 25,00 €
-Sie parkten in einem Abstand von weniger als 5 Metern vor einem Fußgängerüberweg und behinderten dadurch Andere. 52.1 BKat; § 19 OWiG
+Sie parkten in einem Abstand von weniger als 5 Metern vor einem Fußgängerüberweg und behinderten dadurch Andere.
 
 TBNR 141304 25,00 €
 Sie parkten länger als 1 Stunde in einem Abstand von weniger als 5 Metern vor einem Fußgängerüberweg.
 
 TBNR 141305 35,00 €
-Sie parkten länger als 1 Stunde in einem Abstand von weniger als 5 Metern vor einem Fußgängerüberweg und behinderten dadurch Andere. 52.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde in einem Abstand von weniger als 5 Metern vor einem Fußgängerüberweg und behinderten dadurch Andere.
 
 TBNR 141310 10,00 €
 Sie hielten im absoluten Haltverbot (Zeichen 283).
 
 TBNR 141311 15,00 €
-Sie hielten im absoluten Haltverbot (Zeichen 283) und behinderten dadurch Andere. 51.1 BKat, § 19 OWiG
+Sie hielten im absoluten Haltverbot (Zeichen 283) und behinderten dadurch Andere.
 
 TBNR 141312 15,00 €
 Sie parkten im absoluten Haltverbot (Zeichen 283).
 
 TBNR 141313 25,00 €
-Sie parkten im absoluten Haltverbot (Zeichen 283) und behinderten dadurch Andere. 52.1 BKat; § 19 OWiG
+Sie parkten im absoluten Haltverbot (Zeichen 283) und behinderten dadurch Andere.
 
 TBNR 141314 25,00 €
 Sie parkten länger als 1 Stunde im absoluten Haltverbot (Zeichen 283).
 
 TBNR 141315 35,00 €
-Sie parkten länger als 1 Stunde im absoluten Haltverbot (Zeichen 283) und behinderten dadurch Andere. 52.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde im absoluten Haltverbot (Zeichen 283) und behinderten dadurch Andere.
 
 TBNR 141050 10,00 €
 Sie hielten verbotswidrig im Bereich einer Feuerwehranfahrtszone/einer Feuerwehrzufahrt/eines Rettungsweges (Zeichen 283 mit Zusatzzeichen).
@@ -3680,151 +3680,151 @@ TBNR 141322 15,00 €
 Sie parkten unzulässig im eingeschränkten Haltverbot (Zeichen 286).
 
 TBNR 141323 25,00 €
-Sie parkten unzulässig im eingeschränkten Haltverbot (Zeichen 286) und behinderten dadurch Andere. 52.1 BKat; § 19 OWiG
+Sie parkten unzulässig im eingeschränkten Haltverbot (Zeichen 286) und behinderten dadurch Andere.
 
 TBNR 141324 25,00 €
 Sie parkten unzulässig länger als 1 Stunde im eingeschränkten Haltverbot (Zeichen 286).
 
 TBNR 141325 35,00 €
-Sie parkten unzulässig länger als 1 Stunde im eingeschränkten Haltverbot (Zeichen 286) und behinderten dadurch Andere. 52.2.1 BKat; § 19 OWiG
+Sie parkten unzulässig länger als 1 Stunde im eingeschränkten Haltverbot (Zeichen 286) und behinderten dadurch Andere.
 
 TBNR 141330 10,00 €
 Sie hielten links von einer Fahrbahnbegrenzung (Zeichen 295).
 
 TBNR 141331 15,00 €
-Sie hielten links von einer Fahrbahnbegrenzung (Zeichen 295) und behinderten dadurch Andere. 51.1 BKat, § 19 OWiG
+Sie hielten links von einer Fahrbahnbegrenzung (Zeichen 295) und behinderten dadurch Andere.
 
 TBNR 141332 15,00 €
 Sie parkten links von einer Fahrbahnbegrenzung (Zeichen 295).
 
 TBNR 141333 25,00 €
-Sie parkten links von einer Fahrbahnbegrenzung (Zeichen 295) und behinderten dadurch Andere. 52.1 BKat; § 19 OWiG 141518
+Sie parkten links von einer Fahrbahnbegrenzung (Zeichen 295) und behinderten dadurch Andere. 141518
 
 TBNR 141334 25,00 €
 Sie parkten länger als 1 Stunde links von einer Fahrbahnbegrenzung (Zeichen 295).
 
 TBNR 141335 35,00 €
-Sie parkten länger als 1 Stunde links von einer Fahrbahnbegrenzung (Zeichen 295) und behinderten dadurch Andere. 52.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde links von einer Fahrbahnbegrenzung (Zeichen 295) und behinderten dadurch Andere.
 
 TBNR 141340 10,00 €
 Sie hielten auf einem durch Richtungspfeile (Zeichen 297) gekennzeichneten Fahrbahnteil.
 
 TBNR 141341 15,00 €
-Sie hielten auf einem durch Richtungspfeile (Zeichen 297) gekennzeichneten Fahrbahnteil und behinderten dadurch Andere. 51.1 BKat; § 19 OWiG
+Sie hielten auf einem durch Richtungspfeile (Zeichen 297) gekennzeichneten Fahrbahnteil und behinderten dadurch Andere.
 
 TBNR 141342 15,00 €
 Sie parkten auf einem durch Richtungspfeile (Zeichen 297) gekennzeichneten Fahrbahnteil.
 
 TBNR 141343 25,00 €
-Sie parkten auf einem durch Richtungspfeile (Zeichen 297) gekennzeichneten Fahrbahnteil und behinderten dadurch Andere. 52.1 BKat; § 19 OWiG
+Sie parkten auf einem durch Richtungspfeile (Zeichen 297) gekennzeichneten Fahrbahnteil und behinderten dadurch Andere.
 
 TBNR 141344 25,00 €
 Sie parkten länger als 1 Stunde auf einem durch Richtungspfeile (Zeichen 297) gekennzeichneten Fahrbahnteil.
 
 TBNR 141345 35,00 €
-Sie parkten länger als 1 Stunde auf einem durch Richtungspfeile (Zeichen 297) gekennzeichneten Fahrbahnteil und behinderten dadurch Andere. 52.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde auf einem durch Richtungspfeile (Zeichen 297) gekennzeichneten Fahrbahnteil und behinderten dadurch Andere.
 
 TBNR 141350 10,00 €
 Sie hielten innerhalb einer Grenzmarkierung (Zeichen 299) für ein Haltverbot.
 
 TBNR 141351 15,00 €
-Sie hielten innerhalb einer Grenzmarkierung (Zeichen 299) für ein Haltverbot und behinderten dadurch Andere. 51.1 BKat; § 19 OWiG
+Sie hielten innerhalb einer Grenzmarkierung (Zeichen 299) für ein Haltverbot und behinderten dadurch Andere.
 
 TBNR 141352 15,00 €
 Sie parkten innerhalb einer Grenzmarkierung (Zeichen 299) für ein Haltverbot.
 
 TBNR 141353 25,00 €
-Sie parkten innerhalb einer Grenzmarkierung (Zeichen 299) für ein Haltverbot und behinderten dadurch Andere. 52.1 BKat; § 19 OWiG
+Sie parkten innerhalb einer Grenzmarkierung (Zeichen 299) für ein Haltverbot und behinderten dadurch Andere.
 
 TBNR 141354 25,00 €
 Sie parkten länger als 1 Stunde innerhalb einer Grenzmarkierung (Zeichen 299) für ein Haltverbot.
 
 TBNR 141355 35,00 €
-Sie parkten länger als 1 Stunde innerhalb einer Grenzmarkierung (Zeichen 299) für ein Haltverbot und behinderten dadurch Andere. 52.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde innerhalb einer Grenzmarkierung (Zeichen 299) für ein Haltverbot und behinderten dadurch Andere.
 
 TBNR 141360 10,00 €
 Sie hielten näher als 10 Meter vor einem Andreaskreuz (Zeichen 201)/Zeichen 205 (Vorfahrt gewähren.)/Zeichen 206 (Halt. Vorfahrt gewähren.) und verdeckten dieses.
 
 TBNR 141361 15,00 €
-Sie hielten näher als 10 Meter vor einem Andreaskreuz (Zeichen 201)/Zeichen 205 (Vorfahrt gewähren.)/Zeichen 206 (Halt. Vorfahrt gewähren.) und verdeckten dieses, wodurch Andere behindert wurden. 51.1 BKat; § 19 OWiG
+Sie hielten näher als 10 Meter vor einem Andreaskreuz (Zeichen 201)/Zeichen 205 (Vorfahrt gewähren.)/Zeichen 206 (Halt. Vorfahrt gewähren.) und verdeckten dieses, wodurch Andere behindert wurden.
 
 TBNR 141362 15,00 €
 Sie parkten näher als 10 Meter vor einem Andreaskreuz (Zeichen 201)/Zeichen 205 (Vorfahrt gewähren.)/Zeichen 206 (Halt. Vorfahrt gewähren.) und verdeckten dieses.
 
 TBNR 141363 25,00 €
-Sie parkten näher als 10 Meter vor einem Andreaskreuz (Zeichen 201)/Zeichen 205 (Vorfahrt gewähren.)/Zeichen 206 (Halt. Vorfahrt gewähren.) und verdeckten dieses, wodurch Andere behindert wurden. 52.1 BKat; § 19 OWiG
+Sie parkten näher als 10 Meter vor einem Andreaskreuz (Zeichen 201)/Zeichen 205 (Vorfahrt gewähren.)/Zeichen 206 (Halt. Vorfahrt gewähren.) und verdeckten dieses, wodurch Andere behindert wurden.
 
 TBNR 141364 25,00 €
 Sie parkten länger als 1 Stunde näher als 10 Meter vor einem Andreaskreuz (Zeichen 201)/Zeichen 205 (Vorfahrt gewähren.)/Zeichen 206 (Halt. Vorfahrt gewähren.) und verdeckten dieses.
 
 TBNR 141365 35,00 €
-Sie parkten länger als 1 Stunde näher als 10 Meter vor einem Andreaskreuz (Zeichen 201)/Zeichen 205 (Vorfahrt gewähren.)/Zeichen 206 (Halt. Vorfahrt gewähren.) und verdeckten dieses, wodurch Andere behindert wurden. 52.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde näher als 10 Meter vor einem Andreaskreuz (Zeichen 201)/Zeichen 205 (Vorfahrt gewähren.)/Zeichen 206 (Halt. Vorfahrt gewähren.) und verdeckten dieses, wodurch Andere behindert wurden.
 
 TBNR 141380 10,00 €
 Sie hielten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229).
 
 TBNR 141381 15,00 €
-Sie hielten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229) und behinderten dadurch den Taxenverkehr. 51.1 BKat; § 19 OWiG
+Sie hielten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229) und behinderten dadurch den Taxenverkehr.
 
 TBNR 141382 15,00 €
 Sie parkten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229).
 
 TBNR 141383 25,00 €
-Sie parkten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229) und behinderten dadurch den Taxenverkehr. 52.1 BKat; § 19 OWiG
+Sie parkten verbotswidrig im Bereich eines Taxenstandes (Zeichen 229) und behinderten dadurch den Taxenverkehr.
 
 TBNR 141384 25,00 €
 Sie parkten verbotswidrig länger als 1 Stunde im Bereich eines Taxenstandes (Zeichen 229).
 
 TBNR 141385 35,00 €
-Sie parkten verbotswidrig länger als 1 Stunde im Bereich eines Taxenstandes (Zeichen 229) und behinderten dadurch den Taxenverkehr. 52.2.1 BKat; § 19 OWiG
+Sie parkten verbotswidrig länger als 1 Stunde im Bereich eines Taxenstandes (Zeichen 229) und behinderten dadurch den Taxenverkehr.
 
 TBNR 141392 15,00 €
 Sie parkten im eingeschränkten Haltverbot (Zeichen 286/290.1, 290.2) mit Zusatzzeichen "Bewohner mit Parkausweis frei". Ein besonderer Parkausweis lag nicht gut lesbar aus.
 
 TBNR 141393 25,00 €
-Sie parkten im eingeschränkten Haltverbot (Zeichen 286/290.1, 290.2) mit Zusatzzeichen "Bewohner mit Parkausweis frei" und behinderten dadurch Andere. Ein besonderer Parkausweis lag nicht gut lesbar aus. 52.1 BKat; § 19 OWiG
+Sie parkten im eingeschränkten Haltverbot (Zeichen 286/290.1, 290.2) mit Zusatzzeichen "Bewohner mit Parkausweis frei" und behinderten dadurch Andere. Ein besonderer Parkausweis lag nicht gut lesbar aus.
 
 TBNR 141394 25,00 €
 Sie parkten länger als 1 Stunde im eingeschränkten Haltverbot (Zeichen 286/290.1, 290.2) mit Zusatzzeichen "Bewohner mit Parkausweis frei". Ein besonderer Parkausweis lag nicht gut lesbar aus.
 
 TBNR 141395 35,00 €
-Sie parkten länger als 1 Stunde im eingeschränkten Haltverbot (Zeichen 286/290.1, 290.2) mit Zusatzzeichen "Bewohner mit Parkausweis frei" und behinderten dadurch Andere. Ein besonderer Parkausweis lag nicht gut lesbar aus. 52.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde im eingeschränkten Haltverbot (Zeichen 286/290.1, 290.2) mit Zusatzzeichen "Bewohner mit Parkausweis frei" und behinderten dadurch Andere. Ein besonderer Parkausweis lag nicht gut lesbar aus.
 
 TBNR 141402 10,00 €
 Sie parkten in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224).
 
 TBNR 141403 15,00 €
-Sie parkten in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224) und behinderten dadurch Andere. 54.1 BKat; § 19 OWiG
+Sie parkten in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224) und behinderten dadurch Andere.
 
 TBNR 141404 20,00 €
 Sie parkten länger als 3 Stunden in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224).
 
 TBNR 141405 30,00 €
-Sie parkten länger als 3 Stunden in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224) und behinderten dadurch Andere. 54.2.1 BKat; § 19 OWiG
+Sie parkten länger als 3 Stunden in einem Abstand von weniger als 15 Metern von einem Haltestellenschild (Zeichen 224) und behinderten dadurch Andere.
 
 TBNR 141412 10,00 €
 Sie parkten, obwohl zwischen Ihrem Fahrzeug und der Fahrstreifenbegrenzung (Zeichen 295/296) ein Abstand von weniger als 3 Metern verblieb.
 
 TBNR 141413 15,00 €
-Sie parkten, obwohl zwischen Ihrem Fahrzeug und der Fahrstreifenbegrenzung (Zeichen 295/296) ein Abstand von weniger als 3 Metern verblieb, und behinderten dadurch Andere. 54.1 BKat; § 19 OWiG
+Sie parkten, obwohl zwischen Ihrem Fahrzeug und der Fahrstreifenbegrenzung (Zeichen 295/296) ein Abstand von weniger als 3 Metern verblieb, und behinderten dadurch Andere.
 
 TBNR 141414 20,00 €
 Sie parkten länger als 3 Stunden, obwohl zwischen Ihrem Fahrzeug und der Fahrstreifenbegrenzung (Zeichen 295/296) ein Abstand von weniger als 3 Metern verblieb.
 
 TBNR 141415 30,00 €
-Sie parkten länger als 3 Stunden, obwohl zwischen Ihrem Fahrzeug und der Fahrstreifenbegrenzung (Zeichen 295/296) ein Abstand von weniger als 3 Metern verblieb, und behinderten dadurch Andere. 54.2.1 BKat; § 19 OWiG
+Sie parkten länger als 3 Stunden, obwohl zwischen Ihrem Fahrzeug und der Fahrstreifenbegrenzung (Zeichen 295/296) ein Abstand von weniger als 3 Metern verblieb, und behinderten dadurch Andere.
 
 TBNR 141422 10,00 €
 Sie parkten innerhalb einer Grenzmarkierung (Zeichen 299) für ein Parkverbot.
 
 TBNR 141423 15,00 €
-Sie parkten innerhalb einer Grenzmarkierung (Zeichen 299) für ein Parkverbot und behinderten dadurch Andere. 54.1 BKat; § 19 OWiG
+Sie parkten innerhalb einer Grenzmarkierung (Zeichen 299) für ein Parkverbot und behinderten dadurch Andere.
 
 TBNR 141424 20,00 €
 Sie parkten länger als 3 Stunden innerhalb einer Grenzmarkierung (Zeichen 299) für ein Parkverbot.
 
 TBNR 141425 30,00 €
-Sie parkten länger als 3 Stunden innerhalb einer Grenzmarkierung (Zeichen 299) für ein Parkverbot und behinderten dadurch Andere. 54.2.1 BKat; § 19 OWiG
+Sie parkten länger als 3 Stunden innerhalb einer Grenzmarkierung (Zeichen 299) für ein Parkverbot und behinderten dadurch Andere.
 
 ------ Vorschriftzeichen - § 41 Abs. 1 iVm Anlage 2 StVO (Halten/Parken)
 
@@ -3844,7 +3844,7 @@ TBNR 141434 25,00 €
 Sie parkten verbotswidrig länger als 1 Stunde innerhalb des Kreisverkehrs auf der Fahrbahn.
 
 TBNR 141435 35,00 €
-Sie parkten verbotswidrig länger als 1 Stunde innerhalb des Kreisverkehrs auf der Fahrbahn und behinderten dadurch Andere. 52.2.1 BKat; § 19 OWiG
+Sie parkten verbotswidrig länger als 1 Stunde innerhalb des Kreisverkehrs auf der Fahrbahn und behinderten dadurch Andere.
 
 TBNR 141000 10,00 €
 Sie hielten auf einem Radweg (Zeichen 237).
@@ -3856,19 +3856,19 @@ TBNR 141100 20,00 €
 Sie parkten auf einem Radweg (Zeichen 237).
 
 TBNR 141101 30,00 €
-Sie parkten auf einem Radweg (Zeichen 237) und behinderten dadurch Andere. 52a.1 BKat; § 19 OWiG
+Sie parkten auf einem Radweg (Zeichen 237) und behinderten dadurch Andere.
 
 TBNR 141103 30,00 €
 Sie parkten länger als 1 Stunde auf einem Radweg (Zeichen 237).
 
 TBNR 141104 35,00 €
-Sie parkten länger als 1 Stunde auf einem Radweg (Zeichen 237) und behinderten dadurch Andere. 52a.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde auf einem Radweg (Zeichen 237) und behinderten dadurch Andere.
 
 TBNR 141106 30,00 €
 Sie parkten in einem Fußgängerbereich, der durch Zeichen 239/242.1, 242.2/250 gesperrt war.
 
 TBNR 141107 35,00 €
-Sie parkten in einem Fußgängerbereich, der durch Zeichen 239/242.1, 242.2/250 gesperrt war und behinderten dadurch Andere. 144.1 BKat; § 19 OWiG
+Sie parkten in einem Fußgängerbereich, der durch Zeichen 239/242.1, 242.2/250 gesperrt war und behinderten dadurch Andere.
 
 TBNR 141109 35,00 €
 Sie parkten länger als 3 Stunden in einem Fußgängerbereich, der durch Zeichen 239/242.1, 242.2/250 gesperrt war.
@@ -3883,13 +3883,13 @@ TBNR 141112 20,00 €
 Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)).
 
 TBNR 141113 30,00 €
-Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)) und behinderten dadurch Andere. 52a.1 BKat; § 19 OWiG
+Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)) und behinderten dadurch Andere.
 
 TBNR 141115 30,00 €
 Sie parkten länger als 1 Stunde auf einem Geh- und Radweg (Zeichen 240/ 241*)).
 
 TBNR 141116 35,00 €
-Sie parkten länger als 1 Stunde auf einem Geh- und Radweg (Zeichen 240/ 241*)) und behinderten dadurch Andere. 52a.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde auf einem Geh- und Radweg (Zeichen 240/ 241*)) und behinderten dadurch Andere.
 
 TBNR 141118 15,00 €
 Sie parkten im eingeschränkten Haltverbot für eine Zone (Zeichen 290.1, 290.2).
@@ -3901,7 +3901,7 @@ TBNR 141121 25,00 €
 Sie parkten länger als 1 Stunde im eingeschränkten Haltverbot für eine Zone (Zeichen 290.1, 290.2).
 
 TBNR 141122 35,00 €
-Sie parkten länger als 1 Stunde im eingeschränkten Haltverbot für eine Zone (Zeichen 290.1, 290.2) und behinderten dadurch Andere. 52.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde im eingeschränkten Haltverbot für eine Zone (Zeichen 290.1, 290.2) und behinderten dadurch Andere.
 
 TBNR 141020 10,00 €
 Sie hielten auf einer Fahrradstraße (Zeichen 244.1, 244.2).
@@ -3931,13 +3931,13 @@ TBNR 141442 15,00 €
 Sie parkten auf einem Reitweg (Zeichen 238).
 
 TBNR 141443 25,00 €
-Sie parkten auf einem Reitweg (Zeichen 238) und behinderten dadurch Andere. 52.1 BKat; § 19 OWiG
+Sie parkten auf einem Reitweg (Zeichen 238) und behinderten dadurch Andere.
 
 TBNR 141444 25,00 €
 Sie parkten länger als 1 Stunde auf einem Reitweg (Zeichen 238).
 
 TBNR 141445 35,00 €
-Sie parkten länger als 1 Stunde auf einem Reitweg (Zeichen 238) und behinderten dadurch Andere. 52.2.1 BKat; § 19 OWiG
+Sie parkten länger als 1 Stunde auf einem Reitweg (Zeichen 238) und behinderten dadurch Andere.
 
 TBNR 141062 30,00 €
 Sie parkten in einem Verkehrsbereich, der durch Zeichen 250/251/253/255/260 gesperrt war.
@@ -3949,7 +3949,7 @@ TBNR 141377 15,00 €
 Sie parkten verbotswidrig auf einem Sonderfahrstreifen für Omnibusse des Linienverkehrs (Zeichen 245).
 
 TBNR 141378 20,00 €
-Sie parkten in einem Verkehrsbereich, der für Sie durch Zeichen 262/263/264/265/266/267 gesperrt war. 141062, 141378 Verkehrszeichen angeben
+Sie parkten in einem Verkehrsbereich, der für Sie durch Zeichen 262/263/264/265/266/267 gesperrt war.
 
 ------ Vorschriftzeichen - § 41 Abs. 1 iVm Anlage 2 StVO
 
@@ -3972,28 +3972,28 @@ TBNR 141139 5,00 €
 Sie gewährten bei verengter Fahrbahn dem Gegenverkehr keinen Vorrang (Zeichen 208).
 
 TBNR 141140 10,00 €
-Sie gewährten bei verengter Fahrbahn dem Gegenverkehr keinen Vorrang (Zeichen 208) und gefährdeten dadurch Andere. 137.1 BKat; § 19 OWiG
+Sie gewährten bei verengter Fahrbahn dem Gegenverkehr keinen Vorrang (Zeichen 208) und gefährdeten dadurch Andere.
 
 TBNR 141141 20,00 €
-Sie gewährten bei verengter Fahrbahn dem Gegenverkehr keinen Vorrang (Zeichen 208). Es kam zum Unfall. 137.2 BKat; § 19 OWiG
+Sie gewährten bei verengter Fahrbahn dem Gegenverkehr keinen Vorrang (Zeichen 208). Es kam zum Unfall.
 
 TBNR 141142 10,00 €
 Sie befolgten nicht die durch Zeichen 209/211/214 vorgeschriebene Fahrtrichtung.
 
 TBNR 141143 15,00 €
-Sie befolgten nicht die durch Zeichen 209/211/214 vorgeschriebene Fahrtrichtung und gefährdeten dadurch Andere. 138.1 BKat; § 19 OWiG
+Sie befolgten nicht die durch Zeichen 209/211/214 vorgeschriebene Fahrtrichtung und gefährdeten dadurch Andere.
 
 TBNR 141144 25,00 €
-Sie befolgten nicht die durch Zeichen 209/211/214 vorgeschriebene Fahrtrichtung. Es kam zum Unfall. 138.2 BKat; § 19 OWiG 141142 - 141144 Verkehrszeichen und tatsächliche Fahrtrichtung angeben
+Sie befolgten nicht die durch Zeichen 209/211/214 vorgeschriebene Fahrtrichtung. Es kam zum Unfall.
 
 TBNR 141145 10,00 €
 Sie missachteten die durch Zeichen 222 vorgeschriebene Vorbeifahrt.
 
 TBNR 141146 15,00 €
-Sie missachteten die durch Zeichen 222 vorgeschriebene Vorbeifahrt und gefährdeten dadurch Andere. 138.1 BKat; § 19 OWiG
+Sie missachteten die durch Zeichen 222 vorgeschriebene Vorbeifahrt und gefährdeten dadurch Andere.
 
 TBNR 141147 25,00 €
-Sie missachteten die durch Zeichen 222 vorgeschriebene Vorbeifahrt. Es kam zum Unfall. 138.2 BKat; § 19 OWiG
+Sie missachteten die durch Zeichen 222 vorgeschriebene Vorbeifahrt. Es kam zum Unfall.
 
 TBNR 141148 25,00 €
 Sie folgten als Kraftfahrzeugführer nicht der durch Zeichen 215/220 vorgeschriebenen Fahrtrichtung.
@@ -4002,13 +4002,13 @@ TBNR 141149 20,00 €
 Sie folgten als Radfahrer nicht der durch Zeichen 215/220 vorgeschriebenen Fahrtrichtung.
 
 TBNR 141150 25,00 €
-Sie folgten als Radfahrer nicht der durch Zeichen 215/220 vorgeschriebenen Fahrtrichtung und behinderten dadurch Andere. 139.2.1 BKat; § 19 OWiG
+Sie folgten als Radfahrer nicht der durch Zeichen 215/220 vorgeschriebenen Fahrtrichtung und behinderten dadurch Andere.
 
 TBNR 141151 30,00 €
-Sie folgten als Radfahrer nicht der durch Zeichen 215/220 vorgeschriebenen Fahrtrichtung und gefährdeten dadurch Andere. 139.2.2 BKat; § 19 OWiG
+Sie folgten als Radfahrer nicht der durch Zeichen 215/220 vorgeschriebenen Fahrtrichtung und gefährdeten dadurch Andere.
 
 TBNR 141152 35,00 €
-Sie folgten als Radfahrer nicht der durch Zeichen 215/220 vorgeschriebenen Fahrtrichtung. Es kam zum Unfall. 139.2.3 BKat; § 19 OWiG
+Sie folgten als Radfahrer nicht der durch Zeichen 215/220 vorgeschriebenen Fahrtrichtung. Es kam zum Unfall.
 
 TBNR 141153 35,00 €
 Sie gefährdeten beim berechtigten Überfahren der Mittelinsel im Kreisverkehr einen Anderen.
@@ -4017,13 +4017,13 @@ TBNR 141154 15,00 €
 Sie benutzten als Nichtberechtigter einen Sonderweg.
 
 TBNR 141155 20,00 €
-Sie benutzten als Nichtberechtigter einen Sonderweg und behinderten dadurch Andere. 140.1 BKat; § 19 OWiG
+Sie benutzten als Nichtberechtigter einen Sonderweg und behinderten dadurch Andere.
 
 TBNR 141156 25,00 €
-Sie benutzten als Nichtberechtigter einen Sonderweg und gefährdeten dadurch Andere. 140.2 BKat; § 19 OWiG
+Sie benutzten als Nichtberechtigter einen Sonderweg und gefährdeten dadurch Andere.
 
 TBNR 141157 30,00 €
-Sie benutzten als Nichtberechtigter einen Sonderweg. Es kam zum Unfall. 140.3 BKat; § 19 OWiG 141148 - 141152 Verkehrszeichen angeben 141154 - 141157 Art der Verkehrsbeteiligung angeben **) Art des Sonderweges angeben
+Sie benutzten als Nichtberechtigter einen Sonderweg. Es kam zum Unfall. 141154 - 141157 Art der Verkehrsbeteiligung angeben **) Art des Sonderweges angeben
 
 TBNR 141736 75,00 €
 Sie benutzten mit einem Kraftfahrzeug über 3,5 t zul. Gesamtmasse (ausgenommen PKW und KOM) den Fußgängerbereich, obwohl dieser für Sie durch Zeichen 239/242.1, 242.2 gesperrt war.
@@ -4047,31 +4047,31 @@ TBNR 141169 15,00 €
 Sie benutzten als Radfahrer den Fußgängerbereich, obwohl dieser für Sie durch Zeichen 239/242.1, 242.2 gesperrt war.
 
 TBNR 141170 20,00 €
-Sie benutzten als Radfahrer den Fußgängerbereich, obwohl dieser für Sie durch Zeichen 239/242.1, 242.2 gesperrt war, und behinderten dadurch Andere. 141.4.1 BKat; § 19 OWiG
+Sie benutzten als Radfahrer den Fußgängerbereich, obwohl dieser für Sie durch Zeichen 239/242.1, 242.2 gesperrt war, und behinderten dadurch Andere.
 
 TBNR 141171 25,00 €
-Sie benutzten als Radfahrer den Fußgängerbereich, obwohl dieser für Sie durch Zeichen 239/242.1, 242.2 gesperrt war, und gefährdeten dadurch Andere. 141.4.2 BKat; § 19 OWiG
+Sie benutzten als Radfahrer den Fußgängerbereich, obwohl dieser für Sie durch Zeichen 239/242.1, 242.2 gesperrt war, und gefährdeten dadurch Andere.
 
 TBNR 141172 30,00 €
-Sie benutzten als Radfahrer den Fußgängerbereich, obwohl dieser für Sie durch Zeichen 239/242.1, 242.2 gesperrt war. Es kam zum Unfall. 141.4.3 BKat; § 19 OWiG 141736, 141739 Verkehrszeichen angeben 141160 - 141172
+Sie benutzten als Radfahrer den Fußgängerbereich, obwohl dieser für Sie durch Zeichen 239/242.1, 242.2 gesperrt war. Es kam zum Unfall. 141160 - 141172
 
 TBNR 141175 15,00 €
 Sie benutzten als Radfahrer den Verkehrsbereich, obwohl dieser für Sie durch Zeichen 250/254 gesperrt war.
 
 TBNR 141176 20,00 €
-Sie benutzten als Radfahrer den Verkehrsbereich, obwohl dieser für Sie durch Zeichen 250/254 gesperrt war, und behinderten dadurch Andere. 141.4.1 BKat; § 19 OWiG
+Sie benutzten als Radfahrer den Verkehrsbereich, obwohl dieser für Sie durch Zeichen 250/254 gesperrt war, und behinderten dadurch Andere.
 
 TBNR 141177 25,00 €
-Sie benutzten als Radfahrer den Verkehrsbereich, obwohl dieser für Sie durch Zeichen 250/254 gesperrt war, und gefährdeten dadurch Andere. 141.4.2 BKat; § 19 OWiG
+Sie benutzten als Radfahrer den Verkehrsbereich, obwohl dieser für Sie durch Zeichen 250/254 gesperrt war, und gefährdeten dadurch Andere.
 
 TBNR 141178 30,00 €
-Sie benutzten als Radfahrer den Verkehrsbereich, obwohl dieser für Sie durch Zeichen 250/254 gesperrt war. Es kam zum Unfall. 141.4.3 BKat; § 19 OWiG
+Sie benutzten als Radfahrer den Verkehrsbereich, obwohl dieser für Sie durch Zeichen 250/254 gesperrt war. Es kam zum Unfall.
 
 TBNR 141181 20,00 €
 Sie beachteten als Kraftfahrzeugführer nicht das bestehende Verkehrsverbot (Zeichen 262/263/264/265/266).
 
 TBNR 141742 500,00 €
-Sie beachteten nicht das durch Zeichen 251 mit Zusatzzeichen/265 angeordnete Verkehrsverbot, obwohl die Straßenfläche zusätzlich durch 1) Verkehrseinrichtungen gekennzeichnet war. 250a BKat
+Sie beachteten nicht das durch Zeichen 251 mit Zusatzzeichen/265 angeordnete Verkehrsverbot, obwohl die Straßenfläche zusätzlich durch 1) Verkehrseinrichtungen gekennzeichnet war.
 
 TBNR 141184 25,00 €
 Sie beachteten als Kraftfahrzeugführer nicht das bestehende Verbot der Einfahrt (Zeichen 267).
@@ -4083,13 +4083,13 @@ TBNR 141187 20,00 €
 Sie beachteten als Radfahrer nicht das bestehende Verbot der Einfahrt (Zeichen 267).
 
 TBNR 141188 25,00 €
-Sie beachteten als Radfahrer nicht das bestehende Verbot der Einfahrt (Zeichen 267) und behinderten dadurch Andere. 143.1 BKat; § 19 OWiG
+Sie beachteten als Radfahrer nicht das bestehende Verbot der Einfahrt (Zeichen 267) und behinderten dadurch Andere.
 
 TBNR 141189 30,00 €
-Sie beachteten als Radfahrer nicht das bestehende Verbot der Einfahrt (Zeichen 267) und gefährdeten dadurch Andere. 143.2 BKat; § 19 OWiG 141175 - 141742 Verkehrszeichen angeben 1) 141742 Nach Abstimmung mit der Arbeitsgruppe Bundeseinheitlicher Tatbestandskatalog ergänzt/geändert aufgrund der 53. Verordnung zur Änderung straßenverkehrsrechtlicher Vorschriften vom 06.10.2017 (BGBl. I S. 3549)
+Sie beachteten als Radfahrer nicht das bestehende Verbot der Einfahrt (Zeichen 267) und gefährdeten dadurch Andere. 1) 141742 Nach Abstimmung mit der Arbeitsgruppe Bundeseinheitlicher Tatbestandskatalog ergänzt/geändert aufgrund der 53. Verordnung zur Änderung straßenverkehrsrechtlicher Vorschriften vom 06.10.2017 (BGBl. I S. 3549)
 
 TBNR 141190 35,00 €
-Sie beachteten als Radfahrer nicht das bestehende Verbot der Einfahrt (Zeichen 267). Es kam zum Unfall. 143.3 BKat; § 19 OWiG
+Sie beachteten als Radfahrer nicht das bestehende Verbot der Einfahrt (Zeichen 267). Es kam zum Unfall.
 
 TBNR 141196 15,00 €
 Sie fuhren auf einem Gehweg (Zeichen 239)/in einer Fußgängerzone (Zeichen 242.1, 242.2) mit zugelassenem Fahrzeugverkehr nicht mit Schrittgeschwindigkeit.
@@ -4104,52 +4104,52 @@ TBNR 141202 15,00 €
 Sie benutzten verbotswidrig einen Sonderfahrstreifen (Zeichen 245) für Omnibusse oder Taxen.
 
 TBNR 141203 35,00 €
-Sie benutzten verbotswidrig einen Sonderfahrstreifen für Omnibusse oder Taxen (Zeichen 245) und behinderten den Linien- bzw. Taxenverkehr. 147.1 BKat; § 19 OWiG
+Sie benutzten verbotswidrig einen Sonderfahrstreifen für Omnibusse oder Taxen (Zeichen 245) und behinderten den Linien- bzw. Taxenverkehr.
 
 TBNR 141205 20,00 €
 Sie beachteten nicht das bestehende Wendeverbot (Zeichen 272).
 
 TBNR 141206 30,00 €
-Sie beachteten nicht das bestehende Wendeverbot (Zeichen 272) und gefährdeten dadurch Andere. 148 BKat; § 19 OWiG
+Sie beachteten nicht das bestehende Wendeverbot (Zeichen 272) und gefährdeten dadurch Andere.
 
 TBNR 141207 35,00 €
-Sie beachteten nicht das bestehende Wendeverbot (Zeichen 272). Es kam zum Unfall. 148 BKat; § 19 OWiG
+Sie beachteten nicht das bestehende Wendeverbot (Zeichen 272). Es kam zum Unfall.
 
 TBNR 141208 25,00 €
 Sie unterschritten den vorgeschriebenen Mindestabstand (Zeichen 273) zu dem vorausfahrenden Fahrzeug.
 
 TBNR 141600 70,00 € P:A-1
-Sie beachteten nicht das unbedingte Haltgebot (Zeichen 206) und gefährdeten dadurch Andere. 150 BKat; § 19 OWiG
+Sie beachteten nicht das unbedingte Haltgebot (Zeichen 206) und gefährdeten dadurch Andere.
 
 TBNR 141601 85,00 € P:A-1
-Sie beachteten nicht das unbedingte Haltgebot (Zeichen 206). Es kam zum Unfall. 150 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie beachteten nicht das unbedingte Haltgebot (Zeichen 206). Es kam zum Unfall.
 
 TBNR 141211 10,00 €
 Sie hielten nicht an der Haltlinie (Zeichen 294).
 
 TBNR 141730 70,00 € P:A-1
-Sie hielten trotz Rotlicht nicht an der Haltlinie (Zeichen 294) und gefährdeten dadurch Andere. 150 BKat; § 19 OWiG
+Sie hielten trotz Rotlicht nicht an der Haltlinie (Zeichen 294) und gefährdeten dadurch Andere.
 
 TBNR 141731 85,00 € P:A-1
-Sie hielten trotz Rotlicht nicht an der Haltlinie (Zeichen 294). Es kam zum Unfall. 150 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie hielten trotz Rotlicht nicht an der Haltlinie (Zeichen 294). Es kam zum Unfall.
 
 TBNR 141603 60,00 € P:B-1
-Sie gefährdeten als Kraftfahrzeugführer in einem Fußgängerbereich (Zeichen 239/242.1, 242.2 mit Zusatzzeichen), in dem Fahrzeugverkehr zugelassen war, einen Fußgänger. 151.1 BKat 141606 Sie gefährdeten als Radfahrer in einem Fußgängerbereich ( B - 1) 30,00 (Zeichen 239/242.1, 242.2 mit Zusatzzeichen), in dem Fahrzeugverkehr zugelassen war, einen Fußgänger. 151.1 BKat; § 3 Abs. 6 BKatV
+Sie gefährdeten als Kraftfahrzeugführer in einem Fußgängerbereich (Zeichen 239/242.1, 242.2 mit Zusatzzeichen), in dem Fahrzeugverkehr zugelassen war, einen Fußgänger. 141606 Sie gefährdeten als Radfahrer in einem Fußgängerbereich ( B - 1) 30,00 (Zeichen 239/242.1, 242.2 mit Zusatzzeichen), in dem Fahrzeugverkehr zugelassen war, einen Fußgänger.
 
 TBNR 141609 70,00 € P:B-1
-Sie gefährdeten als Kraftfahrzeugführer in einem Fußgängerbereich (Zeichen 239/242.1, 242.2), in dem Fahrzeugverkehr nicht zugelassen war, einen Fußgänger. 151.2 BKat; § 19 OWiG
+Sie gefährdeten als Kraftfahrzeugführer in einem Fußgängerbereich (Zeichen 239/242.1, 242.2), in dem Fahrzeugverkehr nicht zugelassen war, einen Fußgänger.
 
 TBNR 141615 100,00 € P:B-1
 Sie befuhren eine für kennzeichnungspflichtige Kraftfahrzeuge mit gefährlichen Gütern gesperrte Straße (Zeichen 261).
 
 TBNR 141616 250,00 € P:B-1 FV:1 M
-Sie befuhren eine für kennzeichnungspflichtige Kraftfahrzeuge mit gefährlichen Gütern gesperrte Straße (Zeichen 261). - bei Eintragung von bereits einer Entscheidung wegen eines Verstoßes gegen Zeichen 261 im FAER. 152.1 BKat; § 4 Abs. 1 BKatV 141603 - 141609 Verkehrszeichen angeben
+Sie befuhren eine für kennzeichnungspflichtige Kraftfahrzeuge mit gefährlichen Gütern gesperrte Straße (Zeichen 261). - bei Eintragung von bereits einer Entscheidung wegen eines Verstoßes gegen Zeichen 261 im FAER.
 
 TBNR 141618 100,00 € P:B-1
 Sie befuhren eine für Kraftfahrzeuge mit wassergefährdender Ladung gesperrte Straße (Zeichen 269).
 
 TBNR 141619 250,00 € P:B-1 FV:1 M
-Sie befuhren eine für Kraftfahrzeuge mit wassergefährdender Ladung gesperrte Straße (Zeichen 269). - bei Eintragung von bereits einer Entscheidung wegen eines Verstoßes gegen Zeichen 269 im FAER. 152.1 BKat; § 4 Abs. 1 BKatV
+Sie befuhren eine für Kraftfahrzeuge mit wassergefährdender Ladung gesperrte Straße (Zeichen 269). - bei Eintragung von bereits einer Entscheidung wegen eines Verstoßes gegen Zeichen 269 im FAER.
 
 TBNR 141621 80,00 €
 Sie nahmen trotz eines Verkehrsverbots zur Verminderung schädlicher Luftverunreinigungen (Zeichen 270.1, 270.2) mit einem Kraftfahrzeug am Verkehr teil.
@@ -4167,13 +4167,13 @@ TBNR 141446 20,00 €
 Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war.
 
 TBNR 141447 25,00 €
-Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war, und behinderten dadurch Andere. 7.1.1 BKat; § 19 OWiG
+Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war, und behinderten dadurch Andere.
 
 TBNR 141448 30,00 €
-Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war, und gefährdeten dadurch Andere. 7.1.2 BKat; § 19 OWiG
+Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war, und gefährdeten dadurch Andere.
 
 TBNR 141449 35,00 €
-Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war. Es kam zum Unfall. 7.1.3 BKat; § 19 OWiG
+Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war. Es kam zum Unfall.
 
 TBNR 141212 20,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4444,19 +4444,19 @@ TBNR 141251 10,00 €
 Sie folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297).
 
 TBNR 141252 35,00 €
-Sie folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. 155.1 BKat; § 19 OWiG
+Sie folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall.
 
 TBNR 141253 10,00 €
 Sie fuhren verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296).
 
 TBNR 141254 35,00 €
-Sie fuhren verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall. 155.1 BKat; § 19 OWiG
+Sie fuhren verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall.
 
 TBNR 141256 10,00 €
 Sie befuhren verbotswidrig die Sperrfläche (Zeichen 298).
 
 TBNR 141257 35,00 €
-Sie befuhren verbotswidrig die Sperrfläche (Zeichen 298). Es kam zum Unfall. 155.1 BKat; § 19 OWiG
+Sie befuhren verbotswidrig die Sperrfläche (Zeichen 298). Es kam zum Unfall.
 
 TBNR 141259 30,00 €
 Sie fuhren beim Überholen verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296).
@@ -4471,37 +4471,37 @@ TBNR 141268 30,00 €
 Sie fuhren beim Linksabbiegen verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296).
 
 TBNR 141269 35,00 €
-Sie fuhren beim Linksabbiegen verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296) und gefährdeten dadurch Andere. 155.3.1 BKat; § 19 OWiG
+Sie fuhren beim Linksabbiegen verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296) und gefährdeten dadurch Andere.
 
 TBNR 141271 30,00 €
 Sie folgten beim Linksabbiegen nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). 141259; 141268; 141269
 
 TBNR 141272 35,00 €
-Sie folgten beim Linksabbiegen nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297) und gefährdeten dadurch Andere. 155.3.1 BKat; § 19 OWiG
+Sie folgten beim Linksabbiegen nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297) und gefährdeten dadurch Andere.
 
 TBNR 141274 30,00 €
 Sie benutzten beim Linksabbiegen die Sperrfläche (Zeichen 298).
 
 TBNR 141275 35,00 €
-Sie benutzten beim Linksabbiegen die Sperrfläche (Zeichen 298) und gefährdeten dadurch Andere. 155.3.1 BKat; § 19 OWiG
+Sie benutzten beim Linksabbiegen die Sperrfläche (Zeichen 298) und gefährdeten dadurch Andere.
 
 TBNR 141277 30,00 €
 Sie fuhren beim Wenden verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296).
 
 TBNR 141278 35,00 €
-Sie fuhren beim Wenden verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296) und gefährdeten dadurch Andere. 155.3.1 BKat; § 19 OWiG
+Sie fuhren beim Wenden verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296) und gefährdeten dadurch Andere.
 
 TBNR 141280 30,00 €
 Sie folgten beim Wenden nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297).
 
 TBNR 141281 35,00 €
-Sie folgten beim Wenden nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297) und gefährdeten dadurch Andere. 155.3.1 BKat; § 19 OWiG
+Sie folgten beim Wenden nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297) und gefährdeten dadurch Andere.
 
 TBNR 141283 30,00 €
 Sie benutzten beim Wenden die Sperrfläche (Zeichen 298).
 
 TBNR 141284 35,00 €
-Sie benutzten beim Wenden die Sperrfläche (Zeichen 298) und gefährdeten dadurch Andere. 155.3.1 BKat; § 19 OWiG
+Sie benutzten beim Wenden die Sperrfläche (Zeichen 298) und gefährdeten dadurch Andere.
 
 TBNR 141500 40,00 €
 Sie fuhren beim Linksabbiegen verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall. -- BKat; § 19 OWiG
@@ -4521,105 +4521,105 @@ TBNR 142100 10,00 €
 Sie folgten der abknickenden Vorfahrtstraße (Zusatzzeichen zu Zeichen 306), ohne dies rechtzeitig und deutlich anzukündigen.
 
 TBNR 142101 20,00 €
-Sie folgten der abknickenden Vorfahrtstraße (Zusatzzeichen zu Zeichen 306), ohne dies rechtzeitig und deutlich anzukündigen. Es kam zum Unfall. 29 BKat; § 19 OWiG
+Sie folgten der abknickenden Vorfahrtstraße (Zusatzzeichen zu Zeichen 306), ohne dies rechtzeitig und deutlich anzukündigen. Es kam zum Unfall.
 
 ------ Richtzeichen - § 42 Abs. 2 iVm Anlage 3 StVO (§ 12 StVO alte Fassung)
 
 TBNR 142202 10,00 €
-Sie parkten bei Zeichen 315 auf dem Gehweg, obwohl dies durch Zusatzzeichen für Sie verboten war.
+Sie parkten bei Zeichen 315 auf dem Gehweg, obwohl dies durch
 
 TBNR 142203 15,00 €
-Sie parkten bei Zeichen 315 auf dem Gehweg, obwohl dies durch Zusatzzeichen für Sie verboten war, und behinderten dadurch Andere. 54.1 BKat; § 19 OWiG
+Sie parkten bei Zeichen 315 auf dem Gehweg, obwohl dies durch Zusatz-
 
 TBNR 142204 20,00 €
-Sie parkten bei Zeichen 315 länger als 3 Stunden auf dem Gehweg, obwohl dies durch Zusatzzeichen für Sie verboten war.
+Sie parkten bei Zeichen 315 länger als 3 Stunden auf dem Gehweg,
 
 TBNR 142205 30,00 €
-Sie parkten bei Zeichen 315 länger als 3 Stunden auf dem Gehweg, obwohl dies durch Zusatzzeichen für Sie verboten war, und behinderten dadurch Andere. 54.2.1 BKat; § 19 OWiG
+Sie parkten bei Zeichen 315 länger als 3 Stunden auf dem Gehweg, behinderten dadurch Andere.
 
 TBNR 142212 10,00 €
 Sie parkten auf einem Gehweg, der durch Zeichen 315 für Fahrzeuge bis zu 2,8 t zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat.
 
 TBNR 142213 15,00 €
-Sie parkten auf einem Gehweg, der durch Zeichen 315 für Fahrzeuge bis zu 2,8 t zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat, und behinderten dadurch Andere. 54.1 BKat; § 19 OWiG
+Sie parkten auf einem Gehweg, der durch Zeichen 315 für Fahrzeuge bis zu 2,8 t zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat, und behinderten dadurch Andere.
 
 TBNR 142214 20,00 €
 Sie parkten länger als 3 Stunden auf einem Gehweg, der durch Zeichen 315 für Fahrzeuge bis zu 2,8 t zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat.
 
 TBNR 142215 30,00 €
-Sie parkten länger als 3 Stunden auf einem Gehweg, der durch Zeichen 315 für Fahrzeuge bis zu 2,8 t zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat, und behinderten dadurch Andere. 54.2.1 BKat; § 19 OWiG
+Sie parkten länger als 3 Stunden auf einem Gehweg, der durch Zeichen 315 für Fahrzeuge bis zu 2,8 t zum Gehwegparken freigegeben war, obwohl Ihr Fahrzeug mehr als 2,8 t zulässige Gesamtmasse hat, und behinderten dadurch Andere.
 
 TBNR 142222 10,00 €
 Sie parkten auf einem Gehweg entgegen der durch Zeichen 315 vorgeschriebenen Aufstellungsart.
 
 TBNR 142223 15,00 €
-Sie parkten auf einem Gehweg entgegen der durch Zeichen 315 vorgeschriebenen Aufstellungsart und behinderten dadurch Andere. 54.1 BKat; § 19 OWiG 142202 - 142205 Zusatzzeichen angeben
+Sie parkten auf einem Gehweg entgegen der durch Zeichen 315 vorgeschriebenen Aufstellungsart und behinderten dadurch Andere. 142202 - 142205 Zusatzzeichen angeben
 
 TBNR 142224 20,00 €
 Sie parkten länger als 3 Stunden auf einem Gehweg entgegen der durch Zeichen 315 vorgeschriebenen Aufstellungsart.
 
 TBNR 142225 30,00 €
-Sie parkten länger als 3 Stunden auf einem Gehweg entgegen der durch Zeichen 315 vorgeschriebenen Aufstellungsart und behinderten dadurch Andere. 54.2.1 BKat; § 19 OWiG
+Sie parkten länger als 3 Stunden auf einem Gehweg entgegen der durch Zeichen 315 vorgeschriebenen Aufstellungsart und behinderten dadurch Andere.
 
 TBNR 142232 10,00 €
 Sie parkten auf dem Gehweg, auf dem das Parken durch Zeichen 315 zugelassen war, über die auf dem Zusatzzeichen angegebene Zeit hinaus.
 
 TBNR 142233 15,00 €
-Sie parkten auf dem Gehweg, auf dem das Parken durch Zeichen 315 zugelassen war, über die auf dem Zusatzzeichen angegebene Zeit hinaus und behinderten dadurch Andere. 54.1 BKat; § 19 OWiG
+Sie parkten auf dem Gehweg, auf dem das Parken durch Zeichen 315 zugelassen war, über die auf dem Zusatzzeichen angegebene Zeit hinaus und behinderten dadurch Andere.
 
 TBNR 142234 20,00 €
 Sie parkten länger als 3 Stunden auf dem Gehweg, auf dem das Parken durch Zeichen 315 zugelassen war, über die auf dem Zusatzzeichen angegebene Zeit hinaus.
 
 TBNR 142235 30,00 €
-Sie parkten länger als 3 Stunden auf dem Gehweg, auf dem das Parken durch Zeichen 315 zugelassen war, über die auf dem Zusatzzeichen angegebene Zeit hinaus und behinderten dadurch Andere. 54.2.1 BKat; § 19 OWiG
+Sie parkten länger als 3 Stunden auf dem Gehweg, auf dem das Parken durch Zeichen 315 zugelassen war, über die auf dem Zusatzzeichen angegebene Zeit hinaus und behinderten dadurch Andere.
 
 TBNR 142242 10,00 €
 Sie parkten außerhalb einer geschlossenen Ortschaft auf einer Vorfahrtstraße (Zeichen 306).
 
 TBNR 142243 15,00 €
-Sie parkten außerhalb einer geschlossenen Ortschaft auf einer Vorfahrtsstraße (Zeichen 306) und behinderten dadurch Andere. 54.1 BKat; § 19 OWiG
+Sie parkten außerhalb einer geschlossenen Ortschaft auf einer Vorfahrtsstraße (Zeichen 306) und behinderten dadurch Andere.
 
 TBNR 142244 20,00 €
 Sie parkten länger als 3 Stunden außerhalb einer geschlossenen Ortschaft auf einer Vorfahrtsstraße (Zeichen 306).
 
 TBNR 142245 30,00 €
-Sie parkten länger als 3 Stunden außerhalb einer geschlossenen Ortschaft auf einer Vorfahrtsstraße (Zeichen 306) und behinderten dadurch Andere. 54.2.1 BKat; § 19 OWiG
+Sie parkten länger als 3 Stunden außerhalb einer geschlossenen Ortschaft auf einer Vorfahrtsstraße (Zeichen 306) und behinderten dadurch Andere.
 
 TBNR 142252 10,00 €
 Sie parkten auf einem Sonderparkplatz für Bewohner (Zeichen 314/315) mit Zusatzzeichen für "Bewohner mit besonderem Parkausweis". Ein besonderer Parkausweis lag nicht gut lesbar aus.
 
 TBNR 142253 15,00 €
-Sie parkten auf einem Sonderparkplatz für Bewohner (Zeichen 314/315) mit Zusatzzeichen für "Bewohner mit besonderem Parkausweis" und behinderten dadurch Andere. Ein besonderer Parkausweis lag nicht gut lesbar aus. 54.1 BKat; § 19 OWiG
+Sie parkten auf einem Sonderparkplatz für Bewohner (Zeichen 314/315) mit Zusatzzeichen für "Bewohner mit besonderem Parkausweis" und behinderten dadurch Andere. Ein besonderer Parkausweis lag nicht gut lesbar aus.
 
 TBNR 142254 20,00 €
 Sie parkten länger als 3 Stunden auf einem Sonderparkplatz für Bewohner (Zeichen 314/315) mit Zusatzzeichen für "Bewohner mit besonderem Parkausweis". Ein besonderer Parkausweis lag nicht gut lesbar aus.
 
 TBNR 142255 30,00 €
-Sie parkten länger als 3 Stunden auf einem Sonderparkplatz für Bewohner (Zeichen 314/315) mit Zusatzzeichen für "Bewohner mit besonderem Parkausweis" und behinderten dadurch Andere. Ein besonderer Parkausweis lag nicht gut lesbar aus. 54.2.1 BKat; § 19 OWiG
+Sie parkten länger als 3 Stunden auf einem Sonderparkplatz für Bewohner (Zeichen 314/315) mit Zusatzzeichen für "Bewohner mit besonderem Parkausweis" und behinderten dadurch Andere. Ein besonderer Parkausweis lag nicht gut lesbar aus.
 
 TBNR 142262 10,00 €
-Sie parkten auf einem Parkplatz (Zeichen 314), obwohl dies durch Zusatzzeichen für Sie verboten war.
+Sie parkten auf einem Parkplatz (Zeichen 314), obwohl dies durch
 
 TBNR 142263 15,00 €
-Sie parkten auf einem Parkplatz (Zeichen 314), obwohl dies durch Zusatzzeichen für Sie verboten war, und behinderten dadurch Andere.
+Sie parkten auf einem Parkplatz (Zeichen 314), obwohl dies durch Andere.
 
 TBNR 142264 20,00 €
-Sie parkten länger als 3 Stunden auf einem Parkplatz (Zeichen 314), obwohl dies durch Zusatzzeichen für Sie verboten war.
+Sie parkten länger als 3 Stunden auf einem Parkplatz (Zeichen 314),
 
 TBNR 142265 30,00 €
-Sie parkten länger als 3 Stunden auf einem Parkplatz (Zeichen 314), obwohl dies durch Zusatzzeichen für Sie verboten war, und behinderten dadurch Andere. 54.2.1 BKat; § 19 OWiG
+Sie parkten länger als 3 Stunden auf einem Parkplatz (Zeichen 314), ten dadurch Andere.
 
 TBNR 142272 20,00 €
 Sie parkten verbotswidrig auf einem Schutzstreifen für den Radverkehr (Zeichen 340).
 
 TBNR 142273 30,00 €
-Sie parkten verbotswidrig auf einem Schutzstreifen für den Radverkehr (Zeichen 340) und behinderten dadurch Andere. 54a.1 BKat; § 19 OWiG 142262 - 142265 Zusatzzeichen angeben
+Sie parkten verbotswidrig auf einem Schutzstreifen für den Radverkehr (Zeichen 340) und behinderten dadurch Andere. 142262 - 142265 Zusatzzeichen angeben
 
 TBNR 142274 30,00 €
 Sie parkten verbotswidrig länger als 3 Stunden auf einem Schutzstreifen für den Radverkehr (Zeichen 340).
 
 TBNR 142275 35,00 €
-Sie parkten verbotswidrig länger als 3 Stunden auf einem Schutzstreifen für den Radverkehr (Zeichen 340) und behinderten dadurch Andere. 54a.2.1 BKat; § 19 OWiG
+Sie parkten verbotswidrig länger als 3 Stunden auf einem Schutzstreifen für den Radverkehr (Zeichen 340) und behinderten dadurch Andere.
 
 TBNR 142278 35,00 €
 Sie parkten auf einem Sonderparkplatz für Schwerbehinderte mit außergewöhnlicher Gehbehinderung, beidseitiger Amelie oder Phokomelie, mit vergleichbaren Funktionseinschränkungen sowie für blinde Menschen (Zeichen 314/315 und Zusatzzeichen mit Rollstuhlfahrersinnbild). Ein besonderer Parkausweis lag nicht gut lesbar aus.
@@ -4630,13 +4630,13 @@ TBNR 142103 10,00 €
 Sie parkten in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) verbotswidrig außerhalb der zum Parken gekennzeichneten Flächen.
 
 TBNR 142104 15,00 €
-Sie parkten in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) verbotswidrig außerhalb der zum Parken gekennzeichneten Flächen und behinderten dadurch Andere. 159.1 BKat; § 19 OWiG
+Sie parkten in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) verbotswidrig außerhalb der zum Parken gekennzeichneten Flächen und behinderten dadurch Andere.
 
 TBNR 142106 20,00 €
 Sie parkten in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) verbotswidrig außerhalb der zum Parken gekennzeichneten Flächen länger als 3 Stunden.
 
 TBNR 142107 30,00 €
-Sie parkten in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) verbotswidrig außerhalb der zum Parken gekennzeichneten Flächen länger als 3 Stunden und behinderten dadurch Andere. 159.2.1 BKat; § 19 OWiG
+Sie parkten in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) verbotswidrig außerhalb der zum Parken gekennzeichneten Flächen länger als 3 Stunden und behinderten dadurch Andere.
 
 ------ Richtzeichen - § 42 Abs. 2 iVm Anlage 3 StVO
 
@@ -4653,7 +4653,7 @@ TBNR 142600 60,00 € P:B-1
 Sie gefährdeten als Fahrzeugführer in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) einen Fußgänger.
 
 TBNR 142601 75,00 € P:B-1
-Sie gefährdeten als Fahrzeugführer in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) einen Fußgänger. Es kam zum Unfall. 157.3 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie gefährdeten als Fahrzeugführer in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) einen Fußgänger. Es kam zum Unfall.
 
 TBNR 142118 20,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4668,19 +4668,19 @@ TBNR 142607 95,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142608 140,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.1.6 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142609 200,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.1.7 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142610 280,00 € P:A-2 FV:2 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.1.8 BKat; § 4 Abs. 1 BKatV 142118 - 142610 Zulässige Geschwindigkeit angeben **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 142118 - 142610 Zulässige Geschwindigkeit angeben **) Festgestellte Geschwindigkeit angeben
 
 TBNR 142611 480,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.1.9 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142612 680,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.1.10 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142124 35,00 €
 Sie überschritten die zulässige Schrittgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10 km/h) in einem verkehrsberuhigten Bereich (Zeichen 325). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h
@@ -4692,22 +4692,22 @@ TBNR 142618 160,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 16 - 20) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142619 200,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.2.5 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 21 - 25) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142620 280,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.2.6 BKat; § 4 Abs. 1 BKatV 142611 - 142620 Zulässige Geschwindigkeit angeben **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 142611 - 142620 Zulässige Geschwindigkeit angeben **) Festgestellte Geschwindigkeit angeben
 
 TBNR 142621 360,00 € P:A-2 FV:2 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.2.7 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142622 480,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.2.8 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142623 600,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.2.9 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142624 760,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.2.10 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142130 15,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -4725,37 +4725,37 @@ TBNR 142631 100,00 € P:A-1
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 26 - 30) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142632 160,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.3.6 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 31 - 40) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142633 200,00 € P:A-2 FV:1 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.3.7 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 41 - 50) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142634 280,00 € P:A-2 FV:2 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.3.8 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 51 - 60) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142635 480,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.3.9 BKat; § 4 Abs. 1 BKatV
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (von 61 - 70) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
 
 TBNR 142636 680,00 € P:A-2 FV:3 M
-Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 70) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 11.3.10 BKat; § 4 Abs. 1 BKatV 142630 - 142636 Zulässige Geschwindigkeit angeben **) Festgestellte Geschwindigkeit angeben
+Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (über 70) km/h in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2). Zulässige Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h. 142630 - 142636 Zulässige Geschwindigkeit angeben **) Festgestellte Geschwindigkeit angeben
 
 TBNR 142148 10,00 €
 Sie benutzten in einem Tunnel (Zeichen 327) nicht das Abblendlicht.
 
 TBNR 142149 15,00 €
-Sie benutzten in einem Tunnel (Zeichen 327) nicht das Abblendlicht und gefährdeten dadurch Andere. 159a.1 BKat; § 19 OWiG
+Sie benutzten in einem Tunnel (Zeichen 327) nicht das Abblendlicht und gefährdeten dadurch Andere.
 
 TBNR 142150 35,00 €
-Sie benutzten in einem Tunnel (Zeichen 327) nicht das Abblendlicht. Es kam zum Unfall. 159a.2 BKat; § 19 OWiG
+Sie benutzten in einem Tunnel (Zeichen 327) nicht das Abblendlicht. Es kam zum Unfall.
 
 TBNR 142654 60,00 € P:B-1
 Sie missachteten das in einem Tunnel (Zeichen 327) bestehende Wendeverbot.
 
 TBNR 142655 75,00 € P:B-1
-Sie missachteten das in einem Tunnel (Zeichen 327) bestehende Wendeverbot und gefährdeten dadurch Andere. 159b BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie missachteten das in einem Tunnel (Zeichen 327) bestehende Wendeverbot und gefährdeten dadurch Andere.
 
 TBNR 142656 90,00 € P:B-1
-Sie missachteten das in einem Tunnel (Zeichen 327) bestehende Wendeverbot. Es kam zum Unfall. 159b BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie missachteten das in einem Tunnel (Zeichen 327) bestehende Wendeverbot. Es kam zum Unfall.
 
 TBNR 142154 20,00 €
 Sie hielten unberechtigt in einer Nothalte- und Pannenbucht (Zeichen 328).
@@ -4780,7 +4780,7 @@ TBNR 145612 75,00 €
 Sie befolgten als Verantwortlicher nicht die Anordnung der zuständigen Behörde hinsichtlich der Beschilderung/Regelung des Verkehrs.
 
 TBNR 145618 75,00 €
-Sie unterließen es als Verantwortlicher, die Lichtzeichenanlage bedienen zu lassen. 145600 - 145612 Verbot bzw. Beschränkung angeben 145600 Art der Bekanntgabe angeben
+Sie unterließen es als Verantwortlicher, die Lichtzeichenanlage bedienen zu lassen. 145600 Art der Bekanntgabe angeben
 
 ------ Ausnahmegenehmigung und Erlaubnis - § 46 Abs. 3 StVO
 
@@ -5197,82 +5197,82 @@ TBNR 331600 180,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu.
 
 TBNR 331601 220,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.1.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331602 265,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu. Es kam zum Unfall. 189.1.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331606 270,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu.
 
 TBNR 331607 330,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.1.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331608 397,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu. Es kam zum Unfall. 189.1.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331612 90,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu.
 
 TBNR 331613 110,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.1.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331614 135,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu. Es kam zum Unfall. 189.1.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl der Führer zur selbstständigen Leitung nicht geeignet war, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331609 270,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu.
 
 TBNR 331610 325,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.2.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331611 390,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu. Es kam zum Unfall. 189.2.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331615 405,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Lastkraftwagens mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu.
 
 TBNR 331616 487,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Lkw mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.2.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Lkw mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331617 585,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Lkw mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu. Es kam zum Unfall. 189.2.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG **) Mängel angeben
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Lkw mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu. Es kam zum Unfall. **) Mängel angeben
 
 TBNR 331621 135,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu.
 
 TBNR 331622 165,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.2.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331623 200,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu. Es kam zum Unfall. 189.2.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG 331621 - 331623 Mängel angeben
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu. Es kam zum Unfall. 331621 - 331623 Mängel angeben
 
 TBNR 331618 270,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331619 325,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.3.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331620 390,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.3.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331624 405,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331625 487,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.3.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331626 585,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.3.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331630 135,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331631 165,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.3.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331632 200,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.3.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331660 75,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/einer Fahrzeugkombination an, obwohl die zugelassene Breite um ..,.. m überschritten war, bzw. ließen sie zu. § 31 Abs. 2, § 32 Abs. 1, 2, 3, 4, § 31d Abs. 1, § 69a StVZO;
@@ -5290,64 +5290,64 @@ TBNR 331684 75,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Kraftomnibusses an, obwohl mehr Personen befördert wurden, als in der Zulassungsbescheinigung Teil I Plätze auswiesen waren, bzw. ließen sie zu.
 
 TBNR 331690 75,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/Anhängers an, obwohl dessen Reifen keine vorschriftsmäßigen Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besaß, bzw. ließen sie zu. 213 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/Anhängers an, obwohl dessen Reifen keine vorschriftsmäßigen Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besaß, bzw. ließen sie zu.
 
 TBNR 331696 112,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen an, obwohl dessen Reifen keine vorschriftsmäßigen Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besaß, bzw. ließen sie zu. 213 BKat; § 3 Abs. 4 BKatV 331690 - 331696 331660 - 331672 Tatsächliche Überschreitung angeben
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen an, obwohl dessen Reifen keine vorschriftsmäßigen Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besaß, bzw. ließen sie zu. 331690 - 331696 331660 - 331672 Tatsächliche Überschreitung angeben
 
 TBNR 331702 270,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331703 325,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.2.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331704 390,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.2.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331708 405,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331709 487,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.2.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331710 585,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.2.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331714 135,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331715 165,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.2.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331716 200,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.2.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Lenkeinrichtungen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331720 270,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331721 325,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.2.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331722 390,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.2.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/Kraftomnibusses bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331726 405,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/Kraftomnibusses mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331727 487,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.2.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331728 585,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.2.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331732 135,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331733 165,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. 189.2.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331734 200,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 189.2.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Bremsen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331738 270,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Lastkraftwagens/KOM bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
@@ -5377,439 +5377,439 @@ TBNR 331747 200,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331754 150,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses/eines Lkw/einer Zugmaschine/einer Sattelzugmaschine mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl das Fahrzeug nicht mit dem vorgeschriebenen Geschwindigkeitsbegrenzer ausgerüstet war, bzw. ließen sie zu. 224 BKat
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses/eines Lkw/einer Zugmaschine/einer Sattelzugmaschine mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl das Fahrzeug nicht mit dem vorgeschriebenen Geschwindigkeitsbegrenzer ausgerüstet war, bzw. ließen sie zu.
 
 TBNR 331755 225,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen/kennzeichnungspflichtigen Lkw mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl das Fahrzeug nicht mit dem vorgeschriebenen Geschwindigkeitsbegrenzer ausgerüstet war, bzw. ließen sie zu. 224 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen/kennzeichnungspflichtigen Lkw mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl das Fahrzeug nicht mit dem vorgeschriebenen Geschwindigkeitsbegrenzer ausgerüstet war, bzw. ließen sie zu.
 
 TBNR 331756 225,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Zugmaschine/Sattelzugmaschine mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl das Fahrzeug nicht mit dem vorgeschriebenen Geschwindigkeitsbegrenzer ausgerüstet war, bzw. ließen sie zu. 224 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Zugmaschine/Sattelzugmaschine mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl das Fahrzeug nicht mit dem vorgeschriebenen Geschwindigkeitsbegrenzer ausgerüstet war, bzw. ließen sie zu.
 
 TBNR 331760 150,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses/eines Lkw/einer Zugmaschine/einer Sattelzugmaschine mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer auf eine unzulässige Geschwindigkeit eingestellt war, bzw. ließen sie zu. 224 BKat
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses/eines Lkw/einer Zugmaschine/einer Sattelzugmaschine mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer auf eine unzulässige Geschwindigkeit eingestellt war, bzw. ließen sie zu.
 
 TBNR 331761 225,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen/kennzeichnungspflichtigen Lkw mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer auf eine unzulässige Geschwindigkeit eingestellt war, bzw. ließen sie zu. 224 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen/kennzeichnungspflichtigen Lkw mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer auf eine unzulässige Geschwindigkeit eingestellt war, bzw. ließen sie zu.
 
 TBNR 331762 225,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Zugmaschine/Sattelzugmaschine mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer auf eine unzulässige Geschwindigkeit eingestellt war, bzw. ließen sie zu. 224 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Zugmaschine/Sattelzugmaschine mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer auf eine unzulässige Geschwindigkeit eingestellt war, bzw. ließen sie zu.
 
 TBNR 331766 150,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses/eines Lkw/einer Zugmaschine/einer Sattelzugmaschine mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer ausgeschaltet war, bzw. ließen sie zu. 224 BKat
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses/eines Lkw/einer Zugmaschine/einer Sattelzugmaschine mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer ausgeschaltet war, bzw. ließen sie zu.
 
 TBNR 331767 225,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen/kennzeichnungspflichtigen Lkw mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer ausgeschaltet war, bzw. ließen sie zu. 224 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen/kennzeichnungspflichtigen Lkw mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer ausgeschaltet war, bzw. ließen sie zu.
 
 TBNR 331768 225,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Zugmaschine/Sattelzugmaschine mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer ausgeschaltet war, bzw. ließen sie zu. 224 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Zugmaschine/Sattelzugmaschine mit gefährlichen Gütern mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl der Geschwindigkeitsbegrenzer ausgeschaltet war, bzw. ließen sie zu.
 
 TBNR 331130 35,00 €
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.1 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331784 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.2 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331785 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.3 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331786 285,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.4 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331787 380,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.5 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331788 425,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.6 BKat 331130 - 331788 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 331130 - 331788 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
 
 TBNR 331790 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs mit gefährlichen Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.2 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs mit gefährlichen Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331791 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs mit gefährlichen Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.3 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs mit gefährlichen Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331792 427,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs mit gefährlichen Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs mit gefährlichen Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331793 570,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs mit gefährlichen Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs mit gefährlichen Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331794 637,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs mit gefährlichen Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs mit gefährlichen Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331796 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.2 BKat; § 3 Abs. 4 BKatV 331790 - 331796 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 331790 - 331796 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
 
 TBNR 331797 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.3 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331798 427,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.4 BKat; § 3 Abs.4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331799 570,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331800 637,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331148 35,00 €
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.1 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331802 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.2 BKat 331797 - 331800 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben 331148 - 331802 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331797 - 331800 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben 331148 - 331802 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331803 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.3 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331804 285,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.4 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331805 380,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.5 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331806 425,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.6 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331808 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.2 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331809 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.3 BKat; § 3 Abs. 4 BKatV 331803 - 331809 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331803 - 331809 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331810 427,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331811 570,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331812 637,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gefährlichen Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331814 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.2 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331815 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.3 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331816 427,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.4 BKat; § 3 Abs. 4 BKatV 331810 - 331816 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331810 - 331816 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331817 570,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331818 637,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331166 35,00 €
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.1 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331820 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.2 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331821 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.3 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331822 285,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.4 BKat 331817 - 331818 Festgestellte Achslast angeben **) Zulässiges Achslast angeben 331166 - 331822 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 331817 - 331818 Festgestellte Achslast angeben **) Zulässiges Achslast angeben 331166 - 331822 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
 
 TBNR 331823 380,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.5 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331824 425,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.6 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331826 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.2 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331827 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.3 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331828 427,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331829 570,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.5 BKat; § 3 Abs. 4 BKatV 331823 - 331829 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 331823 - 331829 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
 
 TBNR 331830 637,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331178 35,00 €
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.1 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331832 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.2 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331833 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.3 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331834 285,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.4 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331835 380,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.5 BKat 331830 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben 331178 - 331835 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331830 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben 331178 - 331835 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331836 425,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.6 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331838 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.2 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331839 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.3 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331840 427,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331841 570,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331842 637,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.6 BKat; § 3 Abs. 4 BKatV 331836 - 331842 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331836 - 331842 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331190 10,00 €
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.1 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331191 30,00 €
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.2 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331192 35,00 €
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.3 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331844 95,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.4 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331845 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.5 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331846 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.6 BKat 331190 - 331846 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 331190 - 331846 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
 
 TBNR 331848 142,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331849 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331850 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331852 142,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331853 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331854 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.6 BKat; § 3 Abs. 4 BKatV 331848 - 331854 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 331848 - 331854 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
 
 TBNR 331208 10,00 €
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.1 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331209 30,00 €
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.2 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331210 35,00 €
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.3 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331856 95,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.4 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331857 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.5 BKat
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331858 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.6 BKat 331208 - 331858 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs an, obwohl die zulässige Achslast um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331208 - 331858 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331860 142,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331861 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331862 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern an, obwohl die zulässige Achslast um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331864 142,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331865 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331866 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 30) Prozent Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.6 BKat; § 3 Abs. 4 BKatV 331860 - 331866 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme eines Kraftomnibusses mit Fahrgästen an, obwohl die zulässige Achslast um ...,.. (mehr als 30) Prozent Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331860 - 331866 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331226 10,00 €
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.1 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331227 30,00 €
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.2 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331228 35,00 €
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.3 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331868 95,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.4 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331869 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.5 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331870 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.6 BKat 331226 - 331870 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl das zulässige Gesamtgewicht des Anhängers um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 331226 - 331870 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
 
 TBNR 331874 142,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331875 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331876 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl das zul. Gesamtgewicht des Anhängers um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331238 10,00 €
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.1 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331239 30,00 €
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.2 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331240 35,00 €
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.3 BKat 331874 - 331876 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben 331238 - 331240 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331874 - 331876 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben 331238 - 331240 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331880 95,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.4 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331881 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.5 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331882 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.6 BKat
+Sie ordneten die Inbetriebnahme eines Zuges an, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331886 142,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331887 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331888 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.6 BKat; § 3 Abs. 4 BKatV 331880 - 331888 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Zuges mit gef. Gütern an, obwohl die zul. Achslast des Anhängers um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331880 - 331888 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331248 35,00 €
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.1 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331892 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.2 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331893 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.3 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331894 285,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.4 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331895 380,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.5 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331896 425,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.6 BKat 331248 - 331896 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 331248 - 331896 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
 
 TBNR 331898 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.2 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331899 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.3 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331900 427,50 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331901 570,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331902 637,50 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.1.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331260 35,00 €
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.1 BKat 331898 - 331902 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben 331260 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (2 - 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331898 - 331902 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben 331260 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331904 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.2 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331905 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.3 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331906 285,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.4 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331907 380,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.5 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331908 425,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.6 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331910 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.2 BKat; § 3 Abs. 4 BKatV 331904 - 331910 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331904 - 331910 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331911 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.3 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331912 427,50 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331913 570,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331914 637,50 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.1.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331272 10,00 €
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.1 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331273 30,00 €
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.2 BKat 331911 - 331914 Festgestellte Achslast angeben **) Zulässige Achslast angeben 331272 - 331273 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 331911 - 331914 Festgestellte Achslast angeben **) Zulässige Achslast angeben 331272 - 331273 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
 
 TBNR 331274 35,00 €
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.3 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331916 95,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.4 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331917 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.5 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331918 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.6 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331922 142,50 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331923 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.5 BKat; § 3 Abs. 4 BKatV 331274 - 331923 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 331274 - 331923 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben
 
 TBNR 331924 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg. 199.2.6 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl das zul. Gesamtgewicht um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 331284 10,00 €
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.1 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331285 30,00 €
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.2 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 10) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331286 35,00 €
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.3 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331928 95,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.4 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331929 140,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.5 BKat 331924 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben 331284 - 331286 Festgestellte Achslast angeben 331928 - 331929 Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331924 Festgestelltes Gesamtgewicht angeben **) Zulässiges Gesamtgewicht angeben 331284 - 331286 Festgestellte Achslast angeben 331928 - 331929 Zulässige Achslast angeben
 
 TBNR 331930 235,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.6 BKat
+Sie ordneten die Inbetriebnahme einer Fahrzeugkombination an, obwohl die zulässige Achslast um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331934 142,50 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.4 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331935 210,00 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.5 BKat; § 3 Abs. 4 BKatV
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 331936 352,50 € P:B-1
-Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 199.2.6 BKat; § 3 Abs. 4 BKatV 331930 - 331936 Festgestellte Achslast angeben **) Zulässige Achslast angeben
+Sie ordneten die Inbetriebnahme einer kennzeichnungspflichtigen Fahrzeugkombination m. gef. Gütern an, obwohl die zul. Achslast um ...,.. (mehr als 30) Prozent = ...... kg überschritten war, bzw. ließen sie zu. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg. 331930 - 331936 Festgestellte Achslast angeben **) Zulässige Achslast angeben
 
 TBNR 331638 75,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Kraftfahrzeuges bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte ohne die vorgeschriebenen Reifen für winterliche Wetterverhältnisse an, bzw. ließen sie zu.
@@ -5934,7 +5934,7 @@ Sie kamen der Weisung einer zuständigen Person nicht nach, eine der festgestell
 ------ Abmessungen von Fahrzeug(en) u. -kombinationen - § 32 StVZO
 
 TBNR 332600 60,00 € P:B-1
-Sie nahmen das Kraftfahrzeug/den Anhänger/die Fahrzeugkombination in Betrieb, obwohl die zulässigen Abmessungen überschritten waren. 192 BKat **) Zulässige und tatsächliche Abmessungen angeben
+Sie nahmen das Kraftfahrzeug/den Anhänger/die Fahrzeugkombination in Betrieb, obwohl die zulässigen Abmessungen überschritten waren. **) Zulässige und tatsächliche Abmessungen angeben
 
 ------ Unterfahrschutz - § 32b StVZO
 
@@ -7136,55 +7136,55 @@ TBNR 343600 180,00 € P:B-1
 Sie führten den Lastkraftwagen/Kraftomnibus bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde.
 
 TBNR 343601 220,00 € P:B-1
-Sie führten den Lastkraftwagen/Kraftomnibus bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere. 214.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie führten den Lastkraftwagen/Kraftomnibus bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere.
 
 TBNR 343602 265,00 € P:B-1
-Sie führten den Lastkraftwagen/Kraftomnibus bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall. 214.1 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie führten den Lastkraftwagen/Kraftomnibus bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall.
 
 TBNR 343603 270,00 € P:B-1
 Sie führten als Halter den Lastkraftwagen/Kraftomnibus bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde.
 
 TBNR 343604 325,00 € P:B-1
-Sie führten als Halter den Lastkraftwagen/Kraftomnibus bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere. 214.1 BKat; § 3 Abs. 2, 3 BKatV; § 19 OWiG
+Sie führten als Halter den Lastkraftwagen/Kraftomnibus bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere.
 
 TBNR 343605 390,00 € P:B-1
-Sie führten als Halter den Lastkraftwagen/Kraftomnibus bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall. 214.1 BKat; § 3 Abs. 2, 3 BKatV; § 19 OWiG
+Sie führten als Halter den Lastkraftwagen/Kraftomnibus bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall.
 
 TBNR 343606 270,00 € P:B-1
 Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde.
 
 TBNR 343607 330,00 € P:B-1
-Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere. 214.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere.
 
 TBNR 343608 397,50 € P:B-1
-Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall. 214.1 BKat; § 3 Abs. 3, 4 BKatV; § 19 OWiG
+Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall.
 
 TBNR 343609 405,00 € P:B-1
 Sie führten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde.
 
 TBNR 343610 487,50 € P:B-1
-Sie führten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere. 214.1 BKat; § 3 Abs. 2, 3, 4 BKatV; § 19 OWiG
+Sie führten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere.
 
 TBNR 343611 585,00 € P:B-1
-Sie führten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall. 214.1 BKat; § 3 Abs. 2, 3, 4 BKatV; § 19 OWiG
+Sie führten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall.
 
 TBNR 343618 90,00 € P:B-1
 Sie führten das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde.
 
 TBNR 343619 110,00 € P:B-1
-Sie führten das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere. 214.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie führten das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere.
 
 TBNR 343620 135,00 € P:B-1
-Sie führten das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall. 214.2 BKat; § 3 Abs. 3 BKatV; § 19 OWiG
+Sie führten das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall.
 
 TBNR 343621 135,00 € P:B-1
 Sie führten als Halter das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde.
 
 TBNR 343622 165,00 € P:B-1
-Sie führten als Halter das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere. 214.2 BKat; § 3 Abs. 2, 3 BKatV; § 19 OWiG
+Sie führten als Halter das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde und gefährdeten dadurch Andere.
 
 TBNR 343623 200,00 € P:B-1
-Sie führten als Halter das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall. 214.2 BKat; § 3 Abs. 2, 3 BKatV; § 19 OWiG
+Sie führten als Halter das Fahrzeug bzw. dessen Anhänger, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde. Es kam zum Unfall.
 
 TBNR 343100 5,00 €
 Sie unterließen es, beim Abschleppen eines Fahrzeugs die Abschleppstange oder das Abschleppseil ausreichend kenntlich zu machen.
@@ -7228,7 +7228,7 @@ Sie weigerten sich, die Geräuschentwicklung prüfen zu lassen.
 ------ Lichttechnische Einrichtungen - § 49a StVZO
 
 TBNR 349130 5,00 €
-Sie führten das Kraftfahrzeug/den Anhänger und verstießen dabei gegen eine allgemeine Vorschrift über lichttechnische Einrichtungen. 221.1 BKat
+Sie führten das Kraftfahrzeug/den Anhänger und verstießen dabei gegen eine allgemeine Vorschrift über lichttechnische Einrichtungen.
 
 TBNR 349136 20,00 €
 Sie führten das Kraftfahrzeug/den Anhänger und verstießen dabei gegen das Verbot zum Anbringen anderer als vorgeschriebener oder für zulässig erklärter lichttechnischer Einrichtungen. **) Nicht betriebsbereite oder unzulässige lichttechnische Einrichtung angeben
