@@ -528,7 +528,7 @@ TBNR 103708 80,00 € P:A-1
 Sie gefährdeten als Fahrzeugführer ein Kind/einen Hilfsbedürftigen/einen älteren Menschen, insbesondere durch nicht ausreichend verminderte Geschwindigkeit/mangelnde Bremsbereitschaft/unzureichenden Seitenabstand beim Vorbeifahren/unzureichenden Seitenabstand beim Überholen.
 
 TBNR 103709 100,00 € P:A-1
-Sie schädigten als Fahrzeugführer ein Kind/einen Hilfsbedürftigen/einen älteren Menschen, insbesondere durch nicht ausreichend verminderte Geschwindigkeit/mangelnde Bremsbereitschaft/unzureichenden Seitenabstand beim Vorbeifahren/unzureichenden Seitenabstand beim Überholen. **) Ursache angeben
+Sie schädigten als Fahrzeugführer ein Kind/einen Hilfsbedürftigen/einen älteren Menschen, insbesondere durch nicht ausreichend verminderte Geschwindigkeit/mangelnde Bremsbereitschaft/unzureichenden Seitenabstand beim Vorbeifahren/unzureichenden Seitenabstand beim Überholen. Ursache angeben
 
 ------ Geschwindigkeit - § 3 Abs. 3 StVO
 
@@ -906,7 +906,7 @@ TBNR 104601 100,00 € P:A-1
 Sie hielten bei einer Geschwindigkeit von... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 4/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt.
 
 TBNR 104602 160,00 € P:A-1
-Sie hielten bei einer Geschwindigkeit von... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 3/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. **) Abstand angeben
+Sie hielten bei einer Geschwindigkeit von... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 3/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. Abstand angeben
 
 TBNR 104603 240,00 € P:A-1
 Sie hielten bei einer Geschwindigkeit von... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 2/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt.
@@ -927,7 +927,7 @@ TBNR 104609 240,00 € P:A-2 FV:2 M
 Sie hielten bei einer Geschwindigkeit von... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 2/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt.
 
 TBNR 104610 320,00 € P:A-2 FV:3 M
-Sie hielten bei einer Geschwindigkeit von... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 1/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. **) Abstand angeben
+Sie hielten bei einer Geschwindigkeit von... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 1/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. Abstand angeben
 
 TBNR 104612 100,00 € P:A-1
 Sie hielten bei einer Geschwindigkeit von... km/h (über 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 5/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt.
@@ -948,7 +948,7 @@ TBNR 104618 112,50 € P:A-1
 Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 5/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt.
 
 TBNR 104619 150,00 € P:A-1
-Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 4/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. **) Abstand angeben
+Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 4/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. Abstand angeben
 
 TBNR 104620 240,00 € P:A-1
 Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (81 - 100 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 3/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt.
@@ -969,7 +969,7 @@ TBNR 104626 240,00 € P:A-2 FV:1 M
 Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 3/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt.
 
 TBNR 104627 360,00 € P:A-2 FV:2 M
-Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 2/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. **) Abstand angeben
+Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 2/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. Abstand angeben
 
 TBNR 104628 480,00 € P:A-2 FV:3 M
 Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (101 - 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 1/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt.
@@ -987,7 +987,7 @@ TBNR 104633 480,00 € P:A-2 FV:2 M
 Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (über 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 2/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt.
 
 TBNR 104634 600,00 € P:A-2 FV:3 M
-Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (über 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 1/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. **) Abstand angeben
+Sie hielten mit einem kennzpfl. Kfz. m. gef. Gütern/KOM m. Fahrg. bei einer Geschwindigkeit von... km/h (über 130 km/h) den erforderlichen Abstand von ...,.. m zum vorausfahrenden Fahrzeug nicht ein. Ihr Abstand betrug...,.. m und damit weniger als 1/10 des halben Tachowertes. Toleranzen sind zu Ihren Gunsten berücksichtigt. Abstand angeben
 
 ------ Abstand - § 4 Abs. 1, 2, 3 StVO
 
@@ -3297,7 +3297,7 @@ TBNR 129600 40,00 €
 Sie führten als Verantwortlicher eine erlaubnispflichtige Veranstaltung ohne Erlaubnis durch.
 
 TBNR 129606 60,00 € P:A-1
-Sie führten das Fahrzeug, dessen Abmessungen/Achslasten/Gesamtmasse*) die gesetzlich allgemein zugelassenen Grenzen tatsächlich überschritten, ohne dass eine Erlaubnis vorlag.
+Sie führten das Fahrzeug, dessen Abmessungen/Achslasten/Gesamtmasse die gesetzlich allgemein zugelassenen Grenzen tatsächlich überschritten, ohne dass eine Erlaubnis vorlag.
 
 TBNR 129612 60,00 € P:A-1
 Sie führten ohne entsprechende Erlaubnis das Fahrzeug, dessen Bauart Ihnen kein ausreichendes Sichtfeld ließ.
@@ -3874,22 +3874,22 @@ TBNR 141109 35,00 €
 Sie parkten länger als 3 Stunden in einem Fußgängerbereich, der durch Zeichen 239/242.1, 242.2/250 gesperrt war.
 
 TBNR 141003 10,00 €
-Sie hielten auf einem Geh- und Radweg (Zeichen 240/ 241*)).
+Sie hielten auf einem Geh- und Radweg (Zeichen 240/ 241).
 
 TBNR 141004 15,00 €
-Sie hielten auf einem Geh- und Radweg (Zeichen 240/ 241*)). und behinderten dadurch Andere.
+Sie hielten auf einem Geh- und Radweg (Zeichen 240/ 241). und behinderten dadurch Andere.
 
 TBNR 141112 20,00 €
-Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)).
+Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241).
 
 TBNR 141113 30,00 €
-Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241*)) und behinderten dadurch Andere.
+Sie parkten auf einem Geh- und Radweg (Zeichen 240/ 241) und behinderten dadurch Andere.
 
 TBNR 141115 30,00 €
-Sie parkten länger als 1 Stunde auf einem Geh- und Radweg (Zeichen 240/ 241*)).
+Sie parkten länger als 1 Stunde auf einem Geh- und Radweg (Zeichen 240/ 241).
 
 TBNR 141116 35,00 €
-Sie parkten länger als 1 Stunde auf einem Geh- und Radweg (Zeichen 240/ 241*)) und behinderten dadurch Andere.
+Sie parkten länger als 1 Stunde auf einem Geh- und Radweg (Zeichen 240/ 241) und behinderten dadurch Andere.
 
 TBNR 141118 15,00 €
 Sie parkten im eingeschränkten Haltverbot für eine Zone (Zeichen 290.1, 290.2).
@@ -4164,16 +4164,16 @@ TBNR 141629 105,00 € P:A-1
 Sie missachteten das Überholverbot, das durch Zeichen 276/277 angeordnet war. Es kam zum Unfall.
 
 TBNR 141446 20,00 €
-Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war.
+Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war.
 
 TBNR 141447 25,00 €
-Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war, und behinderten dadurch Andere.
+Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war, und behinderten dadurch Andere.
 
 TBNR 141448 30,00 €
-Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war, und gefährdeten dadurch Andere.
+Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war, und gefährdeten dadurch Andere.
 
 TBNR 141449 35,00 €
-Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241*)), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war. Es kam zum Unfall.
+Sie benutzten nicht den vorhandenen Radweg (Zeichen 237/240/241), obwohl dieser für Ihre Fahrtrichtung gekennzeichnet war. Es kam zum Unfall.
 
 TBNR 141212 20,00 €
 Sie überschritten die zulässige Höchstgeschwindigkeit innerhalb geschlossener Ortschaften um ... (bis 10) km/h in einem Fußgängerbereich (Zeichen 239 oder 242.1 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt). Zul. Geschwindigkeit:... km/h. Festgestellte Geschwindigkeit (nach Toleranzabzug):... km/h.
@@ -5014,7 +5014,7 @@ TBNR 329607 75,00 € P:B-1
 Sie unterließen es, das Fahrzeug, das nach Nr. 2.1 der Anlage VIII in bestimmten Zeitabständen einer Sicherheitsprüfung zu unterziehen ist, zur fälligen Hauptuntersuchung vorzuführen. Der Termin war um mehr als 8 Monate überschritten.
 
 TBNR 329608 75,00 € P:B-1
-Sie unterließen es, das Fahrzeug zur fälligen Sicherheitsprüfung vorzuführen. Der Termin war um mehr als 8 Monate überschritten. andere Kfz mit mehr als 8 Fahrgastplätzen, Kfz, die zur Güterbefördrg. bestimmt sind, selbstfahrende Arbeitsmaschinen, Zugmaschinen und Kfz mit einer zul. Gesamtmasse von mehr als 7,5 t sowie Anhänger mit einer zul. Gesamtmasse von mehr als 10 t) **) vorgeschriebenen Vorführungstermin angeben
+Sie unterließen es, das Fahrzeug zur fälligen Sicherheitsprüfung vorzuführen. Der Termin war um mehr als 8 Monate überschritten. andere Kfz mit mehr als 8 Fahrgastplätzen, Kfz, die zur Güterbefördrg. bestimmt sind, selbstfahrende Arbeitsmaschinen, Zugmaschinen und Kfz mit einer zul. Gesamtmasse von mehr als 7,5 t sowie Anhänger mit einer zul. Gesamtmasse von mehr als 10 t) vorgeschriebenen Vorführungstermin angeben
 
 TBNR 329113 15,00 €
 Sie unterließen es, das Fahrzeug, für das nach Nr. 2.1 der Anlage VIII keine Sicherheitsprüfung vorgeschrieben ist, zur fälligen Hauptuntersuchung vorzuführen. Der Termin war um mehr als 2 bis zu 4 Monate überschritten.
@@ -5038,7 +5038,7 @@ TBNR 329018 5,00 €
 Sie sorgten nicht dafür, dass sich die an dem Fahrzeug angebrachte Prüfplakette/Prüfmarke in einem ordnungsgemäßen Zustand befand, insbesondere nicht verdeckt oder verschmutzt war.
 
 TBNR 329024 15,00 €
-Sie ließen an dem Fahrzeug die amtlichen Kennzeichen nicht entstempeln und lieferten den Fahrzeugschein/Nachweis über die Betriebserlaubnis nicht ab, obwohl der Betrieb infolge fehlender Prüfplakette/Prüfmarke durch die Zulassungsbehörde untersagt war. **) vorgeschriebenen Vorführtermin angeben
+Sie ließen an dem Fahrzeug die amtlichen Kennzeichen nicht entstempeln und lieferten den Fahrzeugschein/Nachweis über die Betriebserlaubnis nicht ab, obwohl der Betrieb infolge fehlender Prüfplakette/Prüfmarke durch die Zulassungsbehörde untersagt war. vorgeschriebenen Vorführtermin angeben
 
 TBNR 329612 60,00 € P:B-1
 Sie missachteten das Betriebsverbot/die Beschränkung für den Betrieb des Fahrzeuges wegen Fehlens einer gültigen Prüfplakette/Prüfmarke.
@@ -5106,19 +5106,19 @@ TBNR 330624 270,00 € P:B-1
 Sie nahmen den kennzeichnungspflichtigen Lastkraftwagen mit gefährlichen Gütern/Kraftomnibus mit Fahrgästen bzw. dessen Anhänger in einem nicht vorschriftsmäßigen Zustand in Betrieb. Die Verkehrssicherheit war dadurch wesentlich beeinträchtigt.
 
 TBNR 330625 330,00 € P:B-1
-Sie nahmen den kennzeichnungspflichtigen Lastkraftwagen mit gefährlichen Gütern/Kraftomnibus mit Fahrgästen*) bzw. dessen Anhänger in einem nicht vorschriftsmäßigen Zustand in Betrieb. Die Verkehrssicherheit war dadurch wesentlich beeinträchtigt. Sie gefährdeten Andere.
+Sie nahmen den kennzeichnungspflichtigen Lastkraftwagen mit gefährlichen Gütern/Kraftomnibus mit Fahrgästen bzw. dessen Anhänger in einem nicht vorschriftsmäßigen Zustand in Betrieb. Die Verkehrssicherheit war dadurch wesentlich beeinträchtigt. Sie gefährdeten Andere.
 
 TBNR 330626 397,50 € P:B-1
 Sie nahmen den kennzeichnungspflichtigen Lastkraftwagen mit gefährlichen Gütern/Kraftomnibus mit Fahrgästen bzw. dessen Anhänger in einem nicht vorschriftsmäßigen Zustand in Betrieb. Die Verkehrssicherheit war dadurch wesentlich beeinträchtigt. Es kam zum Unfall.
 
 TBNR 330632 405,00 € P:B-1
-Sie führten als Halter den kennzeichnungspflichtigen Lastkraftwagen mit gefährlichen Gütern/Kraftomnibus mit Fahrgästen bzw. dessen Anhänger in einem nicht vorschriftsmäßigen Zustand. Die Verkehrssicherheit war dadurch wesentlich beeinträchtigt. **) Mängel angeben
+Sie führten als Halter den kennzeichnungspflichtigen Lastkraftwagen mit gefährlichen Gütern/Kraftomnibus mit Fahrgästen bzw. dessen Anhänger in einem nicht vorschriftsmäßigen Zustand. Die Verkehrssicherheit war dadurch wesentlich beeinträchtigt.
 
 TBNR 330633 487,50 € P:B-1
-Sie führten als Halter den kennzeichnungspflichtigen Lastkraftwagen mit gefährlichen Gütern/Kraftomnibus mit Fahrgästen*) bzw. dessen Anhänger in einem nicht vorschriftsmäßigen Zustand. Die Verkehrssicherheit war dadurch wesentlichbeeinträchtigt. Sie gefährdeten Andere.
+Sie führten als Halter den kennzeichnungspflichtigen Lastkraftwagen mit gefährlichen Gütern/Kraftomnibus mit Fahrgästen bzw. dessen Anhänger in einem nicht vorschriftsmäßigen Zustand. Die Verkehrssicherheit war dadurch wesentlichbeeinträchtigt. Sie gefährdeten Andere.
 
 TBNR 330634 585,00 € P:B-1
-Sie führten als Halter den kennzeichnungspflichtigen Lastkraftwagen mit gefährlichen Gütern/Kraftomnibus mit Fahrgästen bzw. dessen Anhänger in einem nicht vorschriftsmäßigen Zustand. Die Verkehrssicherheit war dadurch wesentlich beeinträchtigt. Es kam zum Unfall. **) Mängel angeben
+Sie führten als Halter den kennzeichnungspflichtigen Lastkraftwagen mit gefährlichen Gütern/Kraftomnibus mit Fahrgästen bzw. dessen Anhänger in einem nicht vorschriftsmäßigen Zustand. Die Verkehrssicherheit war dadurch wesentlich beeinträchtigt. Es kam zum Unfall.
 
 ------ Vorstehende Außenkanten - § 30c StVZO
 
@@ -5236,7 +5236,7 @@ TBNR 331616 487,50 € P:B-1
 Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Lkw mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331617 585,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Lkw mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu. Es kam zum Unfall. **) Mängel angeben
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Lkw mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331621 135,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch einen nicht vorschriftsmäßigen Zustand des Fahrzeugs wesentlich beeinträchtigt war, bzw. ließen sie zu.
@@ -5275,13 +5275,13 @@ TBNR 331632 200,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit des Fahrzeugs durch die Ladung/Besetzung wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331660 75,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/einer Fahrzeugkombination an, obwohl die zugelassene Breite um ..,.. m überschritten war, bzw. ließen sie zu. § 31 Abs. 2, § 32 Abs. 1, 2, 3, 4, § 31d Abs. 1, § 69a StVZO;
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/einer Fahrzeugkombination an, obwohl die zugelassene Breite um ..,.. m überschritten war, bzw. ließen sie zu.
 
 TBNR 331666 75,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/einer Fahrzeugkombination an, obwohl die zugelassene Höhe über alles um..,.. m überschritten war, bzw. ließen sie zu. § 31 Abs. 2, § 32 Abs. 1, 2, 3, 4, § 31d Abs. 1, § 69a StVZO;
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/einer Fahrzeugkombination an, obwohl die zugelassene Höhe über alles um..,.. m überschritten war, bzw. ließen sie zu.
 
 TBNR 331672 75,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/einer Fahrzeugkombination an, obwohl die zugelassene Länge über alles um..,.. m überschritten war, bzw. ließen sie zu. § 31 Abs. 2, § 32 Abs. 1, 2, 3, 4, § 31d Abs. 1, § 69a StVZO;
+Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/einer Fahrzeugkombination an, obwohl die zugelassene Länge über alles um..,.. m überschritten war, bzw. ließen sie zu.
 
 TBNR 331678 75,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Kraftfahrzeugs/einer Fahrzeugkombination an, obwohl die vorgeschriebenen Kurvenlaufeigenschaften nicht eingehalten waren, bzw. ließen sie zu
@@ -6034,7 +6034,7 @@ TBNR 334622 285,00 € P:B-1
 Sie führten das Kraftfahrzeug, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 334623 380,00 € P:B-1
-Sie führten das Kraftfahrzeug, obwohl die zulässige Achslast um ...,.. (mehr als 30) Prozent = ...... kg überschritten war. Festgestellte Achslast:...... kg. Zulässige Achslast: .**)...... kg.
+Sie führten das Kraftfahrzeug, obwohl die zulässige Achslast um ...,.. (mehr als 30) Prozent = ...... kg überschritten war. Festgestellte Achslast:...... kg. Zulässige Achslast: ....... kg.
 
 TBNR 334624 120,00 € P:B-1
 Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern, obwohl die zulässige Achslast um ...,.. (mehr als 5) Prozent = ...... kg überschritten war. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
@@ -6346,7 +6346,7 @@ TBNR 334740 210,00 € P:B-1
 Sie führten die kennzeichnungspflichtige Fahrzeugkombination mit gefährlichen Gütern, obwohl die zulässige Achslast um ...,.. (mehr als 15) Prozent = ...... kg überschritten war. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 334741 285,00 € P:B-1
-Sie führten die kennzeichnungspflichtige Fahrzeugkombination mit gefährlichen Gütern, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war. Festgestellte Achslast:.*)...... kg. Zulässige Achslast:...... kg.
+Sie führten die kennzeichnungspflichtige Fahrzeugkombination mit gefährlichen Gütern, obwohl die zulässige Achslast um ...,.. (mehr als 20) Prozent = ...... kg überschritten war. Festgestellte Achslast:....... kg. Zulässige Achslast:...... kg.
 
 TBNR 334742 427,50 € P:B-1
 Sie führten die kennzeichnungspflichtige Fahrzeugkombination mit gefährlichen Gütern, obwohl die zulässige Achslast um ...,.. (mehr als 25) Prozent = ...... kg überschritten war. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
@@ -6598,10 +6598,10 @@ TBNR 334826 637,50 € P:B-1
 Sie führten als Halter den kennzeichnungspflichtigen Zug mit gefährlichen Gütern, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 25) Prozent = ...... kg überschritten war. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 334827 637,50 € P:B-1
-Sie führten als Halter den kennzeichnungspflichtigen Zug mit gefährlichen Gütern, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 30) Prozent = ...... kg überschritten war. Festgestellte Achslast:...... kg. Zulässige Achslast:**)...... kg.
+Sie führten als Halter den kennzeichnungspflichtigen Zug mit gefährlichen Gütern, obwohl die zulässige Achslast des Anhängers um ...,.. (mehr als 30) Prozent = ...... kg überschritten war. Festgestellte Achslast:...... kg. Zulässige Achslast:...... kg.
 
 TBNR 334328 30,00 €
-Sie führten als Halter die Fahrzeugkombination, obwohl das zulässige Gesamtgewicht um ...,.. (2 - 5) Prozent = ...... kg überschritten war. Festgestelltes Gesamtgewicht: .*)...... kg. Zulässiges Gesamtgewicht:...... kg.
+Sie führten als Halter die Fahrzeugkombination, obwohl das zulässige Gesamtgewicht um ...,.. (2 - 5) Prozent = ...... kg überschritten war. Festgestelltes Gesamtgewicht: ....... kg. Zulässiges Gesamtgewicht:...... kg.
 
 TBNR 334828 140,00 € P:B-1
 Sie führten als Halter die Fahrzeugkombination, obwohl das zulässige Gesamtgewicht um ...,.. (mehr als 5) Prozent = ...... kg überschritten war. Festgestelltes Gesamtgewicht:...... kg. Zulässiges Gesamtgewicht:...... kg.
@@ -7231,7 +7231,7 @@ TBNR 349130 5,00 €
 Sie führten das Kraftfahrzeug/den Anhänger und verstießen dabei gegen eine allgemeine Vorschrift über lichttechnische Einrichtungen.
 
 TBNR 349136 20,00 €
-Sie führten das Kraftfahrzeug/den Anhänger und verstießen dabei gegen das Verbot zum Anbringen anderer als vorgeschriebener oder für zulässig erklärter lichttechnischer Einrichtungen. **) Nicht betriebsbereite oder unzulässige lichttechnische Einrichtung angeben
+Sie führten das Kraftfahrzeug/den Anhänger und verstießen dabei gegen das Verbot zum Anbringen anderer als vorgeschriebener oder für zulässig erklärter lichttechnischer Einrichtungen. technische Einrichtung angeben
 
 ------ Scheinwerfer für Fern- und Abblendlicht - § 50 StVZO
 
@@ -7524,7 +7524,7 @@ TBNR 529512 300,00 € P:B-1
 Sie unterließen es als Fahrzeugführer, Versandstücke, die gefährliche Güter enthalten,/unverpackte gefährliche Gegenstände durch geeignete Mittel, die in der Lage sind, die Güter im Fahrzeug oder Container zurückzuhalten, zu sichern. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 21a GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 238.3 RSEB
 
 TBNR 529518 300,00 € P:B-1
-Sie unterließen es als Fahrzeugführer, bei der Beförderung von gefährlichen Gütern, die mit anderen Gütern befördert wurden, alle Güter so zu sichern oder zu verpacken, dass das Austreten gefährlicher Güter verhindert wird. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 21a GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 238.3 RSEB **) Mängel angeben
+Sie unterließen es als Fahrzeugführer, bei der Beförderung von gefährlichen Gütern, die mit anderen Gütern befördert wurden, alle Güter so zu sichern oder zu verpacken, dass das Austreten gefährlicher Güter verhindert wird. § 29 Abs. 1 GGVSEB; Unterabschnitt 7.5.7.1 ADR iVm § 37 Abs. 1 Nr. 21a GGVSEB; § 10 Abs. 1 Nr. 1 GGBefG; 238.3 RSEB
 
 ------ Anforderungen an das Inbetriebsetzen - § 2 MobHV
 
