@@ -1050,76 +1050,76 @@ TBNR 105611 145,00 € P:A-1
 Sie überholten bei unklarer Verkehrslage. Es kam zum Unfall.
 
 TBNR 105612 150,00 € P:A-1
-Sie überholten an einem Bahnübergang, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. 19.1 BKat; § 19 OWiG
+Sie überholten an einem Bahnübergang, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war.
 
 TBNR 105613 250,00 € P:A-2 FV:1 M
-Sie überholten an einem Bahnübergang, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war, und gefährdeten dadurch Andere. § 5 Abs. 2, § 1 Abs. 2, § 19 Abs. 1, § 49 StVO;
+Sie überholten an einem Bahnübergang, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war, und gefährdeten dadurch Andere.
 
 TBNR 105614 300,00 € P:A-2 FV:1 M
-Sie überholten an einem Bahnübergang, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Es kam zum Unfall. § 5 Abs. 2, § 1 Abs. 2, § 19 Abs. 1, § 49 StVO;
+Sie überholten an einem Bahnübergang, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Es kam zum Unfall.
 
 TBNR 105615 150,00 € P:A-1
 Sie überholten an einem Bahnübergang bei unklarer Verkehrslage.
 
 TBNR 105616 250,00 € P:A-2 FV:1 M
-Sie überholten an einem Bahnübergang bei unklarer Verkehrslage und gefährdeten dadurch Andere. 19.1.1 BKat; § 4 Abs. 1 BKatV; § 19 OWiG
+Sie überholten an einem Bahnübergang bei unklarer Verkehrslage und gefährdeten dadurch Andere.
 
 TBNR 105617 300,00 € P:A-2 FV:1 M
-Sie überholten an einem Bahnübergang bei unklarer Verkehrslage. Es kam zum Unfall. 19.1.2 BKat; § 4 Abs. 1 BKatV; § 19 OWiG
+Sie überholten an einem Bahnübergang bei unklarer Verkehrslage. Es kam zum Unfall.
 
 TBNR 105618 150,00 € P:A-1
-Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei Überholverbotszeichen 276/277. 19.1 BKat; § 19 OWiG
+Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei Überholverbotszeichen 276/277.
 
 TBNR 105619 250,00 € P:A-2 FV:1 M
-Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei Überholverbotszeichen 276/277 und gefährdeten dadurch Andere. § 5 Abs. 2, 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei Überholverbotszeichen 276/277 und gefährdeten dadurch Andere.
 
 TBNR 105620 300,00 € P:A-2 FV:1 M
-Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei Überholverbotszeichen 276/277. Es kam zum Unfall. § 5 Abs. 2, 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei Überholverbotszeichen 276/277. Es kam zum Unfall.
 
 TBNR 105624 150,00 € P:A-1
-Sie überholten bei unklarer Verkehrslage und missachteten dabei Überholverbotszeichen 276/277. 19.1 BKat; § 19 OWIG
+Sie überholten bei unklarer Verkehrslage und missachteten dabei Überholverbotszeichen 276/277.
 
 TBNR 105625 250,00 € P:A-2 FV:1 M
-Sie überholten bei unklarer Verkehrslage, missachteten dabei Überholverbotszeichen 276/277 und gefährdeten dadurch Andere. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten bei unklarer Verkehrslage, missachteten dabei Überholverbotszeichen 276/277 und gefährdeten dadurch Andere.
 
 TBNR 105626 300,00 € P:A-2 FV:1 M
-Sie überholten bei unklarer Verkehrslage und missachteten dabei Überholverbotszeichen 276/277. Es kam zum Unfall. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten bei unklarer Verkehrslage und missachteten dabei Überholverbotszeichen 276/277. Es kam zum Unfall.
 
 TBNR 105630 150,00 € P:A-1
-Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296). 19.1 BKat; § 19 OWiG
+Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296).
 
 TBNR 105631 250,00 € P:A-2 FV:1 M
-Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296) und gefährdeten dadurch Andere. § 5 Abs. 2, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296) und gefährdeten dadurch Andere.
 
 TBNR 105632 300,00 € P:A-2 FV:1 M
-Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall. § 5 Abs. 2, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig über die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall.
 
 TBNR 105636 150,00 € P:A-1
-Sie überholten bei unklarer Verkehrslage und missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296). 19.1 BKat; § 19 OWiG
+Sie überholten bei unklarer Verkehrslage und missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296).
 
 TBNR 105637 250,00 € P:A-2 FV:1 M
-Sie überholten bei unklarer Verkehrslage, missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296) und gefährdeten dadurch Andere. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten bei unklarer Verkehrslage, missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296) und gefährdeten dadurch Andere.
 
 TBNR 105638 300,00 € P:A-2 FV:1 M
-Sie überholten bei unklarer Verkehrslage und missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten bei unklarer Verkehrslage und missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall.
 
 TBNR 105642 150,00 € P:A-1
-Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). 19.1 BKat; § 19 OWiG
+Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297).
 
 TBNR 105643 250,00 € P:A-2 FV:1 M
-Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgegebenen Fahrtrichtung (Zeichen 297) und gefährdeten dadurch Andere. § 5 Abs. 2, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgegebenen Fahrtrichtung (Zeichen 297) und gefährdeten dadurch Andere.
 
 TBNR 105644 300,00 € P:A-2 FV:1 M
-Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgegebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. § 5 Abs. 2, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten, obwohl Sie nicht übersehen konnten, dass während des gesamten Überholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgegebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall.
 
 TBNR 105648 150,00 € P:A-1
-Sie überholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). 19.1 BKat; § 19 OWiG
+Sie überholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297).
 
 TBNR 105649 250,00 € P:A-2 FV:1 M
-Sie überholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Sie gefährdeten dadurch Andere. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Sie gefährdeten dadurch Andere.
 
 TBNR 105650 300,00 € P:A-2 FV:1 M
-Sie überholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. § 5 Abs. 3, § 1 Abs. 2, § 41 Abs. 1 iVm Anlage 2, § 49 StVO;
+Sie überholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall.
 
 ------ Überholen - § 5 Abs. 3a StVO
 
@@ -5353,28 +5353,28 @@ TBNR 331738 270,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Lastkraftwagens/KOM bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331739 325,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/KOM bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. § 31 Abs. 2, § 43 Abs. 1, 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/KOM bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331740 390,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Lastkraftwagens/KOM bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. § 31 Abs. 2, § 43 Abs. 1, 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO; 331738 - 331740
+Sie ordneten die Inbetriebnahme eines Lastkraftwagens/KOM bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. 331738 - 331740
 
 TBNR 331742 405,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331743 487,50 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. § 31 Abs. 2, § 43 Abs. 1, 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331744 585,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. § 31 Abs. 2, § 43 Abs. 1, 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. Gütern/KOM mit Fahrgästen bzw. dessen Anhängers an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331745 135,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu.
 
 TBNR 331746 165,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere. § 31 Abs. 2, § 43 Abs. 1, 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu und gefährdeten dadurch Andere.
 
 TBNR 331747 200,00 € P:B-1
-Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall. § 31 Abs. 2, § 43 Abs. 1, 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Verstoß gegen eine Vorschrift über Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeinträchtigt wurde, bzw. ließen sie zu. Es kam zum Unfall.
 
 TBNR 331754 150,00 € P:B-1
 Sie ordneten die Inbetriebnahme eines Kraftomnibusses/eines Lkw/einer Zugmaschine/einer Sattelzugmaschine mit einer zulässigen Gesamtmasse von mehr als 3,5 t an, obwohl das Fahrzeug nicht mit dem vorgeschriebenen Geschwindigkeitsbegrenzer ausgerüstet war, bzw. ließen sie zu. 224 BKat
@@ -6751,37 +6751,37 @@ TBNR 336606 60,00 € P:B-1
 Sie führten das Kraftfahrzeug bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß.
 
 TBNR 336607 75,00 € P:B-1
-Sie führten das Kraftfahrzeug bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß, und gefährdeten dadurch Andere. § 36 Abs. 3, § 31d Abs. 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie führten das Kraftfahrzeug bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß, und gefährdeten dadurch Andere.
 
 TBNR 336608 90,00 € P:B-1
-Sie führten das Kraftfahrzeug bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß. Es kam zum Unfall. § 36 Abs. 3, § 31d Abs. 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie führten das Kraftfahrzeug bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß. Es kam zum Unfall.
 
 TBNR 336612 90,00 € P:B-1
 Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen besaß.
 
 TBNR 336613 112,50 € P:B-1
-Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen besaß, und gefährdeten dadurch Andere. § 36 Abs. 3, § 31d Abs. 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen besaß, und gefährdeten dadurch Andere.
 
 TBNR 336614 135,00 € P:B-1
-Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen besaß. Es kam zum Unfall. § 36 Abs. 3, § 31d Abs. 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie führten das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen besaß. Es kam zum Unfall.
 
 TBNR 336618 75,00 € P:B-1
 Sie führten als Halter das Kraftfahrzeug bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß.
 
 TBNR 336619 90,00 € P:B-1
-Sie führten als Halter das Kraftfahrzeug bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß, und gefährdeten dadurch Andere. § 36 Abs. 3, § 31d Abs. 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie führten als Halter das Kraftfahrzeug bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß, und gefährdeten dadurch Andere.
 
 TBNR 336620 110,00 € P:B-1
-Sie führten als Halter das Kraftfahrzeug bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß. Es kam zum Unfall. § 36 Abs. 3, § 31d Abs. 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie führten als Halter das Kraftfahrzeug bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß. Es kam zum Unfall.
 
 TBNR 336624 112,50 € P:B-1
 Sie führten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß.
 
 TBNR 336625 135,00 € P:B-1
-Sie führten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß, und gefährdeten dadurch Andere. § 36 Abs. 3, § 31d Abs. 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie führten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß, und gefährdeten dadurch Andere.
 
 TBNR 336626 165,00 € P:B-1
-Sie führten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß. Es kam zum Unfall. § 36 Abs. 3, § 31d Abs. 4, § 69a StVZO; § 1 Abs. 2, § 49 StVO;
+Sie führten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gefährlichen Gütern/den Kraftomnibus mit Fahrgästen bzw. dessen Anhänger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besaß. Es kam zum Unfall.
 
 TBNR 336106 15,00 €
 Sie führten das Kraftfahrzeug bzw. dessen Anhänger, obwohl es unzulässig auf einer Achse mit Diagonal- und Radialreifen ausgerüstet war.

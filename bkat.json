@@ -3071,27 +3071,27 @@
         },
         {
             "tbnr": "105612",
-            "txt": "Sie \u00fcberholten an einem Bahn\u00fcbergang, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. 19.1 BKat; \u00a7 19 OWiG",
+            "txt": "Sie \u00fcberholten an einem Bahn\u00fcbergang, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war.",
             "eur": "150,00",
-            "legal": "\u00a7 5 Abs. 2, \u00a7 19 Abs. 1, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "19.1 BKat; \u00a7 19 OWiG",
             "p": "A-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "105613",
-            "txt": "Sie \u00fcberholten an einem Bahn\u00fcbergang, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war, und gef\u00e4hrdeten dadurch Andere. \u00a7 5 Abs. 2, \u00a7 1 Abs. 2, \u00a7 19 Abs. 1, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten an einem Bahn\u00fcbergang, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war, und gef\u00e4hrdeten dadurch Andere.",
             "eur": "250,00",
-            "legal": "\u00a7 5 Abs. 2, \u00a7 19 Abs. 1, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105614",
-            "txt": "Sie \u00fcberholten an einem Bahn\u00fcbergang, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Es kam zum Unfall. \u00a7 5 Abs. 2, \u00a7 1 Abs. 2, \u00a7 19 Abs. 1, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten an einem Bahn\u00fcbergang, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Es kam zum Unfall.",
             "eur": "300,00",
-            "legal": "\u00a7 5 Abs. 2, \u00a7 19 Abs. 1, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG \u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
@@ -3107,180 +3107,180 @@
         },
         {
             "tbnr": "105616",
-            "txt": "Sie \u00fcberholten an einem Bahn\u00fcbergang bei unklarer Verkehrslage und gef\u00e4hrdeten dadurch Andere. 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "txt": "Sie \u00fcberholten an einem Bahn\u00fcbergang bei unklarer Verkehrslage und gef\u00e4hrdeten dadurch Andere.",
             "eur": "250,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 19 Abs. 1, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG;",
+            "legal": "19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105617",
-            "txt": "Sie \u00fcberholten an einem Bahn\u00fcbergang bei unklarer Verkehrslage. Es kam zum Unfall. 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "txt": "Sie \u00fcberholten an einem Bahn\u00fcbergang bei unklarer Verkehrslage. Es kam zum Unfall.",
             "eur": "300,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 19 Abs. 1, \u00a7 49 StVO; \u00a7 24, \u00a7 25 StVG;",
+            "legal": "19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105618",
-            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei \u00dcberholverbotszeichen 276/277. 19.1 BKat; \u00a7 19 OWiG",
+            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei \u00dcberholverbotszeichen 276/277.",
             "eur": "150,00",
-            "legal": "\u00a7 5 Abs. 2, 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "19.1 BKat; \u00a7 19 OWiG",
             "p": "A-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "105619",
-            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei \u00dcberholverbotszeichen 276/277 und gef\u00e4hrdeten dadurch Andere. \u00a7 5 Abs. 2, 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei \u00dcberholverbotszeichen 276/277 und gef\u00e4hrdeten dadurch Andere.",
             "eur": "250,00",
-            "legal": "\u00a7 5 Abs. 2, 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105620",
-            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei \u00dcberholverbotszeichen 276/277. Es kam zum Unfall. \u00a7 5 Abs. 2, 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs jede Behinderung des Gegenverkehrs ausgeschlossen war. Sie missachteten dabei \u00dcberholverbotszeichen 276/277. Es kam zum Unfall.",
             "eur": "300,00",
-            "legal": "\u00a7 5 Abs. 2, 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG \u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105624",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und missachteten dabei \u00dcberholverbotszeichen 276/277. 19.1 BKat; \u00a7 19 OWIG",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und missachteten dabei \u00dcberholverbotszeichen 276/277.",
             "eur": "150,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "19.1 BKat; \u00a7 19 OWIG",
             "p": "A-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "105625",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage, missachteten dabei \u00dcberholverbotszeichen 276/277 und gef\u00e4hrdeten dadurch Andere. \u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage, missachteten dabei \u00dcberholverbotszeichen 276/277 und gef\u00e4hrdeten dadurch Andere.",
             "eur": "250,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105626",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und missachteten dabei \u00dcberholverbotszeichen 276/277. Es kam zum Unfall. \u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und missachteten dabei \u00dcberholverbotszeichen 276/277. Es kam zum Unfall.",
             "eur": "300,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG \u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105630",
-            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig \u00fcber die Fahrstreifenbegrenzung (Zeichen 295/296). 19.1 BKat; \u00a7 19 OWiG",
+            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig \u00fcber die Fahrstreifenbegrenzung (Zeichen 295/296).",
             "eur": "150,00",
-            "legal": "\u00a7 5 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "19.1 BKat; \u00a7 19 OWiG",
             "p": "A-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "105631",
-            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig \u00fcber die Fahrstreifenbegrenzung (Zeichen 295/296) und gef\u00e4hrdeten dadurch Andere. \u00a7 5 Abs. 2, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig \u00fcber die Fahrstreifenbegrenzung (Zeichen 295/296) und gef\u00e4hrdeten dadurch Andere.",
             "eur": "250,00",
-            "legal": "\u00a7 5 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105632",
-            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig \u00fcber die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall. \u00a7 5 Abs. 2, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie fuhren verbotswidrig \u00fcber die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall.",
             "eur": "300,00",
-            "legal": "\u00a7 5 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG \u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105636",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296). 19.1 BKat; \u00a7 19 OWiG",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296).",
             "eur": "150,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "19.1 BKat; \u00a7 19 OWiG",
             "p": "A-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "105637",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage, missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296) und gef\u00e4hrdeten dadurch Andere. \u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage, missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296) und gef\u00e4hrdeten dadurch Andere.",
             "eur": "250,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105638",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall. \u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und missachteten dabei die Fahrstreifenbegrenzung (Zeichen 295/296). Es kam zum Unfall.",
             "eur": "300,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG \u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105642",
-            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). 19.1 BKat; \u00a7 19 OWiG",
+            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297).",
             "eur": "150,00",
-            "legal": "\u00a7 5 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "19.1 BKat; \u00a7 19 OWiG",
             "p": "A-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "105643",
-            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgegebenen Fahrtrichtung (Zeichen 297) und gef\u00e4hrdeten dadurch Andere. \u00a7 5 Abs. 2, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgegebenen Fahrtrichtung (Zeichen 297) und gef\u00e4hrdeten dadurch Andere.",
             "eur": "250,00",
-            "legal": "\u00a7 5 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105644",
-            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgegebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. \u00a7 5 Abs. 2, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten, obwohl Sie nicht \u00fcbersehen konnten, dass w\u00e4hrend des gesamten \u00dcberholvorgangs eine Behinderung des Gegenverkehrs ausgeschlossen war. Sie folgten nicht der durch Pfeile vorgegebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall.",
             "eur": "300,00",
-            "legal": "\u00a7 5 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG \u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105648",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). 19.1 BKat; \u00a7 19 OWiG",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297).",
             "eur": "150,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG;",
+            "legal": "19.1 BKat; \u00a7 19 OWiG",
             "p": "A-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "105649",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Sie gef\u00e4hrdeten dadurch Andere. \u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Sie gef\u00e4hrdeten dadurch Andere.",
             "eur": "250,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
         },
         {
             "tbnr": "105650",
-            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall. \u00a7 5 Abs. 3, \u00a7 1 Abs. 2, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO;",
+            "txt": "Sie \u00fcberholten bei unklarer Verkehrslage und folgten nicht der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297). Es kam zum Unfall.",
             "eur": "300,00",
-            "legal": "\u00a7 5 Abs. 3, \u00a7 41 Abs. 1 iVm Anlage 2, \u00a7 49 StVO; \u00a7 24 StVG; \u00a7 24, \u00a7 25 StVG; 19.1.1 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG \u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24, \u00a7 25 StVG; 19.1.2 BKat; \u00a7 4 Abs. 1 BKatV; \u00a7 19 OWiG",
             "p": "A-2",
             "fv": "1 M",
             "stand": "20171101"
@@ -15446,18 +15446,18 @@
         },
         {
             "tbnr": "331739",
-            "txt": "Sie ordneten die Inbetriebnahme eines Lastkraftwagens/KOM bzw. dessen Anh\u00e4ngers an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu und gef\u00e4hrdeten dadurch Andere. \u00a7 31 Abs. 2, \u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie ordneten die Inbetriebnahme eines Lastkraftwagens/KOM bzw. dessen Anh\u00e4ngers an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu und gef\u00e4hrdeten dadurch Andere.",
             "eur": "325,00",
-            "legal": "\u00a7 31 Abs. 2, \u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 24 StVG; 189.2.1 BKat \u00a7 24 StVG; 189.2.1 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 189.2.1 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "331740",
-            "txt": "Sie ordneten die Inbetriebnahme eines Lastkraftwagens/KOM bzw. dessen Anh\u00e4ngers an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu. Es kam zum Unfall. \u00a7 31 Abs. 2, \u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO; 331738 - 331740",
+            "txt": "Sie ordneten die Inbetriebnahme eines Lastkraftwagens/KOM bzw. dessen Anh\u00e4ngers an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu. Es kam zum Unfall. 331738 - 331740",
             "eur": "390,00",
-            "legal": "\u00a7 31 Abs. 2, \u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 24 StVG; 189.2.1 BKat \u00a7 24 StVG; 189.2.1 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG \u00a7 24 StVG; 189.2.1 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 189.2.1 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
@@ -15473,18 +15473,18 @@
         },
         {
             "tbnr": "331743",
-            "txt": "Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. G\u00fctern/KOM mit Fahrg\u00e4sten bzw. dessen Anh\u00e4ngers an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu und gef\u00e4hrdeten dadurch Andere. \u00a7 31 Abs. 2, \u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. G\u00fctern/KOM mit Fahrg\u00e4sten bzw. dessen Anh\u00e4ngers an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu und gef\u00e4hrdeten dadurch Andere.",
             "eur": "487,50",
-            "legal": "\u00a7 3 Abs. 4 BKatV \u00a7 24 StVG; 189.2.1 BKat; \u00a7 3 Abs. 3, 4 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 189.2.1 BKat; \u00a7 3 Abs. 3, 4 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "331744",
-            "txt": "Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. G\u00fctern/KOM mit Fahrg\u00e4sten bzw. dessen Anh\u00e4ngers an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu. Es kam zum Unfall. \u00a7 31 Abs. 2, \u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie ordneten die Inbetriebnahme eines kennzeichnungspflichtigen Kfz mit gef. G\u00fctern/KOM mit Fahrg\u00e4sten bzw. dessen Anh\u00e4ngers an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu. Es kam zum Unfall.",
             "eur": "585,00",
-            "legal": "\u00a7 3 Abs. 4 BKatV \u00a7 24 StVG; 189.2.1 BKat; \u00a7 3 Abs. 3, 4 BKatV; \u00a7 19 OWiG \u00a7 24 StVG; 189.2.1 BKat; \u00a7 3 Abs. 3, 4 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 189.2.1 BKat; \u00a7 3 Abs. 3, 4 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
@@ -15500,18 +15500,18 @@
         },
         {
             "tbnr": "331746",
-            "txt": "Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu und gef\u00e4hrdeten dadurch Andere. \u00a7 31 Abs. 2, \u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu und gef\u00e4hrdeten dadurch Andere.",
             "eur": "165,00",
-            "legal": "\u00a7 31 Abs. 2, \u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 24 StVG; 189.2.2 BKat \u00a7 24 StVG; 189.2.2 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 189.2.2 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "331747",
-            "txt": "Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu. Es kam zum Unfall. \u00a7 31 Abs. 2, \u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie ordneten die Inbetriebnahme eines Fahrzeugs an, obwohl die Verkehrssicherheit durch den Versto\u00df gegen eine Vorschrift \u00fcber Einrichtungen zur Verbindung von Fahrzeugen wesentlich beeintr\u00e4chtigt wurde, bzw. lie\u00dfen sie zu. Es kam zum Unfall.",
             "eur": "200,00",
-            "legal": "\u00a7 31 Abs. 2, \u00a7 43 Abs. 1, 4, \u00a7 69a StVZO; \u00a7 24 StVG; 189.2.2 BKat \u00a7 24 StVG; 189.2.2 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG \u00a7 24 StVG; 189.2.2 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 189.2.2 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
@@ -19550,18 +19550,18 @@
         },
         {
             "tbnr": "336607",
-            "txt": "Sie f\u00fchrten das Kraftfahrzeug bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df, und gef\u00e4hrdeten dadurch Andere. \u00a7 36 Abs. 3, \u00a7 31d Abs. 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie f\u00fchrten das Kraftfahrzeug bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df, und gef\u00e4hrdeten dadurch Andere.",
             "eur": "75,00",
-            "legal": "\u00a7 36 Abs. 3, \u00a7 31d Abs. 4 *), \u00a7 69a StVZO; \u00a7 24 StVG; 212 BKat \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "336608",
-            "txt": "Sie f\u00fchrten das Kraftfahrzeug bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df. Es kam zum Unfall. \u00a7 36 Abs. 3, \u00a7 31d Abs. 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie f\u00fchrten das Kraftfahrzeug bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df. Es kam zum Unfall.",
             "eur": "90,00",
-            "legal": "\u00a7 36 Abs. 3, \u00a7 31d Abs. 4 *), \u00a7 69a StVZO; \u00a7 24 StVG; 212 BKat \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 3 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
@@ -19577,18 +19577,18 @@
         },
         {
             "tbnr": "336613",
-            "txt": "Sie f\u00fchrten das kennzeichnungspflichtige Kraftfahrzeug mit gef\u00e4hrlichen G\u00fctern/den Kraftomnibus mit Fahrg\u00e4sten bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen besa\u00df, und gef\u00e4hrdeten dadurch Andere. \u00a7 36 Abs. 3, \u00a7 31d Abs. 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie f\u00fchrten das kennzeichnungspflichtige Kraftfahrzeug mit gef\u00e4hrlichen G\u00fctern/den Kraftomnibus mit Fahrg\u00e4sten bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen besa\u00df, und gef\u00e4hrdeten dadurch Andere.",
             "eur": "112,50",
-            "legal": "\u00a7 3 Abs. 4 BKatV \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 3, 4 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 3, 4 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "336614",
-            "txt": "Sie f\u00fchrten das kennzeichnungspflichtige Kraftfahrzeug mit gef\u00e4hrlichen G\u00fctern/den Kraftomnibus mit Fahrg\u00e4sten bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen besa\u00df. Es kam zum Unfall. \u00a7 36 Abs. 3, \u00a7 31d Abs. 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie f\u00fchrten das kennzeichnungspflichtige Kraftfahrzeug mit gef\u00e4hrlichen G\u00fctern/den Kraftomnibus mit Fahrg\u00e4sten bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen besa\u00df. Es kam zum Unfall.",
             "eur": "135,00",
-            "legal": "\u00a7 3 Abs. 4 BKatV \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 3, 4 BKatV; \u00a7 19 OWiG \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 3, 4 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 3, 4 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
@@ -19604,18 +19604,18 @@
         },
         {
             "tbnr": "336619",
-            "txt": "Sie f\u00fchrten als Halter das Kraftfahrzeug bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df, und gef\u00e4hrdeten dadurch Andere. \u00a7 36 Abs. 3, \u00a7 31d Abs. 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie f\u00fchrten als Halter das Kraftfahrzeug bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df, und gef\u00e4hrdeten dadurch Andere.",
             "eur": "90,00",
-            "legal": "\u00a7 3 Abs. 2 BKatV \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 2, 3 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 2, 3 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "336620",
-            "txt": "Sie f\u00fchrten als Halter das Kraftfahrzeug bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df. Es kam zum Unfall. \u00a7 36 Abs. 3, \u00a7 31d Abs. 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie f\u00fchrten als Halter das Kraftfahrzeug bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df. Es kam zum Unfall.",
             "eur": "110,00",
-            "legal": "\u00a7 3 Abs. 2 BKatV \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 2, 3 BKatV; \u00a7 19 OWiG \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 2, 3 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 2, 3 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
@@ -19631,18 +19631,18 @@
         },
         {
             "tbnr": "336625",
-            "txt": "Sie f\u00fchrten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gef\u00e4hrlichen G\u00fctern/den Kraftomnibus mit Fahrg\u00e4sten bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df, und gef\u00e4hrdeten dadurch Andere. \u00a7 36 Abs. 3, \u00a7 31d Abs. 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie f\u00fchrten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gef\u00e4hrlichen G\u00fctern/den Kraftomnibus mit Fahrg\u00e4sten bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df, und gef\u00e4hrdeten dadurch Andere.",
             "eur": "135,00",
-            "legal": "\u00a7 3 Abs. 2, 4 BKatV \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 2, 3, 4 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 2, 3, 4 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"
         },
         {
             "tbnr": "336626",
-            "txt": "Sie f\u00fchrten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gef\u00e4hrlichen G\u00fctern/den Kraftomnibus mit Fahrg\u00e4sten bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df. Es kam zum Unfall. \u00a7 36 Abs. 3, \u00a7 31d Abs. 4, \u00a7 69a StVZO; \u00a7 1 Abs. 2, \u00a7 49 StVO;",
+            "txt": "Sie f\u00fchrten als Halter das kennzeichnungspflichtige Kraftfahrzeug mit gef\u00e4hrlichen G\u00fctern/den Kraftomnibus mit Fahrg\u00e4sten bzw. dessen Anh\u00e4nger, obwohl dessen Reifen keine ausreichende Profil- oder Einschnitttiefe bzw. keine ausreichenden Profilrillen oder Einschnitte besa\u00df. Es kam zum Unfall.",
             "eur": "165,00",
-            "legal": "\u00a7 3 Abs. 2, 4 BKatV \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 2, 3, 4 BKatV; \u00a7 19 OWiG \u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 2, 3, 4 BKatV; \u00a7 19 OWiG",
+            "legal": "\u00a7 24 StVG; 212 BKat; \u00a7 3 Abs. 2, 3, 4 BKatV; \u00a7 19 OWiG",
             "p": "B-1",
             "fv": "",
             "stand": "20171101"

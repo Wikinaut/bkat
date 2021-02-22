@@ -183,7 +183,7 @@ def main():
                 if (aggregate):
                     ln = filter( line ).strip()
                     if ( ln != "" ):
-                        if ( re.search( "^§.*(BKat|OWiG|BkatV|StVG);?$", ln, flags=re.IGNORECASE ) ):
+                        if ( re.search( "^(§|19\.).*(BKat|OWiG|BkatV|StVG|StVO);?$", ln, flags=re.IGNORECASE ) ):
                             if ( buf[-1] != ";" ):
                                 # buf = buf + "\n"+filter( line ).strip()
                                 legal = filter( line ).strip()
