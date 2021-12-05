@@ -1,4 +1,6 @@
 Bkat Stand: 09.11.2021 – 14. Auflage
+https://wikinaut.github.io/bkat/bkat.txt
+
 Quelle: https://www.kba.de/DE/Themen/ZentraleRegister/FAER/BT_KAT_OWI/btkat_node.html
 Repository: https://github.com/Wikinaut/bkat
 
